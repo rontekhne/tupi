@@ -398,6 +398,48 @@
     </a>
     <a>
         <id>56</id>
+        <word>abati</word>
+        <class>substantivo</class>
+        <meaning>1) AVATI, ABATI, AUATI, milho, planta da família das gramíneas (Zea mais L.) (Staden, Viagem, 67): <tp>Atupá-rung abati.</tp> - Estabeleci uma plantação de milho. (VLB, II, 81);&#xA;2) o grão dessa planta&#xA;• <tp>abati-'y</tp> - ABATINI, variedade de bebida feita de milho; vinho de milho (D'Abbeville, Histoire, 207; Marcgrave,Hist. Nat. Eras., 274; Thevet, Les Sing. de la France Antarct., 56v); <tp>abati-tyba</tp> - milharada, milharal; <tp>abatigûasu</tp> (ou <tp>abati-atã</tp> ou <tp>abati-peba</tp>) - milho zaburro; <tp>abati-una</tp> - milho preto; <tp>abati-eté</tp> - milho verdadeiro (em oposição às suas variedades menos comuns); <tp>abati-tinga</tp> - milho de que se faz pão (VLB, II, 38)&#xA;NOTA - Daí provêm, no português brasileiro ABATIAPÉ ("milho de casca"), variedade de arroz encontrado em estado silvestre nas margens dos lagos amazônicos, arroz-bravo; ABATIGUERA (abati + pûer + -a, "milho que foi"), milharal já colhido e extinto, roça depois de efetuada a colheita; BATUERA, BATUEIRA (abati + pûer + -a, "milho que foi"), sabugo de milho; BATITÉ(ou CATETE ou CATETO) (abati + eté, "milho muito bom"), certa espécie de milho miúdo. Daí também, pelo nheengatu, o nome geográfico AUATI-PARANÁ (Amazonas).</meaning>
+        <source>65,160,169,126,150,163</source>
+    </a>
+    <a>
+        <id>57</id>
+        <word>abati'i</word>
+        <class>substantivo</class>
+        <meaning>(etimologia - milhozinho) - 1) arroz (VLB, I, 44);&#xA;2) trigo (VLB, IT, 137);&#xA;3) xerém, variedade de milho miúdo (VLB, IT, 149)&#xA;NOTA - Em Iracema, de José de Alencar, lemos "O coração de Iracema está como o ABATI n'água do rio", significando, aí, arroz</meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>58</id>
+        <word>abati'imirĩ</word>
+        <class>substantivo</class>
+        <meaning>ABATIMIRIM, planta da família das gramíneas, variedade de arroz com grão avermelhado e pequeno (VLB, I, 44)</meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>59</id>
+        <word>abati'itinga</word>
+        <class>substantivo</class>
+        <meaning>(etimologia - milhozinho branco) - trigo (VLB, II, 137)</meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>60</id>
+        <word>abatimirĩ</word>
+        <class>substantivo</class>
+        <meaning> (etimologia - milho pequeno) - 1) xerém, variedade de milho miúdo (VLB, II, 149);&#xA;2) trigo (VLB, II, 137)</meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>61</id>
+        <word>Abatiposanga</word>
+        <class>substantivo antropônimo</class>
+        <meaning>(etimologia - remédio de milho) - nome de índio tupi (Staden, Viagem, 116)</meaning>
+        <source>65,160</source>
+    </a>
+    <a>
+        <id>62</id>
         <word></word>
         <class></class>
         <meaning></meaning>

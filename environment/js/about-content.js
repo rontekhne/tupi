@@ -66,7 +66,7 @@ function showAboutContent() {
         </p>
     </div>
     <div class="about-content">
-        <p><i class="fa fa-envelope" aria-hidden="true"></i> antigotupi@gmail.com</p>
+        <p><i class="fa fa-envelope" aria-hidden="true"></i> rontekhne@gmail.com</p>
         <p><i class="fa fa-wrench" aria-hidden="true"></i><a class="rontekhne-link" href="https://rontekhne.github.io" target="_blank"> RonTekhne</a>, 2024</p>
     </div>
     `;

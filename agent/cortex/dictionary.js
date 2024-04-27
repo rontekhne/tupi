@@ -3,7 +3,6 @@
 function loadXML(filename, callback) {
     var xmlhttp = new XMLHttpRequest();
 
-    //var pathToXML = 'https://tupiantigo.github.io/agent/memory/' + filename;
     var pathToXML = '../../agent/memory/' + filename; 
 
     xmlhttp.onreadystatechange = function() {
