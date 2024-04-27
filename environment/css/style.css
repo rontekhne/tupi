@@ -1,0 +1,138 @@
+ul[class],
+ol[class] {
+  padding: 0;
+}
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul[class],
+ol[class],
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+* {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.Tabs_wrap {
+  display: flex;
+  justify-content: center;
+}
+.Tabs {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  max-width: 1115px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+.tab {
+  width: 100%; 
+  display: none;
+  border-radius: 7px;
+}
+.tab_content_wrap {
+  display: flex;
+  justify-content: left;
+}
+.tab_content {
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+  text-align: left;
+}
+.tab_content p {
+  height: 100%;
+  text-align:justify;
+  hyphens: auto;
+  color: #17191b;
+}
+
+.tab.active {
+  display: block;
+  transition: all 300ms ease;
+}
+.nav-tab.active {
+  color: #98c474;
+  transition: all 300ms ease;
+}
+.nav__item a {
+  transition: all 400ms ease;
+}
+.nav__item a:hover {
+  transition: all 400ms ease;
+  color: #98c474;
+}
+.nav__item :after {
+  background-color: #98c474;
+  display: block;
+  content: "";
+  height: 4px;
+  width: 0%;
+  transition: all 300ms ease;
+  top: 5px;
+  position: relative;
+  border-radius: 2px;
+}
+.nav__item :hover:after,
+.nav__item :focus :after {
+  width: 100%;
+}
+.active:after {
+  width: 100%;
+}
+.nav {
+  margin-top: 30px;
+  margin-bottom: 20px;
+  z-index: 99999999;
+}
+.nav ul li {
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 200ms ease;
+}
+.nav ul li:hover {
+  transition: all 300ms ease;
+}
+.nav ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+.nav ul li {
+  padding-right: 15px;
+  padding-left: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.nav ul a {
+  font-style: normal;
+  font-weight: 200;
+  font-size: 22px;
+  line-height: 18px;
+  height: 100%;
+  color: #17191b;
+}
+
+.indent {
+  text-indent: 40px;
+  margin-top: 5px;
+}

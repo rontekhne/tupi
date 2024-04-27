@@ -1,0 +1,80 @@
+.main-page {
+    padding: 20px 20px 20px 20px;
+    margin: 25px 15px 25px 15px;
+    border-radius: 1em;
+    display: flex;
+    color: #17191b;
+    box-shadow: rgba(152 , 196, 116, 0.25) 0px 4px 8px -2px, rgba(152 , 196 ,116, 0.08) 0px 0px 0px 1px;
+}
+
+.main-title {
+    margin-top: 20px;
+}
+
+.main-content {
+    padding: 20px 20px 20px 20px;
+    margin: 25px 15px 25px 15px;
+    border-radius: 1em;
+    color: #17191b;
+    font-size: 20px;
+    box-shadow: rgba(152 , 196, 116, 0.25) 0px 4px 8px -2px, rgba(152 , 196 ,116, 0.08) 0px 0px 0px 1px;
+}
+
+.main-img-card {
+    margin: 25px 15px 25px 15px;
+    border-radius: 1em;
+    border: solid #98c474 1px;
+    color: #17191b;
+}
+
+.img-card {
+    width: 100%;
+    border-radius: 1em;
+}
+
+.caption {
+    text-align: center;
+    font-size: 12px;
+}
+
+@keyframes leaf-animation {
+    0%, 100% { transform: rotate(0deg) translateY(0); }
+    25% { transform: rotate(-3deg) translateY(-5px); }
+    50% { transform: rotate(3deg) translateY(5px); }
+    75% { transform: rotate(-3deg) translateY(-5px);}
+}
+
+.main-logo {
+    width: 64px;
+    margin-top: 5px;
+    height: auto;
+    animation-name: leaf-animation;
+    animation-duration: 4s;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: linear; 
+    will-change: transform;
+    animation-fill-mode: forwards; 
+}
+  
+
+#spin {
+    color: #98c474;
+}
+#spin:after {
+  content:"";
+  animation: spin 5s linear;
+  animation-fill-mode: forwards;
+}
+@keyframes spin {
+  0%  { content: "Tupi"; }
+  10% { content: "Antigo"; }
+  20% { content: "Dicionário"; }
+  30% { content: "Indígena"; }
+  40% { content: "Linguística"; }
+  50% { content: "Cultura"; }
+  60% { content: "História"; }
+  70% { content: "Futuro"; }
+  80% { content: "Natureza"; }
+  90% { content: "Verde"; }
+  100% { content: "Tupi Antigo"; }
+}

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="Tupi Antigo" />
+    <meta property="og:description" content="Aplicação destinada ao estudo e processamento de linguagem Tupi Antigo." />
+    <meta property="og:image" content="https://tupiantigo.github.io/environment/img/tupi-icon.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://tupiantigo.github.io/" />
+    <link rel="icon" type="image/png" href="../img/tupi-icon.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://tupiantigo.github.io/environment/css/style.css">
+    <link rel="stylesheet" href="https://tupiantigo.github.io/environment/css/main.css">
+    <link rel="stylesheet" href="https://tupiantigo.github.io/environment/css/dictionary.css">
+    <link rel="stylesheet" href="https://tupiantigo.github.io/environment/css/about.css">
+    <title>Tupi Antigo | Principal</title>
+</head>
+<body>
+    <!-- Navigation -->
+    <div class="nav">
+        <ul>
+          <li class="nav__item">
+            <a href="#main" data-tab="main" class="nav-tab active"> Principal </a>
+          </li>
+          <li class="nav__item">
+            <a href="#dictionary" data-tab="dictionary" class="nav-tab"> Dicionário </a>
+          </li>
+          <li class="nav__item">
+            <a href="#about" data-tab="about" class="nav-tab"> Sobre </a>
+          </li>
+        </ul>
+      </div>
+
+      <div class="Tabs_wrap">
+        <div class="Tabs">
+
+          <!-- Main page -->
+          <div id="main" class="tab active">
+            <div class="tab_content_wrap">
+              <div class="tab_content">
+                <div class="main-page">
+                  <img class="main-logo" src="https://tupiantigo.github.io/environment/img/tupi-icon.png" alt="logo">
+                  <h1 class="main-title"><span id="spin"></span></h1>
+                </div>
+                <div id="main-container"></div>
+                <!--script src="https://tupiantigo.github.io/environment/js/main-content.js"></script-->
+                <script src="../js/main-content.js"></script>
+              </div>
+            </div>
+          </div>
+
+          <!-- Dictionary page -->
+          <div id="dictionary" class="tab">
+            <div class="tab_content_wrap">
+              <div class="tab_content">
+                  <div class="dictionary-search">
+                    <input type="text" id="wordInput" class="word-input" placeholder="Digite uma palavra em Tupi"><br>
+                    <button onclick="searchWord()" class="search-btn"><i class="fa fa-search" aria-hidden="true"></i></button><br>
+                  </div>
+                  <div class="dictionary-card">
+                    <div id="result"></div>  
+                  </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- About page -->
+          <div id="about" class="tab">
+            <div class="tab_content_wrap">
+              <div class="tab_content">
+                <div id="about-content"></div>
+                <script src="https://tupiantigo.github.io/environment/js/about-content.js"></script>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+      <script src="https://tupiantigo.github.io/environment/js/script.js"></script>
+      
+      <!--script src="https://tupiantigo.github.io/agent/cortex/dictionary.js"></script-->
+      <script src="../../agent/cortex/dictionary.js"></script>
+  </body>
+</html>

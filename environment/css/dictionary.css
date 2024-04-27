@@ -1,0 +1,68 @@
+.dictionary-search {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 25px 15px 25px 15px;
+}
+
+.word-input {
+    border: solid #98c474 1px;
+    font-size: 22px;
+    border-top-left-radius: 1em;
+    border-bottom-left-radius: 1em;
+    padding: 8px 8px 8px 16px;
+}
+
+.word-input:focus {
+    outline: none;
+}
+
+.search-btn {
+    font-size: 22px;
+    border-top-right-radius: 1em;
+    border-bottom-right-radius: 1em;
+    padding: 10px;
+    cursor: pointer;
+    background-color: #98c474;
+    border: none;
+    color: #feffff;
+}
+
+.dictionary-card {
+    padding: 6px 20px 20px 20px;
+    margin: 25px 15px 25px 15px;
+}
+
+.dictionary-card-active {
+    border-radius: 1em;
+    box-shadow: rgba(152 , 196, 116, 0.25) 0px 4px 8px -2px, rgba(152 , 196 ,116, 0.08) 0px 0px 0px 1px;
+}
+
+.result {
+    margin: 10px;
+}
+
+.word {
+    margin-top: 16px;
+    font-size: 28px;
+}
+
+.clazz {
+    margin-top: 2px;
+    font-size: 16px;
+}
+
+.meaning {
+    margin-top: 2px;
+    font-size: 18px;
+}
+
+.source {
+    margin-top: 2px;
+    font-size: 12px;
+}
+
+.not-found {
+    padding-top: 15px;
+    font-size: 18px;
+}
