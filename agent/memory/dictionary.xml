@@ -2,7 +2,7 @@
        Navarro, Eduardo de Almeida. Dicionário de tupi antigo : 
        a língua clássica do Brasil - 1. Ed. - São Paulo : Global, 2013.-->
 <!-- Digitalizado para pesquisa em processamento de linguagem natural 
-       por Ronaldo Soares, 2023- -->
+       por Ronaldo Soares. Início: 2023 -->
 <root>
     <a>
         <id>0</id>
@@ -440,6 +440,112 @@
     </a>
     <a>
         <id>62</id>
+        <word>abatiputá</word>
+        <class>substantivo</class>
+        <meaning>JABUTAPITÁ, BATIPUTÁ, o mesmo que <tp>aîabutipytá</tp> (ver) (Brandão, Diálogos, 202)</meaning>
+        <source>65,116</source>
+    </a>
+    <a>
+        <id>63</id>
+        <word>Abatiúna</word>
+        <class>substantivo antropônimo</class>
+        <meaning>(etimologia - milho escuro) - nome de índio tupi (D'Abbeville, Histoire, 186v)</meaning>
+        <source>65,126</source>
+    </a>
+    <a>
+        <id>64</id>
+        <word>aba'yba</word>
+        <class>substantivo</class>
+        <meaning>(etimologia - homem-guia) - namorado (VLB, II, 46): <tp>nde raîyra aba'yba</tp> - o namorado de tua filha (Ar., Cat., 267, 1686)</meaning>
+        <source>65,169,113</source>
+    </a>
+    <a>
+        <id>65</id>
+        <word>Abaykyîa</word>
+        <class>substantivo antropônimo</class>
+        <meaning>(etimologia - o arrasta-gente) - nome de índio tupi (Vasconcelos, Crônica (Not.) II, §2, 114)</meaning>
+        <source>65,167</source>
+    </a>
+    <a>
+        <id>66</id>
+        <word>abé</word>
+        <class>conjunção</class>
+        <meaning>1) logo após, logo que, logo depois de, tão logo: <tp>Nde rera rendupa abé, Anhanga ryryî okûapa.</tp> - Tão logo ao ouvir o teu nome, o diabo está tremendo. (Anch., Poemas, 132); <tp>Aîpó oîoupé 'é abé, o îara repypûera reîtyki Tupãokype.</tp> - Logo depois de dizerem aquilo para ele, lançou o pagamento por seu senhor no templo. (Ar., Cat., 57v); <tp>Oú abé.</tp> - Tão logo vindo ele {Anch., Arte, 45v); <tp>Xe só abé turi.</tp> - Tão logo indo eu, ele veio. (Anch., Arte, 46);&#xA;2) assim que, enquanto, em (como em eu fazendo etc.); no mesmo instante em que: <tp>Gûinhe'enga abé</tp>... - Em eu falando. .. (VLB, I, 110); <tp>Xe só abé...</tp> - Assim que eu vou ... ( VLB, II, 24)</meaning>
+        <source>65,111,113,105,169</source>
+    </a>
+    <a>
+        <id>67</id>
+        <word>abé</word>
+        <class>posposição</class>
+        <meaning>desde: - <tp>Marãpe pe rubixabetae'ym? - Nd'oroerekóî nhẽ oré ramuîa abé.</tp> - Por que vós não tendes muitos reis? - Não os temos desde nossos avós. (Léry, Histoire, 362)</meaning>
+        <source>65,145</source>
+    </a>
+    <a>
+        <id>68</id>
+        <word>abé</word>
+        <class>advérbio</class>
+        <meaning>também; mais (é usado, às vezes, com o valor de uma conjunção aditiva e): <tp>Onheŷnhang umã sesé kunumĩetá kagûara, ... gûaîbĩ, tuîba'e abé...</tp> - Já se juntaram por causa disso muitos moços bebedores de cauim, velhas e velhos também. (Anch., Teatro, 24); <tp>Xe abé taîasugûaîa...</tp> - Eu também sou um porco ... (Anch., Teatro, 44); <tp>... Kó aîkó sygepûera t'arasó i nhy'ãbebuia abé xe raixó-gûaîbĩ supé.</tp> - Aqui estou para levar seu ventre e também seus pulmões para minha sogra velha. (Anch., Teatro, 66); <tp>Osó S. Pedro, São João abé</tp>. - Foram São Pedro e São João. (Ar., Cat., 55)</meaning>
+        <source>65,112,113</source>
+    </a>
+    <a>
+        <id>69</id>
+        <word>'abebó</word>
+        <class>substantivo</class>
+        <meaning>grenha, cabelo em desalinho; cabelos embaraçados, despenteados (Castilho, Nomes, 27); <tp>Xe 'abebogûasu.</tp> - Eu tenho uma grande grenha. (VLB, I, 150)</meaning>
+        <source>65,123,169</source>
+    </a>
+    <a>
+        <id>70</id>
+        <word>abé-no</word>
+        <class>advérbio</class>
+        <meaning>também (VLB, II, 124)</meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>71</id>
+        <word>aberame'ĩ</word>
+        <class>verbo intransitivo</class>
+        <meaning>ver <tp>berame'ĩ</tp> (VLB, I, 23)</meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>72</id>
+        <word>abiã</word>
+        <class>partícula</class>
+        <meaning>ainda mais, quanto mais: <tp>iké abiã</tp> - ainda mais aqui (Fig., Arte, 37)</meaning>
+        <source>65,131</source>
+    </a>
+    <a>
+        <id>73</id>
+        <word>abiã</word>
+        <class>conjunção</class>
+        <meaning>se (usado com <tp>memetipó</tp> ou <tp>memetiã</tp> ou <tp>memetaé</tp>): <tp>Mene'yma resé oîkoba'e abiã koîpó sesé onhemomotaryba'e oîaby-eté Tupã nhe'enga, memetipó mendara momoxysara koîpó sesé nhemomotasara.</tp> - Se o que tem relações sexuais com uma solteira ou por ela se atrai transgride muito a palavra de Deus, tanto mais o que perverte uma casa da ou o que se atrai por ela. (Ar., Cat., 109); <tp>Mba'e sekatuba'e abiã... oîmoting i 'uetébo, memetiã nde nda mba'e-katu ruã euĩ ereîmo'ẽ.</tp> - Se uma coisa que é muito saborosa enjoa, comendo-a muito, eis que tanto mais tu expelirás o que não é coisa boa. (Anch., Doutr. Cristã, II, 111); <tp>Kûarasy abiã oporomo'y'useî-eté, memetaé tatápe oína abá o'useî-etéramo.</tp> - Se o Sol faz as pessoas terem muita sede, tanto mais estando no fogo as pessoas desejam beber. (Ar., Cat., 164)</meaning>
+        <source>65,113,110</source>
+    </a>
+    <a>
+        <id>74</id>
+        <word>abiîagûasu</word>
+        <class>substantivo</class>
+        <meaning>nome de um pássaro [Soares, Coisas Not. Eras. (ms. C), 1464-1468]</meaning>
+        <source>65,157</source>
+    </a>
+    <a>
+        <id>75</id>
+        <word>abiîu</word>
+        <class>substantivo</class>
+        <meaning>(t) - 1) pelo de pano, felpa (VLB, I, 144);&#xA;2) fibras de madeira de má qualidade ou serrada com serra ruim, que tem uma certa frisa por cima (VLB, I, 144);&#xA;3) penugem fina de ave nova ( VLB, I, 113);&#xA;4) raspa ou raspas como da bota ou de qualquer couro (VLB, II, 97)&#xA;• <tp>aoba rabiîu</tp> - felpas de pano usadas para curar feridas, como se faz hoje com flocos de algodão; <tp>sabiîuakytãba'e</tp> - o que é
+felpudo (VLB, I, 144)</meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>76</id>
+        <word>abiîu</word>
+        <class></class>
+        <meaning> (t) - espécie de roupa usada no século XVI; saia de pano (VLB, 1, 84)</meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>77</id>
         <word></word>
         <class></class>
         <meaning></meaning>
