@@ -11,4 +11,258 @@
         <tp>Moraseîa é i katu</tp>
         <pt>A dança é que é boa</pt>
     </entry>
+
+    <!-- MMTA - Lesson 1 -->
+
+    <!-- Ex. 1 -->
+    <entry>
+        <id>2</id>
+        <tp>ixé agûapyk</tp>
+        <pt>eu sento</pt>
+    </entry>
+    <entry>
+        <id>4</id>
+        <tp>endé eregûapyk</tp>
+        <pt>tu sentas</pt>
+    </entry>
+    <entry>
+        <id>5</id>
+        <tp>a'e ogûapyk</tp>
+        <pt>ele senta</pt>
+    </entry>
+    <entry>
+        <id>6</id>
+        <tp>oré orogûapyk</tp>
+        <pt>nós sentamos</pt>
+    </entry>
+    <entry>
+        <id>7</id>
+        <tp>îandé îagûapyk</tp>
+        <pt>nós sentamos</pt>
+    </entry>
+    <entry>
+        <id>8</id>
+        <tp>peẽ pegûapyk</tp>
+        <pt>vós sentais</pt>
+    </entry>
+    <entry>
+        <id>9</id>
+        <tp>a'e ogûapyk</tp>
+        <pt>eles sentam</pt>
+    </entry>
+    <entry>
+        <id>10</id>
+        <tp>ixé agûatá</tp>
+        <pt>Eu ando</pt>
+    </entry>
+    <entry>
+        <id>11</id>
+        <tp>endé eregûatá</tp>
+        <pt>Tu andas</pt>
+    </entry>
+    <entry>
+        <id>12</id>
+        <tp>a'e ogûatá</tp>
+        <pt>ele anda</pt>
+    </entry>
+    <entry>
+        <id>13</id>
+        <tp>oré orogûatá</tp>
+        <pt>nós andamos</pt>
+    </entry>
+    <entry>
+        <id>14</id>
+        <tp>îandé îagûatá</tp>
+        <pt>nós andamos</pt>
+    </entry>
+    <entry>
+        <id>15</id>
+        <tp>peẽ pegûatá</tp>
+        <pt>vós andais</pt>
+    </entry>
+    <entry>
+        <id>16</id>
+        <tp>a'e ogûatá</tp>
+        <pt>eles andam</pt>
+    </entry>
+    <entry>
+        <id>17</id>
+        <tp>ixé akaru</tp>
+        <pt>eu como</pt>
+    </entry>
+    <entry>
+        <id>18</id>
+        <tp>endé erekaru</tp>
+        <pt>tu comes</pt>
+    </entry>
+    <entry>
+        <id>19</id>
+        <tp>a'e okaru</tp>
+        <pt>ele come</pt>
+    </entry>
+    <entry>
+        <id>20</id>
+        <tp>oré orokaru</tp>
+        <pt>nós comemos</pt>
+    </entry>
+    <entry>
+        <id>21</id>
+        <tp>îandé îakaru</tp>
+        <pt>nós comemos</pt>
+    </entry>
+    <entry>
+        <id>22</id>
+        <tp>peẽ pekaru</tp>
+        <pt>vós comeis</pt>
+    </entry>
+    <entry>
+        <id>23</id>
+        <tp>a'e okaru</tp>
+        <pt>eles comem</pt>
+    </entry>
+    <entry>
+        <id>24</id>
+        <tp>ixé aker</tp>
+        <pt>eu durmo</pt>
+    </entry>
+    <entry>
+        <id>25</id>
+        <tp>endé ereker</tp>
+        <pt>tu dormes</pt>
+    </entry>
+    <entry>
+        <id>26</id>
+        <tp>a'e oker</tp>
+        <pt>ele dorme</pt>
+    </entry>
+    <entry>
+        <id>27</id>
+        <tp>oré oroker</tp>
+        <pt>nós dormimos</pt>
+    </entry>
+    <entry>
+        <id>28</id>
+        <tp>îandé îaker</tp>
+        <pt>nós dormimos</pt>
+    </entry>
+    <entry>
+        <id>29</id>
+        <tp>peẽ peker</tp>
+        <pt>vós dormis</pt>
+    </entry>
+    <entry>
+        <id>30</id>
+        <tp>a'e oker</tp>
+        <pt>eles dormem</pt>
+    </entry>
+    <entry>
+        <id>31</id>
+        <tp>ixé akuruk</tp>
+        <pt>eu resmungo</pt>
+    </entry>
+    <entry>
+        <id>32</id>
+        <tp>endé erekuruk</tp>
+        <pt>tu resmungas</pt>
+    </entry>
+    <entry>
+        <id>33</id>
+        <tp>a'e okuruk</tp>
+        <pt>ele resmunga</pt>
+    </entry>
+    <entry>
+        <id>34</id>
+        <tp>oré orokuruk</tp>
+        <pt>nós resmungamos</pt>
+    </entry>
+    <entry>
+        <id>35</id>
+        <tp>îandé îakuruk</tp>
+        <pt>nós resmungamos</pt>
+    </entry>
+    <entry>
+        <id>36</id>
+        <tp>peẽ pekuruk</tp>
+        <pt>vós resmungais</pt>
+    </entry>
+    <entry>
+        <id>37</id>
+        <tp>a'e okuruk</tp>
+        <pt>eles resmungam</pt>
+    </entry>
+    <entry>
+        <id>38</id>
+        <tp>ixé anhan</tp>
+        <pt>eu corro</pt>
+    </entry>
+    <entry>
+        <id>39</id>
+        <tp>endé erenhan</tp>
+        <pt>tu corres</pt>
+    </entry>
+    <entry>
+        <id>40</id>
+        <tp>a'e onhan</tp>
+        <pt>ele corre</pt>
+    </entry>
+    <entry>
+        <id>41</id>
+        <tp>oré oronhan</tp>
+        <pt>nós corremos</pt>
+    </entry>
+    <entry>
+        <id>42</id>
+        <tp>îandé îanhan</tp>
+        <pt>nós corremos</pt>
+    </entry>
+    <entry>
+        <id>43</id>
+        <tp>peẽ penhan</tp>
+        <pt>vós correis</pt>
+    </entry>
+    <entry>
+        <id>44</id>
+        <tp>a'e onhan</tp>
+        <pt>eles correm</pt>
+    </entry>
+    <entry>
+        <id>45</id>
+        <tp>ixé apererek</tp>
+        <pt>eu pulo</pt>
+    </entry>
+    <entry>
+        <id>46</id>
+        <tp>endé erepererek</tp>
+        <pt>tu pulas</pt>
+    </entry>
+    <entry>
+        <id>47</id>
+        <tp>a'e opererek</tp>
+        <pt>ele pula</pt>
+    </entry>
+    <entry>
+        <id>48</id>
+        <tp>oré oropererek</tp>
+        <pt>nós pulamos</pt>
+    </entry>
+    <entry>
+        <id>49</id>
+        <tp>îandé îapererek</tp>
+        <pt>nós pulamos</pt>
+    </entry>
+    <entry>
+        <id>50</id>
+        <tp>peẽ pepererek</tp>
+        <pt>vós pulais</pt>
+    </entry>
+    <entry>
+        <id>51</id>
+        <tp>a'e opererek</tp>
+        <pt>eles pulam</pt>
+    </entry>
+    <entry>
+        <id>52</id>
+        <tp></tp>
+        <pt></pt>
+    </entry>
 </root>
