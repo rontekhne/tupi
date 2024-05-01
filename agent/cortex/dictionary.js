@@ -58,14 +58,34 @@ function searchWord() {
                     found = true;
 
                     resultDiv.innerHTML += "<p class='word'>" + word + "</p>";
-                    resultDiv.innerHTML += "<p class='clazz'><i>" + classElement.textContent + "</i></p>";
+                    resultDiv.innerHTML += "<p class='clazz'><i>" + classElement.textContent + "</i></p><br>";
                     
-                    var meaningText = meaningElement.innerHTML
-                        .replace(/&amp;#xA;/g, "\n")
-                        .replace(/<tp>(.*?)<\/tp>/g, "<b>$1</b>"); 
-                    var meaningWithBreaks = meaningText
-                        .replace(/\n/g, "<br>");
-                    resultDiv.innerHTML += "<p class='meaning'>" + meaningWithBreaks + "</p>";
+                    var cases = meaningElement.getElementsByTagName('case');
+                    var meaningText = '';
+                    for (var j = 0; j < cases.length; j++) {
+                        var translationElement = cases[j].getElementsByTagName('translation')[0];
+                        var examples = cases[j].getElementsByTagName('example');
+                        
+                        if (translationElement) {
+                            meaningText += "<p class='meaning'>" +translationElement.textContent + "</p><br>";
+                        }
+                        
+                        for (var k = 0; k < examples.length; k++) {
+                            var example = examples[k];
+                            var tpElement = example.getElementsByTagName('tp')[0];
+                            var ptElement = example.getElementsByTagName('pt')[0];
+                            var srcElement = example.getElementsByTagName('src')[0];
+                            
+                            meaningText += "<p class='example meaning'><b>" + tpElement.textContent + "</b><br>" + ptElement.textContent + "<br><small>" + srcElement.textContent + "</small></p><br>";
+                        }
+                    }
+
+                    var noteElement = meaningElement.getElementsByTagName('note')[0];
+                    if (noteElement) {
+                        meaningText += "<p>" + noteElement.textContent + "</p><br><br>";
+                    }
+
+                    resultDiv.innerHTML += "<p class='meaning'>" + meaningText + "</p>";
 
                     var sourceText = sourceElement.textContent;
                     var sourceNumbers = sourceText.split(',');
@@ -87,7 +107,7 @@ function searchWord() {
                     });
 
                     var sourceWithBreaks = sources.join('<br>');
-                    resultDiv.innerHTML += "<p class='source'>Fontes:<br>" + sourceWithBreaks + "</p>";
+                    resultDiv.innerHTML += "<p class='source'>Fontes:<br>" + sourceWithBreaks + "</p><br><hr><br>";
                 }
             }
 

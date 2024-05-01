@@ -8,87 +8,355 @@
         <id>0</id>
         <word>ã</word>
         <class>demonstrativo pronomial</class>
-        <meaning>1) este (s, a, as) (Fig., Arte, 85); isso: <tp>Aani ã.</tp> - Isso não. (Fig., Arte, 138);&#xA;2) eis que (assinalando o presente ou o futuro, com a 1ª e a 2ª pessoas, excluindo a possibilidade de passado): <tp>Opá ã îandé moaûîéû...</tp> -Eis que a todos nós vence. (Ar., Cat., 155); <tp>Xe îar, na xe angaturami ã a'emo ereîké xe py'ape.</tp> - Meu senhor, eis que eu não sou digno de que entres em meu coração. (Ar., Cat., 86v); <tp>Asó ã.</tp> - Eis que vou. (Anch., Arte, 21v)</meaning>
+        <meaning>
+            <case>
+                <translation>1) este (s, a, as) (Fig., Arte, 85); isso:</translation>
+                <example>
+                    <tp>Aani ã.</tp> 
+                    <pt>Isso não.</pt> 
+                    <src>(Fig., Arte, 138)</src>
+                </example>
+            </case> 
+            <case>
+                <translation>2) eis que (assinalando o presente ou o futuro, com a 1ª e a 2ª pessoas, excluindo a possibilidade de passado):</translation>
+                <example>
+                    <tp>Opá ã îandé moaûîéû...</tp> 
+                    <pt>Eis que a todos nós vence...</pt> 
+                    <src>(Ar., Cat., 155)</src>
+                </example>
+                <example>
+                    <tp>Xe îar, na xe angaturami ã a'emo ereîké xe py'ape.</tp> 
+                    <pt>Meu senhor, eis que eu não sou digno de que entres em meu coração.</pt> 
+                    <src>(Ar., Cat., 86v)</src>
+                </example>
+                <example>
+                    <tp>Asó ã.</tp> 
+                    <pt>Eis que vou.</pt> 
+                    <src>(Anch., Arte, 21v)</src>
+                </example>
+            </case>
+        </meaning>
         <source>65,131,113,105</source>
     </a>
     <a>
         <id>1</id>
         <word>a</word>
         <class>prefixo número-pessoal da 1ª pessoa do singular</class>
-        <meaning><tp>Aîur xe roka suí.</tp> - Vim de minha casa. (Anch.,Poemas, 102); <tp>Asaúsub nde membyrĩ.</tp> - Amo teu filhinho. (Anch., Poemas, 102); <tp>Aîemĩngatu kó gûitupa...</tp> - Escondo-me bem, estando deitado aqui... (Anch., Teatro, 32)</meaning>
+        <meaning>
+            <case>
+                <example>
+                    <tp>Aîur xe roka suí.</tp>
+                    <pt>Vim de minha casa.</pt> 
+                    <src>(Anch.,Poemas, 102)</src> 
+                </example>
+                <example>
+                    <tp>Asaúsub nde membyrĩ.</tp>
+                    <pt>Amo teu filhinho.</pt>
+                    <src>(Anch., Poemas, 102)</src> 
+                </example>
+                <example>
+                    <tp>Aîemĩngatu kó gûitupa...</tp>
+                    <pt>Escondo-me bem, estando deitado aqui...</pt>
+                    <src>(Anch., Teatro, 32)</src>
+                </example>
+            </case>
+        </meaning>
         <source>65,111,112</source>
     </a>
     <a>
         <id>2</id>
         <word>a</word>
         <class>sufixo de gerúndio com temas verbais</class>
-        <meaning><tp>sepîaka</tp> - vendo-o; <tp>kaia</tp> - queimando; <tp>saûsupa</tp> - amando-o; <tp>îukae'yma</tp> - não matando (Anch.Arte, 28v); <tp>... Xe keranama mombaka ...</tp> - De meu pesado sono despertando-me. (Anch., Poemas, 92)</meaning>
+        <meaning>
+            <case>
+                <example>
+                    <tp>sepîaka</tp>
+                    <pt>vendo-o</pt>
+                    <src>(Anch.Arte, 28v)</src>
+                </example>
+                <example>
+                    <tp>kaia</tp>
+                    <pt>queimando</pt>
+                    <src>(Anch.Arte, 28v)</src>
+                </example>
+                <example>
+                    <tp>saûsupa</tp>
+                    <pt>amando-o</pt>
+                    <src>(Anch.Arte, 28v)</src>
+                </example>
+                <example>
+                    <tp>îukae'yma</tp>
+                    <pt>não matando</pt>
+                    <src>(Anch.Arte, 28v)</src>
+                </example>
+                <example>
+                    <tp>... Xe keranama mombaka ...</tp>
+                    <pt>... De meu pesado sono despertando-me ...</pt>
+                    <src>(Anch., Poemas, 92)</src>
+                </example>
+            </case>
+        </meaning>
         <source>65,105,111</source>
     </a>
     <a>
         <id>3</id>
         <word>a</word>
         <class>sufixo nominal</class>
-        <meaning><tp>kaîa</tp> - queimada; <tp>sepîaka</tp> - a vista de (Anch., Arte, 27); <tp>Tupana nhe'enga</tp> - a palavra de Deus (Anch., Teatro, 146, 2006)</meaning>
+        <meaning>
+            <case>
+                <example>
+                    <tp>kaîa</tp>
+                    <pt>queimada</pt> 
+                    <tp>sepîaka</tp>
+                    <pt>a vista de</pt>
+                    <src>(Anch., Arte, 27)</src>
+                </example>
+                <example>
+                    <tp>Tupana nhe'enga</tp>
+                    <pt>a palavra de Deus</pt>
+                    <src>(Anch., Teatro, 146, 2006)</src>
+                </example>
+            </case>
+        </meaning>
         <source>65,105,112</source>
     </a>
     <a>
         <id>4</id>
         <word>'a</word>
         <class>substantivo</class>
-        <meaning>(em composição somente) - cabeça: <tp>Aî'a-kok.</tp> - Apoio sua cabeça. (VLB, 1, 18); <tp>Aî'a-su'u</tp> - Mordo-lhe a cabeça. (VLB, I. 94)&#xA;• <tp>'a-pixapaba</tp> - ferida da cabeça ("Às vezes se usa deste nome nas feridas que se dão por outras partes, fora da cabeça, mas impropriamente." -VLB, 1.. 137)&#xA;NOTA - Daí, no português brasileiro, CAMBURIAPEVA (ka muri + 'a + peb + -a, "camuri da cabeça acha tada"), nome de um peixe centropomídeo; POTIATINGA (poli + 'a + ting + -a, "camarão da cabeça branca"), espécie de camarão da familia dos peneídeos (Marcgrave, Hist. Nat. Eras.,188); IPECUATI (ypeku + 'a + ati, "pica-pau da cabeça pontuda"), nome de uma ave.</meaning>
+        <meaning>
+            <case>
+                <translation>(em composição somente) - cabeça:</translation>
+                <example>
+                    <tp>Aî'a-kok.</tp>
+                    <pt>Apoio sua cabeça.</pt>
+                    <src>(VLB, 1, 18)</src>
+                </example>
+                <example>
+                    <tp>Aî'a-su'u</tp>
+                    <pt>Mordo-lhe a cabeça.</pt>
+                    <src>(VLB, I. 94)</src>
+                </example>
+            </case>
+            <case>
+                <translation>•</translation>
+                <example>
+                    <tp>'a-pixapaba</tp>
+                    <pt>ferida da cabeça ("Às vezes se usa deste nome nas feridas que se dão por outras partes, fora da cabeça, mas impropriamente.")</pt> 
+                    <src>(VLB, 1.. 137)</src>
+                </example>
+            </case>
+            <note>
+                NOTA - Daí, no português brasileiro, CAMBURIAPEVA (ka muri + 'a + peb + -a, "camuri da cabeça acha tada"), nome de um peixe centropomídeo; POTIATINGA (poli + 'a + ting + -a, "camarão da cabeça branca"), espécie de camarão da familia dos peneídeos (Marcgrave, Hist. Nat. Eras.,188); IPECUATI (ypeku + 'a + ati, "pica-pau da cabeça pontuda"), nome de uma ave.
+            </note>    
+        </meaning>
         <source>65,169,150</source>
     </a>
     <a>
         <id>5</id>
         <word>'a</word>
         <class>substantivo</class>
-        <meaning>cabeça do pênis, glande (Castilho, Nomes, 27)&#xA;• <tp>'a-îuru</tp> - orifício do pênis (Castilho, Nomes, 28)</meaning>
+        <meaning>
+            <case>
+                <translation>cabeça do pênis, glande (Castilho, Nomes, 27)</translation>
+            </case>
+            <case>
+                <translation>•</translation>
+                <example>
+                    <tp>'a-îuru</tp>
+                    <pt>orifício do pênis</pt>
+                    <src>(Castilho, Nomes, 28)</src>
+                </example>
+            </case>
+        </meaning>
         <source>65,123</source>
     </a>
     <a>
         <id>6</id>
         <word>'a</word>
         <class>substantivo vocativo</class>
-        <meaning>(usado por reverência, somente) - 1) mano: <tp>xe 'a</tp> - meu mano (Castilho, Nomes, 27);&#xA;2) companheiro: <tp>Mamõ suípe ereîur, xe 'a?</tp> - Donde vieste, meu companheiro? (Marcgrave, Hist. Nat. Eras., 277);&#xA;3) senhor: <tp>Xe 'a!</tp> - Meu senhor! (YLB, II, 116)</meaning>
+        <meaning>
+            <case>
+                <translation>(usado por reverência, somente) - 1) mano:</translation>
+                <example>
+                    <tp>xe 'a</tp>
+                    <pt>meu mano</pt>
+                    <src>(Castilho, Nomes, 27)</src>
+                </example>
+            </case>
+            <case>
+                <translation>2) companheiro:</translation>
+                <example>
+                    <tp>Mamõ suípe ereîur, xe 'a?</tp>
+                    <pt>onde vieste, meu companheiro?</pt>
+                    <src>(Marcgrave, Hist. Nat. Eras., 277)</src>
+                </example>
+            </case>
+            <case>
+                <translation>3) senhor:</translation>
+                <example>
+                    <tp>Xe 'a!</tp>
+                    <pt>Meu senhor!</pt>
+                    <src>(VLB, II, 116)</src>
+                </example>
+            </case>
+        </meaning>
         <source>65,123,150,169</source>
     </a>
     <a>
         <id>7</id>
         <word>'a</word>
         <class>substantivo</class>
-        <meaning>fruto: <tp>i 'a</tp> - fruto dela (Anch., Arte, 5v)</meaning>
+        <meaning>
+            <case>
+                <translation>fruto:</translation>
+                <example>
+                    <tp>i 'a</tp>
+                    <pt>fruto dela</pt>
+                    <src>(Anch., Arte, 5v)</src>
+                </example>
+            </case>
+        </meaning>
         <source>65,105</source>
     </a>
     <a>
         <id>8</id>
         <word>aan</word>
         <class>partícula</class>
-        <meaning>(ou aã) - não (de homem ou mulher): <tp>Aan, nd'ereîtyki xóne.</tp> - Não, não os derrotarás. (Anch., Teatro, 136); <tp>Aã! Xe potaba nde!</tp> - Não! Meu quinhão és tu! (Anch., Teatro, 76)&#xA;• <tp>aan a'e</tp> (ou <tp>aan a'é nhẽ</tp>) - Digo não, digo que não. (VLB, II,99); <tp>aan ipó, aan ipó biã</tp> - não deve ser, não será assim (VLB,II, 47); <tp>aan-angáî</tp> - não (enfático); de modo algum, de maneira nenhuma: - <tp>I ambyasy bépe, i 'useî bépe asé îabé?... - Aan-angái.</tp> - Tinha também fome, tinha também sede como nós? - De modo algum. (Ar., Cat., 44v); <tp>aan-angáî-katutenhẽ</tp> (ou <tp>aãngatutenhẽ</tp>) - de nenhuma maneira, de nenhuma qualidade (VLB, II, 46)</meaning>
+        <meaning>
+            <case>
+                <translation>(ou aã) - não (de homem ou mulher):</translation>
+                <example>
+                    <tp>Aan, nd'ereîtyki xóne.</tp>
+                    <pt>Não, não os derrotarás.</pt>
+                    <src>(Anch., Teatro, 136)</src>
+                </example>    
+                <example>
+                    <tp>Aã! Xe potaba nde!</tp>
+                    <pt>Não! Meu quinhão és tu!</pt>
+                    <src>(Anch., Teatro, 76)</src>
+                </example>
+            </case>
+            <case>
+                <translation>•</translation>
+                <example>
+                    <tp>aan a'e</tp> 
+                    <pt>Digo não, digo que não.</pt> 
+                    <src>(VLB, II,99)</src>
+                </example>
+                <example>
+                    <tp>aan a'é nhẽ</tp>
+                    <pt>Digo não, digo que não.</pt>
+                    <src>(VLB, II,99)</src> 
+                </example>
+                <example>
+                    <tp>aan ipó, aan ipó biã</tp>
+                    <pt>não deve ser, não será assim</pt>
+                    <src>(VLB,II, 47)</src> 
+                </example>
+                <example>
+                    <tp>aan-angáî</tp>
+                    <pt>não (enfático)</pt>
+                    <src></src>
+                </example>
+            </case>
+            <case>
+                <translation>de modo algum, de maneira nenhuma:</translation>
+                <example>
+                    <tp>I ambyasy bépe, i 'useî bépe asé îabé?... - Aan-angái.</tp>
+                    <pt>Tinha também fome, tinha também sede como nós? - De modo algum.</pt>
+                    <src>(Ar., Cat., 44v)</src>
+                </example>
+                <example>
+                    <tp>aan-angáî-katutenhẽ</tp> 
+                    <pt>de nenhuma maneira, de nenhuma qualidade</pt> 
+                    <src>(VLB, II, 46)</src>
+                </example>
+                <example>
+                    <tp>aãngatutenhẽ</tp>
+                    <pt>de nenhuma maneira, de nenhuma qualidade</pt> 
+                    <src>(VLB, II, 46)</src>
+                </example>
+            </case>            
+        </meaning>
         <source>65,112,169,113</source>
     </a>
     <a>
         <id>9</id>
         <word>aan</word>
         <class>partícula</class>
-        <meaning>1) nada (VLB, II, 46);&#xA;2) nunca, nenhuma vez (VLB, II, 52);&#xA;3) nenhum; ninguém (VLB, II, 49)&#xA;• <tp>aãngatutenhẽ</tp> (ou <tp>aan-angáî</tp>) - absolutamente ninguém (VLB, II, 49</meaning>
+        <meaning>
+            <case>
+                <translation>1) nada (VLB, II, 46)</translation>
+            </case>
+            <case>
+                <translation>2) nunca, nenhuma vez (VLB, II, 52)</translation>
+            </case>
+            <case>
+                <translation>3) nenhum; ninguém (VLB, II, 49)</translation>
+            </case>
+            <case>
+                <translation>•</translation>
+                <example>
+                    <tp>aãngatutenhẽ</tp> 
+                    <pt>absolutamente ninguém</pt>
+                    <src>(VLB, II, 49)</src>
+                </example>
+                <example>
+                    <tp>aan-angáî</tp>
+                    <pt>absolutamente ninguém</pt> 
+                    <src>(VLB, II, 49)</src>
+                </example>
+            </case>        
+        </meaning>
         <source>65,169</source>
     </a>
     <a>
         <id>10</id>
         <word>aandé</word>
         <class>partícula</class>
-        <meaning>mas não foi; não é assim (Fig., Arte, 137)</meaning>
+        <meaning>
+            <case>
+                <translation>mas não foi; não é assim (Fig., Arte, 137)</translation>
+            </case>        
+        </meaning>
         <source>65,131</source>
     </a>
     <a>
         <id>11</id>
         <word>aane'yme</word>
         <class>conjunção</class>
-        <meaning>senão; quando não: - <tp>Emonãnamo onhemosaînã-eté pabẽpe Tupã nhe'enga kuabaûama?... - Emonãnamo, aane'yme anhanga ratápe i xóûne.</tp> - Portanto cuidarão bem todos de conhecer a palavra de Deus? - De fato, senão irão para o inferno. (Bettendorff, Compêndio, 104); <tp>E'u umẽ ikó 'ybá... aane'yme opabinhẽ pemanõne... </tp> - Não comas este fruto, senão todos morrereis. (Bettendorff, Compêndio, 38)&#xA;• <tp>aane'yme?</tp> (ou <tp>aane'yme é?</tp>) - E quando não? (VLB, 1, 121)</meaning>
+        <meaning>
+            <case>
+                <translation>senão; quando não:</translation>
+                <example>
+                    <tp>Emonãnamo onhemosaînã-eté pabẽpe Tupã nhe'enga kuabaûama?... - Emonãnamo, aane'yme anhanga ratápe i xóûne.</tp>
+                    <pt>Portanto cuidarão bem todos de conhecer a palavra de Deus? - De fato, senão irão para o inferno.</pt> 
+                    <src>(Bettendorff, Compêndio, 104)</src> 
+                </example>
+                <example>
+                    <tp>E'u umẽ ikó 'ybá... aane'yme opabinhẽ pemanõne...</tp>
+                    <pt>Não comas este fruto, senão todos morrereis...</pt>
+                    <src>(Bettendorff, Compêndio, 38)</src>
+                </example>
+            </case>
+            <case>
+                <translation>•</translation>
+                <example>
+                    <tp>aane'yme?</tp> 
+                    <pt>E quando não?</pt> 
+                    <src>(VLB, 1, 121)</src>
+                </example>
+                <example>
+                    <tp>aane'yme é?</tp>
+                    <pt>E quando não?</pt>
+                    <src>(VLB, 1, 121)</src>
+                </example>
+            </case>
+        </meaning>
         <source>65,115,169</source>
     </a>
-    <a>
+    <!--a>
         <id>12</id>
         <word>a'ang</word>
         <class>verbo tansitivo</class>
@@ -533,15 +801,14 @@
         <id>75</id>
         <word>abiîu</word>
         <class>substantivo</class>
-        <meaning>(t) - 1) pelo de pano, felpa (VLB, I, 144);&#xA;2) fibras de madeira de má qualidade ou serrada com serra ruim, que tem uma certa frisa por cima (VLB, I, 144);&#xA;3) penugem fina de ave nova ( VLB, I, 113);&#xA;4) raspa ou raspas como da bota ou de qualquer couro (VLB, II, 97)&#xA;• <tp>aoba rabiîu</tp> - felpas de pano usadas para curar feridas, como se faz hoje com flocos de algodão; <tp>sabiîuakytãba'e</tp> - o que é
-felpudo (VLB, I, 144)</meaning>
+        <meaning>(t) - 1) pelo de pano, felpa (VLB, I, 144);&#xA;2) fibras de madeira de má qualidade ou serrada com serra ruim, que tem uma certa frisa por cima (VLB, I, 144);&#xA;3) penugem fina de ave nova ( VLB, I, 113);&#xA;4) raspa ou raspas como da bota ou de qualquer couro (VLB, II, 97)&#xA;• <tp>aoba rabiîu</tp> - felpas de pano usadas para curar feridas, como se faz hoje com flocos de algodão; <tp>sabiîuakytãba'e</tp> - o que é felpudo (VLB, I, 144)</meaning>
         <source>65,169</source>
     </a>
     <a>
         <id>76</id>
         <word>abiîu</word>
-        <class></class>
-        <meaning> (t) - espécie de roupa usada no século XVI; saia de pano (VLB, 1, 84)</meaning>
+        <class>substantivo</class>
+        <meaning>(t) - espécie de roupa usada no século XVI; saia de pano (VLB, 1, 84)</meaning>
         <source>65,169</source>
     </a>
     <a>
@@ -550,6 +817,6 @@ felpudo (VLB, I, 144)</meaning>
         <class></class>
         <meaning></meaning>
         <source>65</source>
-    </a>
+    </a-->
 </root>
 
