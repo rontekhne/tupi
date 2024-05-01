@@ -305,4 +305,174 @@
         <tp>Ygara suí îasem.</tp>
         <pt>Saímos da canoa.</pt>
     </entry>
+    <entry>
+        <id>61</id>
+        <tp>Abá supé erenhe'eng.</tp>
+        <pt>Falaste aos índios.</pt>
+    </entry>
+    <entry>
+        <id>62</id>
+        <tp>Abá Maria supé onhe'eng.</tp>
+        <pt>Os índios falam a Maria.</pt>
+    </entry>
+    <entry>
+        <id>63</id>
+        <tp>Maria abá supé onhe'eng.</tp>
+        <pt>Maria fala aos índios.</pt>
+    </entry>
+    <entry>
+        <id>64</id>
+        <tp>Peró supé oronhe'eng.</tp>
+        <pt>Falamos aos portugueses.</pt>
+    </entry>
+    <entry>
+        <id>65</id>
+        <tp>Noesembépe pepytá.</tp>
+        <pt>Ficais em Nhoesembé.</pt>
+    </entry>
+    <entry>
+        <id>66</id>
+        <tp>'Y kûá suí pesem.</tp>
+        <pt>Saístes da enseada do rio.</pt>
+    </entry>
+    <entry>
+        <id>67</id>
+        <tp>Ygara oîepotar.</tp>
+        <pt>A canoa chegou.</pt>
+    </entry>
+    <entry>
+        <id>68</id>
+        <tp>Ygarusu pupé îapytá.</tp>
+        <pt>Ficamos dentro do navio.</pt>
+    </entry>
+    <entry>
+        <id>69</id>
+        <tp>Abáetá îakaré 'ype osó.</tp>
+        <pt>Muitos índios vão para o rio dos jacarés.</pt>
+    </entry>
+    <entry>
+        <id>70</id>
+        <tp>Abáetá ygara suí osem.</tp>
+        <pt>Muitos índios saem da canoa.</pt>
+    </entry>
+    <entry>
+        <id>71</id>
+        <tp>Ygarusuetá 'y kûápe oîkó.</tp>
+        <pt>Muitos navios estão na enseada do rio.</pt>
+    </entry>
+    <entry>
+        <id>72</id>
+        <tp>Peróetá abá supé onhe'eng.</tp>
+        <pt>Muitos portugueses falam aos índios.</pt>
+    </entry>
+    <entry>
+        <id>73</id>
+        <tp>Paketá 'y kûápe opytá.</tp>
+        <pt>Muitas pacas ficam na enseada do rio.</pt>
+    </entry>
+    <entry>
+        <id>74</id>
+        <tp>Gûyratingetá 'y kûá suí osem.</tp>
+        <pt>Muitas garças saem da enseada do rio.</pt>
+    </entry>
+    <entry>
+        <id>75</id>
+        <tp>Morubixabetá osyk.</tp>
+        <pt>Muitos caciques chegam.</pt>
+    </entry>
+    <entry>
+        <id>76</id>
+        <tp>Abáetá Nhoesembépe oîkó.</tp>
+        <pt>Muitos índios moram em Nhoesembé.</pt>
+    </entry>
+    <entry>
+        <id>77</id>
+        <tp>Abá osykyîé.</tp>
+        <pt>O índio tem medo.</pt>
+    </entry>
+    <entry>
+        <id>78</id>
+        <tp>Tatu 'ype asó.</tp>
+        <pt>Vou para o rio dos tatus.</pt>
+    </entry>
+    <entry>
+        <id>79</id>
+        <tp>Pedro ygarusu pupé oîkó.</tp>
+        <pt>Pedro está dentro do navio.</pt>
+    </entry>
+    <entry>
+        <id>80</id>
+        <tp>Ygarusu suí îasem. 'Y kûápe îasó.</tp>
+        <pt>Saímos do navio. Vamos para a enseada do rio.</pt>
+    </entry>
+    <entry>
+        <id>81</id>
+        <tp>Maria 'Ypa'ũgûasupe osó.</tp>
+        <pt>Maria vai para Ipauguaçu.</pt>
+    </entry>
+    <entry>
+        <id>82</id>
+        <tp>Abá ygarusupe osó. Osykyîé.</tp>
+        <pt>Os índios vão para o navio. Tem medo.</pt>
+    </entry>
+    <entry>
+        <id>83</id>
+        <tp>Peró abá supé onhe'eng.</tp>
+        <pt>Um português fala a um índio</pt>
+    </entry>
+    <entry>
+        <id>84</id>
+        <tp>- Mamõpe ereîkó? - 'Ypa'ũgûasupe aîkó.</tp>
+        <pt>- Onde moras? - Moro em Ipauguaçu.</pt>
+    </entry>
+    <entry>
+        <id>85</id>
+        <tp>Mamõpe peîkó? - 'Ypa'ũgûasupe oroîkó.</tp>
+        <pt>- Onde morais? - Moramos em Ipauguaçu.</pt>
+    </entry>
+    <entry>
+        <id>86</id>
+        <tp>- Mamõpe ereîkó? - Tatu 'y pupé aîkó.</tp>
+        <pt>- Onde estás? - Estou dentro do rio dos tatus.</pt>
+    </entry>
+    <entry>
+        <id>87</id>
+        <tp>- Mamõpe pepytá? - Îakaré 'y pupé oropytá.</tp>
+        <pt>- Onde ficais? - Ficamos dentro do rio dos jacarés.</pt>
+    </entry>
+    <entry>
+        <id>88</id>
+        <tp>- Abápe peró? - Pedro.</tp>
+        <pt>- Quem é o português? - É Pedro.</pt>
+    </entry>
+    <entry>
+        <id>89</id>
+        <tp>- Abápe morubixaba? - Ka'ioby.</tp>
+        <pt>- Quem é o cacique? - É Caiobi.</pt>
+    </entry>
+    <entry>
+        <id>90</id>
+        <tp>- Abápe osem? - Pedro osem.</tp>
+        <pt>- Quem saiu? - Pedro saiu.</pt>
+    </entry>
+    <entry>
+        <id>91</id>
+        <tp>- Abápe oîepotar? - Peró oîepotar.</tp>
+        <pt>- Quem chegou por mar? - O português chegou por mar.</pt>
+    </entry>
+    <entry>
+        <id>92</id>
+        <tp>- Abápe peró supé onhe'eng? - Pedro peró supé onhe'eng.</tp>
+        <pt>- Quem falou ao português? - Pedro falou ao português.</pt>
+    </entry>
+    <entry>
+        <id>93</id>
+        <tp>- Abápe y' kûápe oîkó? - Peró 'y kûápe oîkó.</tp>
+        <pt> - Quem está na enseada do rio? - Os portugueses estão na enseada do rio.</pt>
+    </entry>
+    <entry>
+        <id>94</id>
+        <tp></tp>
+        <pt></pt>
+    </entry>
 </root>
