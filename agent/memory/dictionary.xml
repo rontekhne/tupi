@@ -356,28 +356,114 @@
         </meaning>
         <source>65,115,169</source>
     </a>
-    <!--a>
+    <a>
         <id>12</id>
         <word>a'ang</word>
         <class>verbo tansitivo</class>
-        <meaning>(s) - assinalar, marcar, representar (VLB, II, 102): <tp>Marãnamope asé o îurupe sa'angino?</tp> - Por que a gente em sua boca a assinala também (isto é, a cruz)? (Ar., Cat., 21v)&#xA;• <tp>a'angaba</tp> (t) - tempo, lugar, modo, instrumento etc. de assinalar, de marcar; sinal, marca, imagem, símbolo, significado; molde, exemplar (VLB, II, 40): <tp>Pa'i, Sumé pypûera'angaba a'e.</tp> - Padre, aquelas são as marcas dos pés de Sumé. (Vasconcelos, Crônica (Not.) II, §20, 123); <tp>Santa Cruz ra'angaba resé oré pysyrõ îepé...</tp> - Pelo sinal da Santa Cruz livra-nos tu... (Anch., Doutr. Cristã, 1,139); <tp>Osobá-syb aó-tinga pupé; a'e resé sobá ra'angaba pytáû.</tp> - Limpou seu rosto com um pano branco; nele ficou a imagem de seu rosto. (Ar., Cat., 89); <tp>Nde rokangaturamûama oroîmoĩ, nde raûsupa, nde ra'angaba rerokupa</tp>. - Tua casa santa edificamos, amando-te, tua imagem fazendo estar conosco. (Anch., Poemas, 146); <tp>abá ra'angaba</tp> - estátua (VLB, I, 128); imagem de pessoa ( VLB, I, 127); <tp>Tupã ra'angaba</tp> - imagem de Deus (VLB, II, 10)</meaning>
+        <meaning>
+            <case>
+                <translation>(s) - assinalar, marcar, representar (VLB, II, 102):</translation>
+                <example>
+                    <tp>Marãnamope asé o îurupe sa'angino?</tp>
+                    <pt>Por que a gente em sua boca a assinala também (isto é, a cruz)?</pt> 
+                     <src>(Ar., Cat., 21v)</src>
+                </example>
+            </case> 
+            <case>
+                <translation>• tempo, lugar, modo, instrumento etc. de assinalar, de marcar:</translation>
+                <example>
+                    <tp>a'angaba</tp> 
+                    <pt>(t) sinal, marca, imagem, símbolo, significado; molde, exemplar</pt> 
+                    <src>(VLB, II, 40)</src>
+                </example>
+                <example>
+                    <tp>Pa'i, Sumé pypûera'angaba a'e.</tp>
+                    <pt>Padre, aquelas são as marcas dos pés de Sumé.</pt>
+                    <src>(Vasconcelos, Crônica (Not.) II, §20, 123)</src>   
+                </example>
+                <example>
+                    <tp>Santa Cruz ra'angaba resé oré pysyrõ îepé...</tp>
+                    <pt>Pelo sinal da Santa Cruz livra-nos tu...</pt> 
+                    <src>(Anch., Doutr. Cristã, 1,139)</src> 
+                </example>
+                <example>
+                    <tp>Osobá-syb aó-tinga pupé; a'e resé sobá ra'angaba pytáû.</tp>
+                    <pt>Limpou seu rosto com um pano branco; nele ficou a imagem de seu rosto.</pt> 
+                    <src>(Ar., Cat., 89)</src> 
+                </example>
+                <example>
+                    <tp>Nde rokangaturamûama oroîmoĩ, nde raûsupa, nde ra'angaba rerokupa.</tp>
+                    <pt>Tua casa santa edificamos, amando-te, tua imagem fazendo estar conosco.</pt> 
+                    <src>(Anch., Poemas, 146)</src> 
+                </example>
+                <example>
+                    <tp>abá ra'angaba</tp>
+                    <pt>estátua ; imagem de pessoa</pt> 
+                    <src>(VLB, I, 128); ( VLB, I, 127)</src> 
+                </example>
+                <example>
+                    <tp>Tupã ra'angaba</tp>
+                    <pt>imagem de Deus</pt> 
+                    <src>(VLB, II, 10)</src>
+                </example>
+            </case>              
+        </meaning>  
         <source>65,169,113,167,109,111</source>
     </a>
     <a>
         <id>13</id>
         <word>a'ang</word>
         <class>verbo transitivo</class>
-        <meaning>(s) - 1) compassar, medir, tirar a medida de: <tp>Asa'ang.</tp> - Medi-o. (VLB, I, 78); <tp>Atypy-a'ang.</tp> - Medi a profundidade dele. (VLB, II, 121); <tp>Aty-ypy-a'ang.</tp> - Eu meço a profundidade do rio. (VLB, II, 63);&#xA;2) pesar (com pesos, balanças) (VLB, II, 75)&#xA;• <tp>sa'angymbyra</tp> - o que é (ou deve ser) medido (VLB, II, 34); <tp>a'angaba</tp> (t) - tempo, lugar, modo, instrumento etc. de medir; medida, peso (VLB, II, 34)</meaning>
+        <meaning>
+            <case>
+                <translation>(s) - 1) compassar, medir, tirar a medida de:</translation>
+                <example>
+                    <tp>Asa'ang.</tp>
+                    <pt>Medi-o.</pt> 
+                    <src>(VLB, I, 78)</src>
+                </example>
+                <example>
+                    <tp>Atypy-a'ang.</tp>
+                    <pt>Medi a profundidade dele.</pt> 
+                    <src>(VLB, II, 121)</src> 
+                </example>
+                <example>
+                    <tp>Aty-ypy-a'ang.</tp>
+                    <pt>Eu meço a profundidade do rio.</pt>
+                    <src>(VLB, II, 63)</src>
+                </example>
+            </case>
+            <case>
+                <translation>2) pesar (com pesos, balanças) (VLB, II, 75)</translation>
+            </case>
+            <case>
+                <translation>•</translation>
+                <example>
+                    <tp>sa'angymbyra</tp>
+                    <pt>o que é (ou deve ser) medido</pt> 
+                    <src>(VLB, II, 34)</src> 
+                </example>
+                <example>
+                    <tp>a'angaba</tp>
+                    <pt>(t) - tempo, lugar, modo, instrumento etc. de medir; medida, peso</pt>
+                    <src>(VLB, II, 34)</src>
+                </example>
+            </case>
+        </meaning>
         <source>65,169</source>
     </a>
     <a>
         <id>14</id>
         <word>a'ang</word>
         <class>verbo transitivo</class>
-        <meaning>(s) - fazer traçado, fazer a planta de (p.ex., uma edificação) (VLB, II, 134)</meaning>
+        <meaning>
+            <case>
+                <translation>(s) - fazer traçado, fazer a planta de (p.ex., uma edificação) (VLB, II, 134)</translation>
+            </case>
+        </meaning>
         <source>65,169</source>
     </a>
-    <a>
+    <!--a>
         <id>15</id>
         <word>a'ang</word>
         <class>verbo transitivo</class>

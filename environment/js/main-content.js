@@ -91,7 +91,6 @@ function showPhraseById(index) {
 
     loadXML('phrases.xml', function(phrasesXML) {
         var tags = phrasesXML.getElementsByTagName('entry');
-        console.log("Número de frases encontradas:", tags.length);
         
         if (index < 0 || index >= tags.length) {
             resultDiv.innerHTML = "<p>Índice fora do intervalo.</p>";
