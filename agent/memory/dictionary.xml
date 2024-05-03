@@ -463,28 +463,106 @@
         </meaning>
         <source>65,169</source>
     </a>
-    <!--a>
+    <a>
         <id>15</id>
         <word>a'ang</word>
         <class>verbo transitivo</class>
-        <meaning>(s) - imitar, arremedar: <tp>... nde rekokatu ra'anga.</tp> - imitando tua virtude (Anch., Poemas, 98); <tp>Eresa'angype abá-memûã?</tp> - Imitaste os homens maus? (Anch., Doutr. Cristã, II, 100); <tp>Asa'ang-a'ub.</tp> - Imitei-o fingidamente. (VLB, I, 81)</meaning>
+        <meaning>
+            <case>
+                <translation>(s) - imitar, arremedar:</translation>
+                <example>
+                    <tp>... nde rekokatu ra'anga.</tp> 
+                    <pt>... imitando tua virtude</pt> 
+                    <src>(Anch., Poemas, 98)</src> 
+                </example>
+                <example>
+                    <tp>Eresa'angype abá-memûã?</tp>
+                    <pt>Imitaste os homens maus?</pt> 
+                    <src>(Anch., Doutr. Cristã, II, 100)</src> 
+                </example>
+                <example>
+                    <tp>Asa'ang-a'ub.</tp>
+                    <pt>Imitei-o fingidamente.</pt> 
+                    <src>(VLB, I, 81)</src>
+                </example>
+            </case>            
+        </meaning>
         <source>65,111,110,169</source>
     </a>
     <a>
         <id>16</id>
         <word>a'ang</word>
         <class>verbo transitivo</class>
-        <meaning>(s) - atirar (VLB, I, 47); atirar ao alvo (por exemplo, flecha): <tp>Asa'ang.</tp> - Atiro-a. (VLB, II, 129)</meaning>
+        <meaning>
+            <case>
+                <translation>(s) - atirar (VLB, I, 47); atirar ao alvo (por exemplo, flecha):</translation>
+                <example>
+                    <tp>Asa'ang.</tp>
+                    <pt>Atiro-a.</pt>
+                    <src>(VLB, II, 129)</src>
+                </example>
+            </case>        
+        </meaning>
         <source>65,169</source>
     </a>
     <a>
         <id>17</id>
         <word>a'ang</word>
         <class>verbo transitivo</class>
-        <meaning>(s) - 1) pronunciar (p.ex., aquilo que se lê), ler, proferir, declarar: <tp>Asa'ang.</tp> - Leio-o. (VLB, II, 20); <tp>Abápe aîpoba'e oîmonhang erimba'e, sa'angypŷabo?</tp> - Quem o fez outrora, começando a pronunciá-lo? (Ar., Cat. , 25v); <tp>Esa'ãngatu.</tp> - Pronuncia-o bem. (VLB, II, 87);&#xA;2) celebrar: <tp>Missa ra'anga asébe...</tp> - Celebrando a missa para a gente. (Ar., Cat., 93v)&#xa;• <tp>a'angara</tp> (t) - o que pronuncia, o que profere etc.: <tp>... Ladainhas ra'angara...</tp> - o que profere as ladainhas (Ar., Cat. , 125, 1686); <tp>a'angaba</tp> (t) - tempo, lugar, modo etc. de celebrar, de proferir; o proferlr etc.: <tp>Ladainhas ra'angaba...</tp> - O proferir das ladainhas (Ar., Cat., 126</meaning>
+        <meaning>
+            <case>
+                <translation>(s) - 1) pronunciar (p.ex., aquilo que se lê), ler, proferir, declarar:</translation> 
+                <example>
+                    <tp>Asa'ang.</tp>
+                    <pt>Leio-o.</pt>
+                    <src>(VLB, II, 20);</src>
+                </example>
+                <example>
+                    <tp>Abápe aîpoba'e oîmonhang erimba'e, sa'angypŷabo?</tp>
+                    <pt>Quem o fez outrora, começando a pronunciá-lo?</pt> 
+                    <src>(Ar., Cat. , 25v)</src>
+                </example>
+                <example>
+                    <tp>Esa'ãngatu.</tp>
+                    <pt>Pronuncia-o bem.</pt> 
+                    <src>(VLB, II, 87)</src>
+                </example>
+            </case>
+            <case>
+                <translation>2) celebrar:</translation> 
+                <example>
+                    <tp>Missa ra'anga asébe...</tp>
+                    <pt>Celebrando a missa para a gente.</pt> 
+                    <src>(Ar., Cat., 93v)</src>
+                </example>
+            </case>
+            <case>
+                <translation>•</translation>
+                <example>
+                    <tp>a'angara</tp> 
+                    <pt>(t) - o que pronuncia, o que profere etc.:</pt> 
+                    <src></src>
+                </example>
+                <example>
+                    <tp>... Ladainhas ra'angara...</tp>
+                    <pt>o que profere as ladainhas...</pt> 
+                    <src>(Ar., Cat. , 125, 1686)</src> 
+                </example>
+                <example>
+                    <tp>a'angaba</tp> 
+                    <pt>(t) - tempo, lugar, modo etc. de celebrar, de proferir; o proferlr etc.:</pt> 
+                    <src></src>
+                </example>
+                <example>
+                    <tp>Ladainhas ra'angaba...</tp>
+                    <pt>O proferir das ladainhas...</pt> 
+                    <src>(Ar., Cat., 126)</src>
+                </example>
+            </case>
+        </meaning>
         <source>65,169,113</source>
     </a>
-    <a>
+    <!--a>
         <id>18</id>
         <word>a'ang</word>
         <class>verbo transitivo</class>
