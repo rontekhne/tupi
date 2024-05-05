@@ -562,28 +562,133 @@
         </meaning>
         <source>65,169,113</source>
     </a>
-    <!--a>
+    <a>
         <id>18</id>
         <word>a'ang</word>
         <class>verbo transitivo</class>
-        <meaning>(s) - 1) tentar, experimentar, pôr à prova: <tp>I abaí xébo sa'anga.</tp> - É difícil para mim tentá-los. (Anch., Teatro, 16); <tp>... Tupã nhe'enga asa'ang.</tp> - A palavra de Deus experimentei. (Anch., Teatro, 172); <tp>T'isa'ang apŷ aba marã îandé irũ.</tp> - Experimentemos a força dos homens conosco. (Léry, Histoire, 357);&#xA;2) exercitar-se em, ensaiar-se em, esforçar-se por: <tp>Pesa'ang îepé peuî koriteĩ nhõte xe pyri, pekere'yma...</tp> - Embora vos tivésseis esforçado, estivestes deitados só pouco tempo junto a mim, não dormindo. (Ar., Cat., 53) <tp>N'osa'angi-tep'akó nhembo'e ko'arapukuî?</tp> - Mas não se esforçam esses por aprender sempre? (Anch., Teatro, 30);&#xA;3) provar (dar provas de), demonstrar poder (com um dos verbos no gerúndio): <tp>Esa'ang serasóbo.</tp> - Prova-o, levando-o; prova que o levas. (VLB, II, 88);&#xA;4) provar, gostar (sentir o gosto de): <tp>Marã e'ipe sa'ang'iré?</tp> - Que disse após prová-la (isto é, a bebida)? (Ar., Cat., 63v); <tp>... E'i mo'ema monhanga, mosanga ra'ã-ra'anga...</tp> - Mostram-se a urdir mentiras, ficando a provar poções. (Anch., Teatro, 36)&#xA;• <tp>a'ang iepé</tp> (s) - tentar sem que surta efeito: <tp>Asa'ang îepé i monhanga</tp> (ou <tp>Asa'ang îepé i monhangambûera</tp>). - Tentei fazê-lo, sem conseguir. (VLB, II, 13); <tp>Mbegûé é ko'yté abá tekokuá kanhemi, sesapysopûera kanhemi, ... o nhe'engabûera ra'ang îepébo...</tp> - Lentamente, enfim, o homem perde entendimento, sua vista aguda de outrora desaparece, tentando inutilmente a fala. (Ar., Cat., 156); <tp>osa'angyba'e</tp> - o que tenta, o que prova etc.: <tp>Apŷaba kunhã resé o ekó osa'angîepéba'e nd'e'ikatuî omendá.</tp> - O homem que tenta, sem êxito, ter relações sexuais com uma mulher, não pode casar. (Ar., Cat., 131v); <tp>a'angara</tp> (t) - tentador: <tp>Emokanhem xe ra'angara ...</tp> - Faze sumir meu tentador ... (Valente, Cantigas, III, in Ar., Cat. ,1686</meaning>
+        <meaning>
+            <case>
+                <translation>(s) - 1) tentar, experimentar, pôr à prova:</translation>
+                <example>
+                    <tp>I abaí xébo sa'anga.</tp>
+                    <pt>É difícil para mim tentá-los.</pt> 
+                    <src>(Anch., Teatro, 16)</src> 
+                </example>
+                <example>
+                    <tp>... Tupã nhe'enga asa'ang.</tp>
+                    <pt>... A palavra de Deus experimentei.</pt> 
+                    <src>(Anch., Teatro, 172)</src> 
+                </example>
+                <example>
+                    <tp>T'isa'ang apŷ aba marã îandé irũ.</tp>
+                    <pt>Experimentemos a força dos homens conosco.</pt> 
+                    <src>(Léry, Histoire, 357)</src>
+                </example>
+            </case>
+            <case>
+                <translation>2) exercitar-se em, ensaiar-se em, esforçar-se por:</translation>
+                <example>
+                    <tp>Pesa'ang îepé peuî koriteĩ nhõte xe pyri, pekere'yma...</tp>
+                    <pt>Embora vos tivésseis esforçado, estivestes deitados só pouco tempo junto a mim, não dormindo...</pt>
+                    <src>(Ar., Cat., 53)</src>
+                </example>
+                <example>
+                    <tp>N'osa'angi-tep'akó nhembo'e ko'arapukuî?</tp>
+                    <pt>Mas não se esforçam esses por aprender sempre?</pt> 
+                    <src>(Anch., Teatro, 30)</src>
+                </example>
+            </case>
+            <case>
+                <translation>3) provar (dar provas de), demonstrar poder (com um dos verbos no gerúndio):</translation> 
+                <example>
+                    <tp>Esa'ang serasóbo.</tp>
+                    <pt>Prova-o, levando-o; prova que o levas.</pt> 
+                    <src>(VLB, II, 88)</src>
+                </example>
+            </case>
+            <case>
+                <translation>4) provar, gostar (sentir o gosto de):</translation>
+                <example>
+                    <tp>Marã e'ipe sa'ang'iré?</tp>
+                    <pt>Que disse após prová-la (isto é, a bebida)?</pt> 
+                    <src>(Ar., Cat., 63v)</src>
+                </example>
+                <example>
+                    <tp>... E'i mo'ema monhanga, mosanga ra'ã-ra'anga...</tp>
+                    <pt>... Mostram-se a urdir mentiras, ficando a provar poções...</pt> 
+                    <src>(Anch., Teatro, 36)</src>
+                </example> 
+            </case>
+            <case>
+                <translation>•</translation>
+                <example>
+                    <tp>a'ang iepé</tp> 
+                    <pt>(s) - tentar sem que surta efeito:</pt> 
+                    <src></src>
+                </example>
+                <example>
+                    <tp>Asa'ang îepé i monhanga</tp> (ou <tp>Asa'ang îepé i monhangambûera</tp>)
+                    <pt>Tentei fazê-lo, sem conseguir.</pt> 
+                    <src>(VLB, II, 13)</src> 
+                </example> 
+                <example>
+                    <tp>Mbegûé é ko'yté abá tekokuá kanhemi, sesapysopûera kanhemi, ... o nhe'engabûera ra'ang îepébo...
+                    </tp>
+                    <pt>Lentamente, enfim, o homem perde entendimento, sua vista aguda de outrora desaparece, tentando inutilmente a fala.</pt> 
+                    <src>(Ar., Cat., 156)</src> 
+                </example>
+                <example>
+                    <tp>osa'angyba'e</tp>
+                    <pt>o que tenta, o que prova etc.:</pt> 
+                    <src></src>
+                </example>
+                <example>
+                    <tp>Apŷaba kunhã resé o ekó osa'angîepéba'e nd'e'ikatuî omendá.</tp>
+                    <pt>O homem que tenta, sem êxito, ter relações sexuais com uma mulher, não pode casar.</pt>
+                    <src>(Ar., Cat., 131v)</src> 
+                </example>  
+                <example>
+                    <tp>a'angara</tp> 
+                    <pt>(t) - tentador:</pt>
+                    <src></src>
+                </example>
+                <example> 
+                    <tp>Emokanhem xe ra'angara ...</tp>
+                    <pt>Faze sumir meu tentador ...</pt> 
+                    <src>(Valente, Cantigas, III, in Ar., Cat. ,1686)</src>
+                </example>
+            </case>
+        </meaning>
         <source>65,112,145,113,169</source>
     </a>
     <a>
         <id>19</id>
         <word>a'anga</word>
         <class>substantivo</class>
-        <meaning>(t) - imagem, representação: <tp>Aó-tinga pupé asé resé sobá ra'anga rari.</tp> - Num pano branco, por nossa causa, a imagem de seu rosto tomou. (Anch., Diál. da Fé, 188)</meaning>
+        <meaning>
+            <case>
+                <translation>(t) - imagem, representação:</translation>
+                <example>
+                    <tp>Aó-tinga pupé asé resé sobá ra'anga rari.</tp>
+                    <pt>Num pano branco, por nossa causa, a imagem de seu rosto tomou.</pt> 
+                    <src>(Anch., Diál. da Fé, 188)</src>
+                </example>
+            </case>            
+        </meaning>
         <source>65,107</source>
     </a>
     <a>
         <id>20</id>
         <word>a'angaba</word>
         <class>substantivo</class>
-        <meaning>molde, exemplar (VLB, Il, 40)</meaning>
+        <meaning>
+            <case>
+                <translation>molde, exemplar (VLB, Il, 40)</translation>
+            </case>
+        </meaning>
         <source>65,169</source>
     </a>
-    <a>
+    <!--a>
         <id>21</id>
         <word>aani</word>
         <class>advérbio</class>
