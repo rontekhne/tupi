@@ -947,105 +947,660 @@
         </meaning>
         <source>65,131,169</source>
     </a>
-    <!--a>
+    <a>
         <id>26</id>
         <word>aba</word>
         <class>substantivo</class>
-        <meaning>(t) - 1) penugem, pena miúda [isto é, aquela que a ave tem pelo corpo todo. A pena grande das asas é <tp>pepó</tp> (ver)]: <tp>xe raba</tp> - minha pena; <tp>saba</tp> - sua pena; <tp>gûyrá raba</tp> - a pena do pássaro (Fig., Arte, 71); - <tp>Mba'epe ereru nde karamemûã pupé? - Aoba. - Marãba'e? - Pykasu-aba.</tp> - Que trouxeste dentro de tua caixa? - Roupas. - De que tipo? - De pena de pomba. (Léry, Histoire, 342-343); <tp>Moraseîa é i katu, îegûaka, ... sa-mongy...</tp> - A dança é que é boa, enfeitar-se, untar suas penas. (Anch., Teatro, 6);&#xA;2) pelo ou cabelo do corpo, de homem ou animal (pelo ou cabelo da cabeça é <tp>'aba</tp> - ver) (Castilho, Nomes, 37);&#xA;3) lã (VLB, II, 17);&#xA;4) felpa: <tp>Xe rabusu.</tp> - Eu tenho muita felpa. (VLB, l, 137)&#xA;• <tp>a-ura</tp> (t) ou <tp>a-popora</tp> (t) - penugem fina de ave que começa a emplumar-se (VLB, I, 113; II, 71); <tp>agûera</tp> (t) - pelo retirado do corpo (VLB, II, 1 14); <tp>tukana tá-poraseîa</tp> - pena de tucano para dança (isto é, pena que os índios levavam comumente quando dançavam) (Léry, Histoire, 283, 1994)&#xA;NOTA - Daí, no P.B., pela língua geral amazônica, TAPIRAUA ("pelo de anta"), nome de um povo indígena extinto do Pará. Daí, também, EMBOABA (mbó + ab + -a, "patas peludas"), alcunha que os paulistas davam aos portugueses que disputavam consigo a posse das minas de ouro e pedras preciosas das Mlnas Gerais, no início do século XVIII, o que provocaria a famosa Guerra dos Emboabas; TAPIRANGA (taba + pirang + -a, "penas vermelhas"), nome de um pássaro traupídeo.</meaning>
+        <meaning>
+            <comments>(t)</comments>
+            <case>
+                <translation>
+                    <pt>1) penugem, pena miúda [isto é, aquela que a ave tem pelo corpo todo. A pena grande das asas é pepó (ver)]:</pt>
+                </translation>
+                <example>
+                    <tp>xe raba</tp>
+                    <pt>minha pena</pt> 
+                </example>
+                <example>
+                    <tp>saba</tp>
+                    <pt>sua pena</pt>
+                </example>
+                <example>
+                    <tp>gûyrá raba</tp>
+                    <pt>a pena do pássaro</pt> 
+                    <src>(Fig., Arte, 71)</src>
+                </example>
+                <example>
+                    <tp>Mba'epe ereru nde karamemûã pupé? - Aoba. - Marãba'e? - Pykasu-aba.</tp>
+                    <pt>Que trouxeste dentro de tua caixa? - Roupas. - De que tipo? - De pena de pomba.</pt>
+                    <src>(Léry, Histoire, 342-343)</src> 
+                </example>
+                <example>
+                    <tp>Moraseîa é i katu, îegûaka, ... sa-mongy...</tp>
+                    <pt>A dança é que é boa, enfeitar-se, untar suas penas.</pt>
+                    <src>(Anch., Teatro, 6)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>2) pelo ou cabelo do corpo, de homem ou animal (pelo ou cabelo da cabeça é 'aba - ver)</pt>
+                    <src>(Castilho, Nomes, 37)</src>
+                </translation>
+            </case>
+            <case>
+                <translation>
+                    <pt>3) lã</pt>
+                    <src>(VLB, II, 17)</src>
+                </translation>
+            </case>
+            <case>
+                <translation>
+                    <pt>4) felpa:</pt>
+                </translation>
+                <example>
+                    <tp>Xe rabusu.</tp>
+                    <pt>Eu tenho muita felpa.</pt> 
+                    <src>(VLB, l, 137)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <tp>a-ura | a-popora</tp>
+                    <pt>(t) - penugem fina de ave que começa a emplumar-se</pt>
+                    <src>(VLB, I, 113; II, 71)</src> 
+                </translation>
+                <example>
+                    <tp>agûera</tp>
+                    <pt>(t) - pelo retirado do corpo</pt> 
+                    <src>(VLB, II, 1 14)</src> 
+                </example>
+                <example>
+                    <tp>tukana tá-poraseîa</tp>
+                    <pt>pena de tucano para dança (isto é, pena que os índios levavam comumente quando dançavam)</pt> 
+                    <src>(Léry, Histoire, 283, 1994)</src>
+                </example>
+            </case>
+            <note>
+                NOTA - Daí, no P.B., pela língua geral amazônica, TAPIRAUA ("pelo de anta"), nome de um povo indígena extinto do Pará. Daí, também, EMBOABA (mbó + ab + -a, "patas peludas"), alcunha que os paulistas davam aos portugueses que disputavam consigo a posse das minas de ouro e pedras preciosas das Mlnas Gerais, no início do século XVIII, o que provocaria a famosa Guerra dos Emboabas; TAPIRANGA (taba + pirang + -a, "penas vermelhas"), nome de um pássaro traupídeo.
+            </note>        
+        </meaning>
         <source>65,131,145,112,123,169</source>
     </a>
     <a>
         <id>27</id>
         <word>'aba</word>
         <class>substantivo</class>
-        <meaning>(etim. - pelo da cabeça, 'a + aba) - 1) cabelo da cabeça (Anch., Arte, 15v): <tp>xe 'aba, nde 'aba, i 'aba</tp> - meu cabelo, teu cabelo, o cabelo dele (Castilho, Nomes, 27); <tp>'a-tyrá-tyrá</tp> - cabelos muito arrepiados, grenha (VLB, I, 150); <tp>'a-tinga</tp> - cabelos brancos, cãs, ABATINGA; <tp>Xe 'a-tinga</tp> - meus cabelos brancos; minha abatinga (VLB, I, 65); <tp>'a-titinga</tp> - manchas brancas do cabelo (VLB, II, 29);&#xA;2) pelo ou penugem da cabeça (de animais mamíferos, de aves): <tp>Aî'abeky-ekyî.</tp> - Fiquei-lhe puxando os pelos; fiquei-o arrepelando. (VLB, I, 42)&#xA;• <tp>andyrá-'aba</tp> - tipo de corte de cabelo dos índios (etimologia - cabelo de morcego) (VLB, II, 137); <tp>'agûera</tp> - cabeleira, peruca (VLB, I, 61)&#xA;NOTA - Daí, n o P.B. (AM), ABATINGA ("cabelos brancos"), pessoa velha, pessoa encanecida; ABATIRÁ ('aba + tyrá, "cabelos arrepiados"), nome de um antigo grupo indígena de Porto Seguro)</meaning>
+        <meaning>
+            <comments>(etim. - pelo da cabeça, 'a + aba)</comments>
+            <case>
+                <translation>
+                    <pt>1) cabelo da cabeça:</pt>
+                    <src>(Anch., Arte, 15v)</src> 
+                </translation>
+                <example>
+                    <tp>xe 'aba, nde 'aba, i 'aba</tp>
+                    <pt>meu cabelo, teu cabelo, o cabelo dele</pt> 
+                    <src>(Castilho, Nomes, 27)</src> 
+                </example>
+                <example>
+                    <tp>'a-tyrá-tyrá</tp>
+                    <pt>cabelos muito arrepiados, grenha</pt> 
+                    <src>(VLB, I, 150)</src> 
+                </example>
+                <example>
+                    <tp>'a-tinga</tp>
+                    <pt>cabelos brancos, cãs, ABATINGA;</pt> 
+                </example> 
+                <example>
+                    <tp>Xe 'a-tinga</tp>
+                    <pt>meus cabelos brancos; minha abatinga</pt> 
+                    <src>(VLB, I, 65)</src>
+                </example>
+                <example>
+                    <tp>'a-titinga</tp>
+                    <pt>manchas brancas do cabelo</pt> 
+                    <src>(VLB, II, 29)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>2) pelo ou penugem da cabeça (de animais mamíferos, de aves):</pt>
+                </translation>
+                <example>
+                    <tp>Aî'abeky-ekyî.</tp>
+                    <pt>Fiquei-lhe puxando os pelos; fiquei-o arrepelando.</pt> 
+                    <src>(VLB, I, 42)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <tp>andyrá-'aba</tp>
+                    <pt>tipo de corte de cabelo dos índios (etimologia - cabelo de morcego)</pt> 
+                    <src>(VLB, II, 137)</src> 
+                </translation>
+            </case>
+            <case>
+                <translation>     
+                    <tp>'agûera</tp>
+                    <pt>cabeleira, peruca</pt>
+                    <src>(VLB, I, 61)</src>
+                </translation>
+            </case>
+            <note>
+                NOTA - Daí, n o P.B. (AM), ABATINGA ("cabelos brancos"), pessoa velha, pessoa encanecida; ABATIRÁ ('aba + tyrá, "cabelos arrepiados"), nome de um antigo grupo indígena de Porto Seguro.
+            </note>        
+        </meaning>
         <source>65,105,123,169,</source>
     </a>
     <a>
         <id>28</id>
         <word>abá</word>
         <class>interrogativo</class>
-        <meaning>1) quem?: <tp>Oporakakab? Abá?...</tp> - Censuram? Quem?... (Anch., Teatro, 34); <tp>... Abá serã ogûeru?</tp> - Quem será que a trouxe? (Anch., Teatro, 4); <tp>Abá ra'yrape nde?</tp> - Filho de quem és tu? (VLB, I, 87); <tp>Abá rokype erekûá?</tp> - Na casa de quem passaste? (Anch., Teatro, 44); <tp>Abápe nde?</tp> - Quem és tu? (Anch., Teatro, 44); <tp>Abápe îa'u raẽne?</tp> - Quem devoraremos primeiro? (Anch., Teatro, 64);&#xA;2) qual? quê?: <tp>Abápe 'ara para oîkó nde îabé?</tp> - Que habitante do mundo há como tu? (Anch., Poemas,116)&#xA;• <tp>abá-abá?</tp> - quem? (quando se tratar de mais de uma pessoa): <tp>Abá-abápe asé resé Tupã mongetasaramo sekóû?</tp> - Quem são os que rogam por nós a Deus? (Ar., Cat., 23v); <tp>abá supé?</tp> - para quem? a quem?: <tp>Abá supépe asé îeruréû...?</tp> - Para quem a gente reza? (Ar., Cat., 23); <tp>Abá-pipó?</tp> - Quem é? Quem está ai? (VLB, II, 94)</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>1) quem?:</pt> 
+                </translation>
+                <example>
+                    <tp>Oporakakab? Abá?...</tp>
+                    <pt>Censuram? Quem?...</pt> 
+                    <src>(Anch., Teatro, 34)</src>
+                </example>
+                <example>
+                    <tp>... Abá serã ogûeru?</tp>
+                    <pt>Quem será que a trouxe?</pt> 
+                    <src>(Anch., Teatro, 4)</src>
+                </example>
+                <example> 
+                    <tp>Abá ra'yrape nde?</tp>
+                    <pt>Filho de quem és tu?</pt> 
+                    <src>(VLB, I, 87)</src> 
+                </example>
+                <example>
+                    <tp>Abá rokype erekûá?</tp>
+                    <pt>Na casa de quem passaste?</pt>
+                    <src>(Anch., Teatro, 44)</src>
+                </example>
+                <example>
+                    <tp>Abápe nde?</tp>
+                    <pt>Quem és tu?</pt> 
+                    <src>(Anch., Teatro, 44)</src> 
+                </example>
+                <example>
+                    <tp>Abápe îa'u raẽne?</tp>
+                    <pt>Quem devoraremos primeiro?</pt> 
+                    <src>(Anch., Teatro, 64)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>2) qual? quê?:</pt>
+                </translation>
+                <example>
+                    <tp>Abápe 'ara para oîkó nde îabé?</tp>
+                    <pt>Que habitante do mundo há como tu?</pt> 
+                    <src>(Anch., Poemas,116)</src>
+                </example> 
+            </case>
+            <case>
+                <translation>
+                    <tp>abá-abá?</tp>
+                    <pt>quem? (quando se tratar de mais de uma pessoa):</pt>
+                </translation>
+                <example>
+                    <tp>Abá-abápe asé resé Tupã mongetasaramo sekóû?</tp>
+                    <pt>Quem são os que rogam por nós a Deus?</pt> 
+                    <src>(Ar., Cat., 23v)</src> 
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <tp>abá supé?</tp>
+                    <pt>para quem? a quem?:</pt>
+                </translation>
+                <example>
+                    <tp>Abá supépe asé îeruréû...?</tp>
+                    <pt>Para quem a gente reza?</pt> 
+                    <src>(Ar., Cat., 23)</src>
+                </example>
+                <example>
+                    <tp>Abá-pipó?</tp>
+                    <pt>Quem é? Quem está ai?</pt> 
+                    <src>(VLB, II, 94)</src>
+                </example>
+            </case>
+        </meaning>
         <source>65,112,169,111,113</source>
     </a>
     <a>
         <id>29</id>
         <word>abá</word>
         <class>substantivo</class>
-        <meaning>1) homem (em oposição a mulher): <tp>Abá omanõ.</tp> - Um homem morreu. (Fig., Arte, 69);&#xA; 2) homem, ser humano, pessoa (em oposição a animal irracional): <tp>Abá sosé pabẽ i momorangi...</tp> - Acima de todas as pessoas embelezou-a. (Anch., Poemas, 86); <tp>Abá 'anga mara'ara i pupé opûeîrá-katu...</tp> - As doenças da alma do homem com ela saram bem. (Anch., Teatro, 38); <tp>... Sesé abá pûari nde resápe nhẽ.</tp> - Nele as pessoas batem à tua vista. (Anch., Poemas, 122); <tp>... Mokõî abá robaké.</tp> - Diante de duas pessoas. (Ar., Cat., 94v);&#xA;3) índio (em oposição ao branco europeu): - <tp>Abá ra'yrape ûĩ?! - Sé! Abá ra'yra, ipó...</tp> - Filhos de quem eram esses?! - Sei lá! Filhos de índios, certamente... (Anch., Teatro, 48); <tp>... abá 'anga momoxŷabo.</tp> - estragando as almas dos índios.(Anch., Teatro, 44)&#xA;• <tp>abá-îurupari</tp> - animais com quem Jurupari convivia, que só andavam à noite, soltando gritos horríveis, servindo a ele de homens na relação sexual (D'Evreux, Viagem, 293); <tp>abagûasu</tp> - homem feito, rapaz: <tp>Xe abagûasu.</tp> - Eu sou um homem feito. (VLB, I, 153) Fiz-me homem. (VLB, II, 30)&#xA;NOTA - Daí provêm, em português, ABAÚNA (abá + un + -a, "índio escuro"), índio não miscigenado; ABAJU (abá + fuba, "homem amarelo"), pardo, mestiço de índio e branco; ABANHEÉM, ABANHEENGA ("língua d.e índio"), nome dado no século XIX ao tupi antigo; ABAÍBA (abá + afb + -a, "índios brutos", i.e., ferozes), povo indígena extinto que ocupava a região da atual Zona da Mata (MG).</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>1) homem (em oposição a mulher):</pt>
+                </translation>
+                <example>
+                    <tp>Abá omanõ.</tp>
+                    <pt>Um homem morreu.</pt> 
+                    <src>(Fig., Arte, 69)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>2) homem, ser humano, pessoa (em oposição a animal irracional):</pt>
+                </translation>
+                <example>
+                    <tp>Abá sosé pabẽ i momorangi...</tp>
+                    <pt>Acima de todas as pessoas embelezou-a...</pt> 
+                    <src>(Anch., Poemas, 86)</src> 
+                </example>
+                <example>
+                    <tp>Abá 'anga mara'ara i pupé opûeîrá-katu...</tp>
+                    <pt>As doenças da alma do homem com ela saram bem.</pt> 
+                    <src>(Anch., Teatro, 38)</src> 
+                </example>
+                <example>
+                    <tp>... Sesé abá pûari nde resápe nhẽ.</tp>
+                    <pt>Nele as pessoas batem à tua vista.</pt> 
+                    <src>(Anch., Poemas, 122)</src> 
+                </example>
+                <example>
+                    <tp>... Mokõî abá robaké.</tp>
+                    <pt>Diante de duas pessoas.</pt> 
+                    <src>(Ar., Cat., 94v)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>3) índio (em oposição ao branco europeu):</pt>
+                </translation>
+                <example>
+                    <tp>Abá ra'yrape ûĩ?! - Sé! Abá ra'yra, ipó...</tp>
+                    <pt>Filhos de quem eram esses?! - Sei lá! Filhos de índios, certamente...</pt> 
+                    <src>(Anch., Teatro, 48)</src> 
+                </example>
+                <example>
+                    <tp>... abá 'anga momoxŷabo.</tp>
+                    <pt>estragando as almas dos índios.</pt>
+                    <src>(Anch., Teatro, 44)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <tp>abá-îurupari</tp>
+                    <pt>animais com quem Jurupari convivia, que só andavam à noite, soltando gritos horríveis, servindo a ele de homens na relação sexual</pt> 
+                    <src>(D'Evreux, Viagem, 293)</src>
+                </translation>
+            </case>
+            <case>
+                <translation>  
+                    <tp>abagûasu</tp>
+                    <pt>homem feito, rapaz:</pt>
+                </translation>
+                <example>
+                    <tp>Xe abagûasu.</tp>
+                    <pt>Eu sou um homem feito; Fiz-me homem.</pt> 
+                    <src>(VLB, I, 153); (VLB, II, 30)</src>
+                </example>
+            </case>
+            <note>
+                NOTA - Daí provêm, em português, ABAÚNA (abá + un + -a, "índio escuro"), índio não miscigenado; ABAJU (abá + fuba, "homem amarelo"), pardo, mestiço de índio e branco; ABANHEÉM, ABANHEENGA ("língua d.e índio"), nome dado no século XIX ao tupi antigo; ABAÍBA (abá + afb + -a, "índios brutos", i.e., ferozes), povo indígena extinto que ocupava a região da atual Zona da Mata (MG).
+            </note>        
+        </meaning>
         <source>65,131,111,112,113,127,169</source>
     </a>
     <a>
         <id>30</id>
         <word>abá</word>
         <class>pronome</class>
-        <meaning>(ou <tp>abá amõ</tp> ou <tp>amõ abá</tp>) - 1) alguém (na afirmativa e interrogativa): <tp>Ké abá rekóû anhẽ.</tp> - Aqui alguém está, certamente. (Anch., Teatro, 26);&#xA;2) ninguém (na negativa): <tp>N'opytáî amõ abá maranápe.</tp> - Não ficou ninguém no campo de batalha. (Anch., Teatro, 20); <tp>Xe rekó i porangeté; n'aîpotari abá seîtyka.</tp> - Minha lei é muito bela; não quero que ninguém a lance fora. (Anch., Teatro, 6); - <tp>Abápe erimba'e a'e pitanga reterama oîmonhang? - Na amõ abá ruã.</tp> - Quem fez outrora o corpo daquela criança? - Ninguém. (Bettendorff, Compêndio, 44)</meaning>
+        <meaning>
+            <comments>(ou abá amõ ou amõ abá)</comments>
+            <case>
+                <translation>
+                    <pt>1) alguém (na afirmativa e interrogativa):</pt>
+                </translation>
+                <example>
+                    <tp>Ké abá rekóû anhẽ.</tp>
+                    <pt>Aqui alguém está, certamente.</pt> 
+                    <src>(Anch., Teatro, 26)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>2) ninguém (na negativa):</pt>
+                </translation>
+                <example>
+                    <tp>N'opytáî amõ abá maranápe.</tp>
+                    <pt>Não ficou ninguém no campo de batalha.</pt> 
+                    <src>(Anch., Teatro, 20)</src>
+                </example>
+                <example>
+                    <tp>Xe rekó i porangeté; n'aîpotari abá seîtyka.</tp>
+                    <pt>Minha lei é muito bela; não quero que ninguém a lance fora.</pt> 
+                    <src>(Anch., Teatro, 6)</src> 
+                </example>
+                <example>
+                    <tp>Abápe erimba'e a'e pitanga reterama oîmonhang? - Na amõ abá ruã.</tp>
+                    <pt>Quem fez outrora o corpo daquela criança? - Ninguém.</pt>
+                    <src>(Bettendorff, Compêndio, 44)</src>
+                </example>
+            </case>            
+        </meaning>
         <source>65,112,115</source>
     </a>
     <a>
         <id>31</id>
         <word>ababykagûere'yma</word>
         <class>substantivo</class>
-        <meaning>(etimologia - a não tocada de homem) - virgem: Kunhã-angaturama ababykagûere'yma... - Mulher bondosa, uma virgem. (Ar., Cat. , 22v)</meaning>
+        <meaning>
+            <comments>(etimologia - a não tocada de homem)</comments>
+            <case>
+                <translation>
+                    <pt>virgem:</pt>
+                </translation>
+                <example>
+                    <tp>Kunhã-angaturama ababykagûere'yma...</tp>
+                    <pt>Mulher bondosa, uma virgem...</pt>
+                    <src>(Ar., Cat. , 22v)</src>
+                </example>
+            </case>        
+        </meaning>
         <source>65,113</source>
     </a>
     <a>
         <id>32</id>
         <word>abaé</word>
         <class>pronome</class>
-        <meaning>outrem (VLB, II, 61)</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>outrem</pt>
+                    <src>(VLB, II, 61)</src>
+                </translation>
+            </case>
+        </meaning>
         <source>65,169</source>
     </a>
     <a>
         <id>33</id>
         <word>abaekoete'yma</word>
         <class>substantivo</class>
-        <meaning>pessoa tímida (VLB, II, 128)</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>pessoa tímida</pt>
+                    <src>(VLB, II, 128)</src>
+                </translation>
+            </case>            
+        </meaning>
         <source>65,169</source>
     </a>
     <a>
         <id>34</id>
         <word>abaesaba</word>
         <class>substantivo</class>
-        <meaning>(etimologia - homem do olho cortado) - cego (VLB, I, 70)</meaning>
+        <meaning>
+            <comments>(etimologia - homem do olho cortado)</comments>
+            <case>
+                <translation>
+                    <pt>cego</pt>
+                    <src>(VLB, I, 70)</src>
+                </translation>
+            </case>            
+        </meaning>
         <source>65,169</source>
     </a>
     <a>
         <id>35</id>
         <word>abaeté</word>
         <class>substantivo</class>
-        <meaning>(etimologia - homem a valer) - 1) ABAETÊ, homem honrado, digno, de bem;&#xA;2) homem forro, escravo alforriado: <tp>Abaetéramo aîmoingó.</tp> - Fi-lo estar como forro, alforriei-o. (VLB, I, 142);&#xA;3) leigo (VLB, II, 20)&#xA;NOTA - Daí provém, pelo nheengatu, AUAETÊ;, povo indígena da família linguística tupi-guarani, que habita a margem direita do médio rio Xingu (PA). Daí, também, ABAETETUBA (PA)</meaning>
+        <meaning>
+            <comments>(etimologia - homem a valer)</comments>
+            <case>
+                <translation>
+                    <pt>1) ABAETÊ, homem honrado, digno, de bem</pt>
+                </translation>
+            </case>
+            <case>
+                <translation>
+                    <pt>2) homem forro, escravo alforriado:</pt>
+                </translation>
+                <example>
+                    <tp>Abaetéramo aîmoingó.</tp>
+                    <pt>Fi-lo estar como forro, alforriei-o.</pt> 
+                    <src>(VLB, I, 142)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>3) leigo</pt>
+                    <src>(VLB, II, 20)</src>
+                </translation>
+            </case>
+            <note>
+                NOTA - Daí provém, pelo nheengatu, AUAETÊ;, povo indígena da família linguística tupi-guarani, que habita a margem direita do médio rio Xingu (PA). Daí, também, ABAETETUBA (PA)
+            </note>        
+        </meaning>
         <source>65,169</source>
     </a>
     <a>
         <id>36</id>
         <word>abaeté</word>
         <class>substantivo</class>
-        <meaning>(ou abaité) - 1) ABAETÉ, terror, terribilidade; fereza, fúria, crueldade; coisa medonha: <tp>Sãî xe îukae'ymi Tupã sy rera abaîté.</tp> - Apenas não me matou o terror ao nome da mãe de Deus. (Anch., Teatro, 126); (adj.) - terrível, espantoso, furioso, tremendo, medonho, temível (VLB, II, 34): <tp>I abaeté sepÎaka ixébo...</tp> - É terrível para mim vê-los. (Anch., Teatro, 26 ); <tp>... I abaeté muru supé São Sebastião ru'uba...</tp> - Foram terríveis contra os malditos as flechas de São Sebastião. (Anch., Teatro, 52); <tp>I abaeté-katupe irã i angaîpaba'e supé?...</tp> - Será muito terrível futuramente para os que são maus? (Ar., Cat., 46v); <tp>I abaeté pa'i Îesu, iandé sumarã mondyîa.</tp> - É terrível o senhor Jesus, fazendo tremer nosso inimigo. (Anch., Poemas, 186); <tp>Îagûarabaeté</tp> - cão furioso (nome de um índio) (D'Evreux, Viagem, 86); <tp>I abaeté-katupe Anhanga...?</tp> - É muito medonho o diabo? (Anch., Doutr. Cristã, I, 220); ... <tp>I abaeté-katu xe rera.</tp> - É muito terrível meu nome. (Anch., Teatro, 144);&#xA;2)força, poder, valentia, bravura: <tp>Xe abé iî ybõmbyrûera Bastião xe moaûîé. N'i tybi xe abaetepûera...</tp> - A mim também o flechado Bastião derrotou-me. Não existe mais minha antiga bravura. (Anch., Teatro, 48); (adj.) - forte, robusto, valente, poderoso, audacioso: <tp>Tupã oîepé nhõ nhẽ gûekó-karaibetéramo, abaetéramo.</tp> - Deus é um só, de fato, sendo santíssimo, sendo poderoso. (Anch., Doutr. Cristã, I, 134); <tp>Ybytu îabé osunung, i abaeté suí osyîa.</tp> - Zune como o vento, tremendo por causa de sua bravura. (Anch., Poemas, 190)&#xA;• <tp>iî  abaeteba'e</tp> - o que é temido (VLB, II, 125); <tp>abaîtesaba</tp> (ou <tp>abaîtéba</tp>) - tempo, lugar, modo etc. de bravura, de terror; terror; força; bravura etc.: <tp>... iandé maraniru, fandé abaítéba...</tp> - Nossa companheira de guerras, causa de nossa bravura. (Anch., Poemas, 88)&#xA;NOTA - Daí provém, no português do Brasil., ABAITÉ, pessoa feia, repulsiva. Daí também se origina o nome geográfico LAGOA DO ABAETÉ("lagoa do terror"), próxima de Salvador, BA, considerada um lugar mal-assombrado. Derival Caymmi escreveu uma canção dedicada a essa lagoa, cuja letra diz: "De manhã cedo, se uma lavadeira / Vai lavar roupa no ABAETÉ / Vai-se benzendo porque diz que ouve / Ouve a zoada do batucajé".</meaning>
+        <meaning>
+            <comments>(ou abaité)</comments>
+            <case>
+                <translation>
+                    <pt>1) ABAETÉ, terror, terribilidade; fereza, fúria, crueldade; coisa medonha:</pt>
+                </translation>
+                <example>
+                    <tp>Sãî xe îukae'ymi Tupã sy rera abaîté.</tp>
+                     - Apenas não me matou o terror ao nome da mãe de Deus.
+                    (Anch., Teatro, 126); 
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>(adj.) - terrível, espantoso, furioso, tremendo, medonho, temível:</pt>
+                    <src>(VLB, II, 34)</src>
+                </translation>
+                <example>
+                    <tp>I abaeté sepÎaka ixébo...</tp>
+                    <pt>É terrível para mim vê-los.</pt> 
+                    <src>(Anch., Teatro, 26 )</src>
+                </example>
+                <example>
+                    <tp>... I abaeté muru supé São Sebastião ru'uba...</tp>
+                    <pt>Foram terríveis contra os malditos as flechas de São Sebastião.</pt> 
+                    <src>(Anch., Teatro, 52)</src> 
+                </example>
+                <example>
+                    <tp>I abaeté-katupe irã i angaîpaba'e supé?...</tp>
+                    <pt>Será muito terrível futuramente para os que são maus?</pt>
+                    <src>(Ar., Cat., 46v)</src> 
+                </example>
+                <example>
+                    <tp>I abaeté pa'i Îesu, iandé sumarã mondyîa.</tp>
+                    <pt>É terrível o senhor Jesus, fazendo tremer nosso inimigo.</pt>
+                    <src>(Anch., Poemas, 186)</src> 
+                </example>
+                <example>
+                    <tp>Îagûarabaeté</tp>
+                    <pt>cão furioso (nome de um índio)</pt> 
+                    <src>(D'Evreux, Viagem, 86)</src> 
+                </example>
+                <example>
+                    <tp>I abaeté-katupe Anhanga...?</tp>
+                    <pt>É muito medonho o diabo?</pt>
+                    <src>(Anch., Doutr. Cristã, I, 220)</src>
+                </example>
+                <example>
+                    <tp>I abaeté-katu xe rera.</tp>
+                    <pt> - É muito terrível meu nome.</pt>
+                    <src>(Anch., Teatro, 144)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>2)força, poder, valentia, bravura:</pt>
+                </translation>
+                <example>
+                    <tp>Xe abé iî ybõmbyrûera Bastião xe moaûîé. N'i tybi xe abaetepûera...</tp>
+                    <pt>A mim também o flechado Bastião derrotou-me. Não existe mais minha antiga bravura.</pt>
+                    <src>(Anch., Teatro, 48)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>(adj.) - forte, robusto, valente, poderoso, audacioso:</pt>
+                </translation>
+                <example>
+                    <tp>Tupã oîepé nhõ nhẽ gûekó-karaibetéramo, abaetéramo.</tp>
+                    <pt>Deus é um só, de fato, sendo santíssimo, sendo poderoso.</pt> 
+                    <src>(Anch., Doutr. Cristã, I, 134)</src> 
+                </example>
+                <example>
+                    <tp>Ybytu îabé osunung, i abaeté suí osyîa.</tp>
+                    <pt>Zune como o vento, tremendo por causa de sua bravura.</pt>
+                    <src>(Anch., Poemas, 190)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <tp>iî  abaeteba'e</tp>
+                    <pt>o que é temido</pt>
+                    <src>(VLB, II, 125)</src>
+                </translation>
+            </case>
+            <case>
+                <translation>
+                    <tp>abaîtesaba | abaîtéba</tp>
+                    <pt>tempo, lugar, modo etc. de bravura, de terror; terror; força; bravura etc.:</pt>
+                </translation>
+                <example>
+                    <tp>... iandé maraniru, fandé abaítéba...</tp>
+                    <pt>... Nossa companheira de guerras, causa de nossa bravura...</pt>
+                    <src>(Anch., Poemas, 88)</src>
+                </example>
+            </case>
+            <note>
+                NOTA - Daí provém, no português do Brasil., ABAITÉ, pessoa feia, repulsiva. Daí também se origina o nome geográfico LAGOA DO ABAETÉ("lagoa do terror"), próxima de Salvador, BA, considerada um lugar mal-assombrado. Derival Caymmi escreveu uma canção dedicada a essa lagoa, cuja letra diz: "De manhã cedo, se uma lavadeira / Vai lavar roupa no ABAETÉ / Vai-se benzendo porque diz que ouve / Ouve a zoada do batucajé".
+            </note>        
+        </meaning>
         <source>65,112,169,113,111,127,109</source>
     </a>
     <a>
         <id>37</id>
         <word>abagûasu</word>
         <class>substantivo</class>
-        <meaning>ver <tp>abá</tp></meaning>
+        <meaning>
+            <comments>ver abá</comments>
+        </meaning>
         <source>65</source>
     </a>
     <a>
         <id>38</id>
         <word>abaíba</word>
         <class>substantivo</class>
-        <meaning>dificuldade, pena, inconveniência: <tp>... T'aîabaibokyne...</tp> - Hei de tirar-lhe as dificuldades. (Anch., Doutr. Cristã, II, 94); (adj.: <tp>abaíb</tp> ou <tp>abaí</tp>)&#xA;1) difícil, arrevesado, complicado (de entender etc.): <tp>I abaí xebo sa'anga.</tp> - É difícil para mim tentá-los. (Anch., Teatro, 16); <tp>I abaíb aîpó nhe'enga.</tp> - É difícil essa língua. (Anch., Poemas, 196); <tp>Iîabaíbeté aîpó!</tp> - Isso é muito difícil! (Anch., Teatro, 156); <tp>A'e iîabaíbymo abá supé xe ro'o 'u...</tp> - Mas seria difícil para as pessoas comer minha carne. (Ar., Cat., 84v);&#xA;2) molesto, penoso, fragoso, íngreme (p.ex., o caminho, a montanha etc.): <tp>Ikó pé bé iî abaí...</tp> - Este caminho também é penoso. (Anch., Teatro, 162, 2006); <tp>Iîabaíbeté nhẽ rakó... asé atá mysakanga...</tp> - São muito molestos, certamente, os tropeços de nossa caminhada. (Anch., Doutr. Cristã, II, 79);&#xA;3) inadequado, inconveniente: <tp>Nd'erékatuî xûé angiré nde remirekó rerobyka, ã tekó-abaíbeté-katureme.</tp> - Não poderás doravante juntar-te a tua esposa por ser isso um procedimento muitíssimo inconveniente. (Anch., Doutr. Cristã, II, 94);&#xA;4) confuso: <tp>Xe abaíb.</tp> - Eu sou confuso. (VLB, 1, 80)</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>dificuldade, pena, inconveniência:</pt>
+                </translation>
+                <example>
+                    <tp>... T'aîabaibokyne...</tp>
+                    <pt>Hei de tirar-lhe as dificuldades.</pt> 
+                    <src>(Anch., Doutr. Cristã, II, 94)</src> 
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <tp>abaíb | abaí</tp>
+                    <pt>1) adj.; difícil, arrevesado, complicado (de entender etc.):</pt>
+                </translation>
+                <example>
+                    <tp>I abaí xebo sa'anga.</tp>
+                    <pt>É difícil para mim tentá-los.</pt> 
+                    <src>(Anch., Teatro, 16)</src>
+                </example>
+                <example>
+                    <tp>I abaíb aîpó nhe'enga.</tp>
+                    <pt>É difícil essa língua.</pt> 
+                    <src>(Anch., Poemas, 196)</src> 
+                </example>
+                <example>
+                    <tp>Iîabaíbeté aîpó!</tp>
+                    <pt>Isso é muito difícil!</pt> 
+                    <src>(Anch., Teatro, 156)</src> 
+                </example>
+                <example>
+                    <tp>A'e iîabaíbymo abá supé xe ro'o 'u...</tp>
+                    <pt>Mas seria difícil para as pessoas comer minha carne.</pt>
+                    <src>(Ar., Cat., 84v)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>2) molesto, penoso, fragoso, íngreme (p.ex., o caminho, a montanha etc.):</pt>
+                </translation>
+                <example>
+                    <tp>Ikó pé bé iî abaí...</tp>
+                    <pt>Este caminho também é penoso.</pt> 
+                    <src>(Anch., Teatro, 162, 2006)</src>
+                </example>
+                <example>
+                    <tp>Iîabaíbeté nhẽ rakó... asé atá mysakanga...</tp>
+                    <pt>São muito molestos, certamente, os tropeços de nossa caminhada.</pt>
+                    <src>(Anch., Doutr. Cristã, II, 79)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>3) inadequado, inconveniente:</pt>
+                </translation>
+                <example>
+                    <tp>Nd'erékatuî xûé angiré nde remirekó rerobyka, ã tekó-abaíbeté-katureme.</tp>
+                    <pt>Não poderás doravante juntar-te a tua esposa por ser isso um procedimento muitíssimo inconveniente.</pt>
+                    <src>(Anch., Doutr. Cristã, II, 94)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>4) confuso:</pt>
+                </translation>
+                <example>
+                    <tp>Xe abaíb.</tp>
+                    <pt>Eu sou confuso.</pt> 
+                    <src>(VLB, 1, 80)</src>
+                </example>
+            </case>             
+        </meaning>
         <source>65,110,112,113,169</source>
     </a>
     <a>
         <id>39</id>
         <word>abaîeru</word>
         <class>substantivo</class>
-        <meaning>ABAJERU, GUAJURU, GAJERU, GAJIRU, GAJURU, GUAJARU, GUAJERU,GUAJIRU.&#xA;1) planta da família das crisobalanáceas (Chrysobalanus icaco L.) (Sousa, Trat. Descr., 188);&#xA;2) o fruto dessa planta, ... "da feição e tamanho das ameixas ... e de cor roxa; come-se como ameixas, mas tem maior caroço ... " (Sousa, Trat. Descr., 188) (o mesmo que <tp>gûaîeru</tp> - ver)</meaning>
+        <meaning>
+            <comments>ABAJERU, GUAJURU, GAJERU, GAJIRU, GAJURU, GUAJARU, GUAJERU,GUAJIRU.</comments>
+            <case>
+                <translation>
+                    <pt>1) planta da família das crisobalanáceas (Chrysobalanus icaco L.)</pt>
+                    <src>(Sousa, Trat. Descr., 188)</src>
+                </translation>
+            </case>
+            <case>
+                <translation>
+                    <pt>2) o fruto dessa planta, ... "da feição e tamanho das ameixas ... e de cor roxa; come-se como ameixas, mas tem maior caroço ... "; ver: o mesmo que gûaîeru</pt>
+                    <src>(Sousa, Trat. Descr., 188)</src>
+                </translation>
+            </case>
+        </meaning>
         <source>65,159</source>
     </a>
-    <a>
+    <!--a>
         <id>40</id>
         <word>abaîté</word>
         <class>substantivo</class>
