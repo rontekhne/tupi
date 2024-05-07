@@ -10,7 +10,10 @@
         <class>demonstrativo pronomial</class>
         <meaning>
             <case>
-                <translation>1) este (s, a, as) (Fig., Arte, 85); isso:</translation>
+                <translation>
+                    <pt>1) este (s, a, as); isso:</pt>
+                    <src>(Fig., Arte, 85)</src>
+                </translation>
                 <example>
                     <tp>Aani ã.</tp> 
                     <pt>Isso não.</pt> 
@@ -18,7 +21,9 @@
                 </example>
             </case> 
             <case>
-                <translation>2) eis que (assinalando o presente ou o futuro, com a 1ª e a 2ª pessoas, excluindo a possibilidade de passado):</translation>
+                <translation>
+                    <pt>2) eis que (assinalando o presente ou o futuro, com a 1ª e a 2ª pessoas, excluindo a possibilidade de passado):</pt>
+                </translation>
                 <example>
                     <tp>Opá ã îandé moaûîéû...</tp> 
                     <pt>Eis que a todos nós vence...</pt> 
@@ -38,6 +43,7 @@
         </meaning>
         <source>65,131,113,105</source>
     </a>
+
     <a>
         <id>1</id>
         <word>a</word>
@@ -125,8 +131,11 @@
         <word>'a</word>
         <class>substantivo</class>
         <meaning>
+            <comments>(em composição somente)</comments>
             <case>
-                <translation>(em composição somente) - cabeça:</translation>
+                <translation>
+                    <pt>cabeça:</pt>
+                </translation>
                 <example>
                     <tp>Aî'a-kok.</tp>
                     <pt>Apoio sua cabeça.</pt>
@@ -139,12 +148,11 @@
                 </example>
             </case>
             <case>
-                <translation>•</translation>
-                <example>
+                <translation>
                     <tp>'a-pixapaba</tp>
                     <pt>ferida da cabeça ("Às vezes se usa deste nome nas feridas que se dão por outras partes, fora da cabeça, mas impropriamente.")</pt> 
                     <src>(VLB, 1.. 137)</src>
-                </example>
+                </translation>
             </case>
             <note>
                 NOTA - Daí, no português brasileiro, CAMBURIAPEVA (ka muri + 'a + peb + -a, "camuri da cabeça acha tada"), nome de um peixe centropomídeo; POTIATINGA (poli + 'a + ting + -a, "camarão da cabeça branca"), espécie de camarão da familia dos peneídeos (Marcgrave, Hist. Nat. Eras.,188); IPECUATI (ypeku + 'a + ati, "pica-pau da cabeça pontuda"), nome de uma ave.
@@ -158,15 +166,17 @@
         <class>substantivo</class>
         <meaning>
             <case>
-                <translation>cabeça do pênis, glande (Castilho, Nomes, 27)</translation>
+                <translation>
+                    <pt>cabeça do pênis, glande</pt> 
+                    <src>(Castilho, Nomes, 27)</src>
+                </translation>
             </case>
             <case>
-                <translation>•</translation>
-                <example>
+                <translation>
                     <tp>'a-îuru</tp>
                     <pt>orifício do pênis</pt>
                     <src>(Castilho, Nomes, 28)</src>
-                </example>
+                </translation>
             </case>
         </meaning>
         <source>65,123</source>
@@ -176,8 +186,11 @@
         <word>'a</word>
         <class>substantivo vocativo</class>
         <meaning>
+            <comments>(usado por reverência, somente)</comments>
             <case>
-                <translation>(usado por reverência, somente) - 1) mano:</translation>
+                <translation>
+                    <pt>1) mano:</pt>
+                </translation>
                 <example>
                     <tp>xe 'a</tp>
                     <pt>meu mano</pt>
@@ -185,7 +198,9 @@
                 </example>
             </case>
             <case>
-                <translation>2) companheiro:</translation>
+                <translation>
+                    <pt>2) companheiro:</pt>
+                </translation>
                 <example>
                     <tp>Mamõ suípe ereîur, xe 'a?</tp>
                     <pt>onde vieste, meu companheiro?</pt>
@@ -193,7 +208,9 @@
                 </example>
             </case>
             <case>
-                <translation>3) senhor:</translation>
+                <translation>
+                    <pt>3) senhor:</pt>
+                </translation>
                 <example>
                     <tp>Xe 'a!</tp>
                     <pt>Meu senhor!</pt>
@@ -209,7 +226,9 @@
         <class>substantivo</class>
         <meaning>
             <case>
-                <translation>fruto:</translation>
+                <translation>
+                    <pt>fruto:</pt>
+                </translation>
                 <example>
                     <tp>i 'a</tp>
                     <pt>fruto dela</pt>
@@ -224,8 +243,11 @@
         <word>aan</word>
         <class>partícula</class>
         <meaning>
+            <comments>(ou aã)</comments>
             <case>
-                <translation>(ou aã) - não (de homem ou mulher):</translation>
+                <translation>
+                    <pt>não (de homem ou mulher):</pt>
+                </translation>
                 <example>
                     <tp>Aan, nd'ereîtyki xóne.</tp>
                     <pt>Não, não os derrotarás.</pt>
@@ -238,17 +260,11 @@
                 </example>
             </case>
             <case>
-                <translation>•</translation>
-                <example>
-                    <tp>aan a'e</tp> 
+                <translation>
+                    <tp>aan a'e | aan a'é nhẽ</tp> 
                     <pt>Digo não, digo que não.</pt> 
                     <src>(VLB, II,99)</src>
-                </example>
-                <example>
-                    <tp>aan a'é nhẽ</tp>
-                    <pt>Digo não, digo que não.</pt>
-                    <src>(VLB, II,99)</src> 
-                </example>
+                </translation>
                 <example>
                     <tp>aan ipó, aan ipó biã</tp>
                     <pt>não deve ser, não será assim</pt>
@@ -261,7 +277,9 @@
                 </example>
             </case>
             <case>
-                <translation>de modo algum, de maneira nenhuma:</translation>
+                <translation>
+                    <pt>de modo algum, de maneira nenhuma:</pt>
+                </translation>
                 <example>
                     <tp>I ambyasy bépe, i 'useî bépe asé îabé?... - Aan-angái.</tp>
                     <pt>Tinha também fome, tinha também sede como nós? - De modo algum.</pt>
@@ -287,26 +305,29 @@
         <class>partícula</class>
         <meaning>
             <case>
-                <translation>1) nada (VLB, II, 46)</translation>
+                <translation>
+                    <pt>1) nada</pt> 
+                    <src>(VLB, II, 46)</src>
+                </translation>
             </case>
             <case>
-                <translation>2) nunca, nenhuma vez (VLB, II, 52)</translation>
+                <translation>
+                    <pt>2) nunca, nenhuma vez</pt>
+                    <src>(VLB, II, 52)</src>
+                </translation>
             </case>
             <case>
-                <translation>3) nenhum; ninguém (VLB, II, 49)</translation>
+                <translation>
+                    <pt>3) nenhum; ninguém</pt>
+                    <src>(VLB, II, 49)</src>
+                </translation>
             </case>
             <case>
-                <translation>•</translation>
-                <example>
-                    <tp>aãngatutenhẽ</tp> 
+                <translation>
+                    <tp>aãngatutenhẽ | aan-angáî</tp> 
                     <pt>absolutamente ninguém</pt>
                     <src>(VLB, II, 49)</src>
-                </example>
-                <example>
-                    <tp>aan-angáî</tp>
-                    <pt>absolutamente ninguém</pt> 
-                    <src>(VLB, II, 49)</src>
-                </example>
+                </translation>
             </case>        
         </meaning>
         <source>65,169</source>
@@ -317,7 +338,10 @@
         <class>partícula</class>
         <meaning>
             <case>
-                <translation>mas não foi; não é assim (Fig., Arte, 137)</translation>
+                <translation>
+                    <pt>mas não foi; não é assim</pt>
+                    <src>(Fig., Arte, 137)</src>
+                </translation>
             </case>        
         </meaning>
         <source>65,131</source>
@@ -328,7 +352,9 @@
         <class>conjunção</class>
         <meaning>
             <case>
-                <translation>senão; quando não:</translation>
+                <translation>
+                    <pt>senão; quando não:</pt>
+                </translation>
                 <example>
                     <tp>Emonãnamo onhemosaînã-eté pabẽpe Tupã nhe'enga kuabaûama?... - Emonãnamo, aane'yme anhanga ratápe i xóûne.</tp>
                     <pt>Portanto cuidarão bem todos de conhecer a palavra de Deus? - De fato, senão irão para o inferno.</pt> 
@@ -341,17 +367,11 @@
                 </example>
             </case>
             <case>
-                <translation>•</translation>
-                <example>
-                    <tp>aane'yme?</tp> 
+                <translation>
+                    <tp>aane'yme? | aane'yme é?</tp> 
                     <pt>E quando não?</pt> 
                     <src>(VLB, 1, 121)</src>
-                </example>
-                <example>
-                    <tp>aane'yme é?</tp>
-                    <pt>E quando não?</pt>
-                    <src>(VLB, 1, 121)</src>
-                </example>
+                </translation>
             </case>
         </meaning>
         <source>65,115,169</source>
@@ -361,8 +381,12 @@
         <word>a'ang</word>
         <class>verbo tansitivo</class>
         <meaning>
+            <comments>(s)</comments>
             <case>
-                <translation>(s) - assinalar, marcar, representar (VLB, II, 102):</translation>
+                <translation>
+                    <pt>assinalar, marcar, representar:</pt> 
+                    <src>(VLB, II, 102)</src>
+                </translation>
                 <example>
                     <tp>Marãnamope asé o îurupe sa'angino?</tp>
                     <pt>Por que a gente em sua boca a assinala também (isto é, a cruz)?</pt> 
@@ -370,12 +394,11 @@
                 </example>
             </case> 
             <case>
-                <translation>• tempo, lugar, modo, instrumento etc. de assinalar, de marcar:</translation>
-                <example>
-                    <tp>a'angaba</tp> 
-                    <pt>(t) sinal, marca, imagem, símbolo, significado; molde, exemplar</pt> 
-                    <src>(VLB, II, 40)</src>
-                </example>
+                <translation>
+                    <tp>a'angaba</tp>
+                    <pt>(t) tempo, lugar, modo, instrumento etc. de assinalar, de marcar; sinal, marca, imagem, símbolo, significado; molde, exemplar:</pt> 
+                    <src>(VLB, II, 40)</src>    
+                </translation>
                 <example>
                     <tp>Pa'i, Sumé pypûera'angaba a'e.</tp>
                     <pt>Padre, aquelas são as marcas dos pés de Sumé.</pt>
@@ -415,8 +438,11 @@
         <word>a'ang</word>
         <class>verbo transitivo</class>
         <meaning>
+            <comments>(s)</comments>
             <case>
-                <translation>(s) - 1) compassar, medir, tirar a medida de:</translation>
+                <translation>
+                    <pt>compassar, medir, tirar a medida de:</pt>
+                </translation>
                 <example>
                     <tp>Asa'ang.</tp>
                     <pt>Medi-o.</pt> 
@@ -434,20 +460,24 @@
                 </example>
             </case>
             <case>
-                <translation>2) pesar (com pesos, balanças) (VLB, II, 75)</translation>
+                <translation>
+                    <pt>2) pesar (com pesos, balanças)</pt>
+                    <src>(VLB, II, 75)</src>
+                </translation>
             </case>
             <case>
-                <translation>•</translation>
-                <example>
+                <translation>
                     <tp>sa'angymbyra</tp>
                     <pt>o que é (ou deve ser) medido</pt> 
-                    <src>(VLB, II, 34)</src> 
-                </example>
-                <example>
+                    <src>(VLB, II, 34)</src>
+                </translation>
+            </case>
+            <case>
+                <translation>
                     <tp>a'angaba</tp>
                     <pt>(t) - tempo, lugar, modo, instrumento etc. de medir; medida, peso</pt>
                     <src>(VLB, II, 34)</src>
-                </example>
+                </translation>
             </case>
         </meaning>
         <source>65,169</source>
@@ -457,8 +487,12 @@
         <word>a'ang</word>
         <class>verbo transitivo</class>
         <meaning>
+            <comments>(s)</comments>
             <case>
-                <translation>(s) - fazer traçado, fazer a planta de (p.ex., uma edificação) (VLB, II, 134)</translation>
+                <translation>
+                    <pt>fazer traçado, fazer a planta de (p.ex., uma edificação)</pt>
+                    <src>(VLB, II, 134)</src>
+                </translation>
             </case>
         </meaning>
         <source>65,169</source>
@@ -468,8 +502,11 @@
         <word>a'ang</word>
         <class>verbo transitivo</class>
         <meaning>
+            <comments>(s)</comments>
             <case>
-                <translation>(s) - imitar, arremedar:</translation>
+                <translation>
+                    <pt>imitar, arremedar:</pt>    
+                </translation>
                 <example>
                     <tp>... nde rekokatu ra'anga.</tp> 
                     <pt>... imitando tua virtude</pt> 
@@ -494,8 +531,12 @@
         <word>a'ang</word>
         <class>verbo transitivo</class>
         <meaning>
+            <comments>(s)</comments>
             <case>
-                <translation>(s) - atirar (VLB, I, 47); atirar ao alvo (por exemplo, flecha):</translation>
+                <translation>
+                    <pt>atirar ; atirar ao alvo (por exemplo, flecha):</pt>
+                    <src>(VLB, I, 47)</src>
+                </translation>
                 <example>
                     <tp>Asa'ang.</tp>
                     <pt>Atiro-a.</pt>
@@ -510,8 +551,11 @@
         <word>a'ang</word>
         <class>verbo transitivo</class>
         <meaning>
+            <comments>(s)</comments>
             <case>
-                <translation>(s) - 1) pronunciar (p.ex., aquilo que se lê), ler, proferir, declarar:</translation> 
+                <translation>
+                    <pt>1) pronunciar (p.ex., aquilo que se lê), ler, proferir, declarar:</pt>
+                </translation> 
                 <example>
                     <tp>Asa'ang.</tp>
                     <pt>Leio-o.</pt>
@@ -529,7 +573,9 @@
                 </example>
             </case>
             <case>
-                <translation>2) celebrar:</translation> 
+                <translation>
+                    <pt>2) celebrar:</pt>
+                </translation> 
                 <example>
                     <tp>Missa ra'anga asébe...</tp>
                     <pt>Celebrando a missa para a gente.</pt> 
@@ -537,22 +583,21 @@
                 </example>
             </case>
             <case>
-                <translation>•</translation>
-                <example>
+                <translation>
                     <tp>a'angara</tp> 
                     <pt>(t) - o que pronuncia, o que profere etc.:</pt> 
-                    <src></src>
-                </example>
+                </translation>
                 <example>
                     <tp>... Ladainhas ra'angara...</tp>
                     <pt>o que profere as ladainhas...</pt> 
                     <src>(Ar., Cat. , 125, 1686)</src> 
                 </example>
-                <example>
+            </case>
+            <case>
+                <translation>
                     <tp>a'angaba</tp> 
                     <pt>(t) - tempo, lugar, modo etc. de celebrar, de proferir; o proferlr etc.:</pt> 
-                    <src></src>
-                </example>
+                </translation>
                 <example>
                     <tp>Ladainhas ra'angaba...</tp>
                     <pt>O proferir das ladainhas...</pt> 
@@ -567,8 +612,11 @@
         <word>a'ang</word>
         <class>verbo transitivo</class>
         <meaning>
+            <comments>(s)</comments>
             <case>
-                <translation>(s) - 1) tentar, experimentar, pôr à prova:</translation>
+                <translation>
+                    <pt>1) tentar, experimentar, pôr à prova:</pt>
+                </translation>
                 <example>
                     <tp>I abaí xébo sa'anga.</tp>
                     <pt>É difícil para mim tentá-los.</pt> 
@@ -586,7 +634,9 @@
                 </example>
             </case>
             <case>
-                <translation>2) exercitar-se em, ensaiar-se em, esforçar-se por:</translation>
+                <translation>
+                    <pt>2) exercitar-se em, ensaiar-se em, esforçar-se por:</pt>
+                </translation>
                 <example>
                     <tp>Pesa'ang îepé peuî koriteĩ nhõte xe pyri, pekere'yma...</tp>
                     <pt>Embora vos tivésseis esforçado, estivestes deitados só pouco tempo junto a mim, não dormindo...</pt>
@@ -599,7 +649,9 @@
                 </example>
             </case>
             <case>
-                <translation>3) provar (dar provas de), demonstrar poder (com um dos verbos no gerúndio):</translation> 
+                <translation>
+                    <pt>3) provar (dar provas de), demonstrar poder (com um dos verbos no gerúndio):</pt>
+                </translation> 
                 <example>
                     <tp>Esa'ang serasóbo.</tp>
                     <pt>Prova-o, levando-o; prova que o levas.</pt> 
@@ -607,7 +659,9 @@
                 </example>
             </case>
             <case>
-                <translation>4) provar, gostar (sentir o gosto de):</translation>
+                <translation>
+                    <pt>4) provar, gostar (sentir o gosto de):</pt>
+                </translation>
                 <example>
                     <tp>Marã e'ipe sa'ang'iré?</tp>
                     <pt>Que disse após prová-la (isto é, a bebida)?</pt> 
@@ -620,12 +674,10 @@
                 </example> 
             </case>
             <case>
-                <translation>•</translation>
-                <example>
+                <translation>
                     <tp>a'ang iepé</tp> 
                     <pt>(s) - tentar sem que surta efeito:</pt> 
-                    <src></src>
-                </example>
+                </translation>
                 <example>
                     <tp>Asa'ang îepé i monhanga</tp> (ou <tp>Asa'ang îepé i monhangambûera</tp>)
                     <pt>Tentei fazê-lo, sem conseguir.</pt> 
@@ -637,21 +689,23 @@
                     <pt>Lentamente, enfim, o homem perde entendimento, sua vista aguda de outrora desaparece, tentando inutilmente a fala.</pt> 
                     <src>(Ar., Cat., 156)</src> 
                 </example>
-                <example>
+            </case>
+            <case>
+                <translation>
                     <tp>osa'angyba'e</tp>
                     <pt>o que tenta, o que prova etc.:</pt> 
-                    <src></src>
-                </example>
+                </translation>
                 <example>
                     <tp>Apŷaba kunhã resé o ekó osa'angîepéba'e nd'e'ikatuî omendá.</tp>
                     <pt>O homem que tenta, sem êxito, ter relações sexuais com uma mulher, não pode casar.</pt>
                     <src>(Ar., Cat., 131v)</src> 
                 </example>  
-                <example>
+            </case>
+            <case>
+                <translation>
                     <tp>a'angara</tp> 
                     <pt>(t) - tentador:</pt>
-                    <src></src>
-                </example>
+                </translation>
                 <example> 
                     <tp>Emokanhem xe ra'angara ...</tp>
                     <pt>Faze sumir meu tentador ...</pt> 
@@ -666,8 +720,11 @@
         <word>a'anga</word>
         <class>substantivo</class>
         <meaning>
+            <comments>(t)</comments>
             <case>
-                <translation>(t) - imagem, representação:</translation>
+                <translation>
+                    <pt>imagem, representação:</pt>
+                </translation>
                 <example>
                     <tp>Aó-tinga pupé asé resé sobá ra'anga rari.</tp>
                     <pt>Num pano branco, por nossa causa, a imagem de seu rosto tomou.</pt> 
@@ -683,47 +740,214 @@
         <class>substantivo</class>
         <meaning>
             <case>
-                <translation>molde, exemplar (VLB, Il, 40)</translation>
+                <translation>
+                    <pt>molde, exemplar</pt>
+                    <src>(VLB, Il, 40)</src>
+                </translation>
             </case>
         </meaning>
         <source>65,169</source>
     </a>
-    <!--a>
+
+    <a>
         <id>21</id>
         <word>aani</word>
         <class>advérbio</class>
-        <meaning>não (com ênfase); nunca, de maneira nenhuma, de modo algum, absolutamente (Fig., Arte, 129): <tp>Aani! Aîemoŷrõ.</tp> - Não! Irritei-me. (Anch., Teatro, 42); - <tp>Setápe asé nhemongaraíbi? - Aani.</tp> - A gente batiza-se muitas vezes? - De maneira nenhuma. (Anch., Doutr. Cristã, I, 202); - <tp>N'asé ruã-tepe o emi'urama oîmonhang? - Aani...</tp> - Mas não é a gente que faz sua comida? - De modo algum... (Ar., Cat. , 27v)&#xA;• <tp>aani nhẽ</tp> - não (Fig., Arte, 134); <tp>aani rakó</tp> - não (Fig., Arte, 134); <tp>aani re'a</tp> - não é assim (de homem) (Fig., Arte, 134); <tp>aanirĩ</tp> - não é assim (de mulher) (Fig., Arte, 134); <tp>aani xûémo</tp> - não (hipotético): - <tp>Nd'oîporaráî xûémop'asé mba'e amõ 'ara pupé 'oîkóbomo? - Aani xûémo.</tp> - Não sofreria a gente coisa alguma vivendo no mundo? - Não (sofreria). (Anch., Doutr. Cristã, I, 162); <tp>Aani xûéne</tp> - não (com relação a fatos futuros); nunca: - <tp>Oîporará bépe mba'e amõ a'epe oîkóbone? - Aani xûéne.</tp> - Sofrerão ainda alguma coisa aí vivendo? - Não. (Ar., Cat., 47); <tp>aani-xûé ipóne</tp> - não há de ser (futuro) (VLB, II, 47); <tp>aani xûé ko'yténe</tp> - nunca mais (VLB, II, 52); <tp>aani ã</tp> - isso não (Fig., Arte, 135)</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>não (com ênfase); nunca, de maneira nenhuma, de modo algum, absolutamente:</pt>
+                    <src>(Fig., Arte, 129)</src> 
+                </translation>
+                <example>
+                    <tp>Aani! Aîemoŷrõ.</tp>
+                    <pt>Não! Irritei-me.</pt>
+                    <src>(Anch., Teatro, 42)</src>
+                </example>
+                <example>
+                    <tp>Setápe asé nhemongaraíbi? - Aani.</tp>
+                    <pt>A gente batiza-se muitas vezes? - De maneira nenhuma.</pt> 
+                    <src>(Anch., Doutr. Cristã, I, 202)</src>
+                </example>
+                <example>
+                    <tp>N'asé ruã-tepe o emi'urama oîmonhang? - Aani...</tp>
+                    <pt>Mas não é a gente que faz sua comida? - De modo algum...</pt>
+                    <src>(Ar., Cat. , 27v)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <tp>aani nhẽ | aani rakó</tp>
+                    <pt>não</pt> 
+                    <src>(Fig., Arte, 134)</src>
+                </translation> 
+            </case>
+            <case>
+                <translation>
+                    <tp>aani re'a | aanirĩ</tp>
+                    <pt>não é assim [(de homem) | (de mulher)]</pt>
+                    <src>(Fig., Arte, 134)</src>  
+                </translation>
+            </case>
+            <case>
+                <translation>
+                    <tp>aani xûémo</tp>
+                    <pt>não (hipotético):</pt> 
+                </translation> 
+                <example>
+                    <tp>Nd'oîporaráî xûémop'asé mba'e amõ 'ara pupé 'oîkóbomo? - Aani xûémo.</tp>
+                    <pt> - Não sofreria a gente coisa alguma vivendo no mundo? - Não (sofreria).</pt>
+                    <src>(Anch., Doutr. Cristã, I, 162)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <tp>Aani xûéne</tp>
+                    <pt>não (com relação a fatos futuros); nunca:</pt> 
+                </translation>     
+                <example>
+                    <tp>Oîporará bépe mba'e amõ a'epe oîkóbone? - Aani xûéne.</tp>
+                    <pt>Sofrerão ainda alguma coisa aí vivendo? - Não.</pt> 
+                    <src>(Ar., Cat., 47)</src> 
+                </example>
+                <example>
+                    <tp>aani-xûé ipóne</tp>
+                    <pt>não há de ser (futuro)</pt> 
+                    <src>(VLB, II, 47)</src> 
+                </example>
+                <example>
+                    <tp>aani xûé ko'yténe</tp>
+                    <pt>nunca mais</pt> 
+                    <src>(VLB, II, 52)</src> 
+                </example>
+                <example>
+                    <tp>aani ã</tp>
+                    <pt>isso não</pt> 
+                    <src>(Fig., Arte, 135)</src>
+                </example>
+            </case>             
+        </meaning>
         <source>65,131,112,109,113,169</source>
     </a>
     <a>
         <id>22</id>
         <word>aani</word>
         <class>pronome</class>
-        <meaning>1) nada (VLB, II, 46): - <tp>Mba'epe aûîeramanhẽ serekopyrama ikó 'ara pupé? - Aani ã biã.</tp> - Que é o que será conservado para sempre neste mundo? - Nada. (Ar., Cat., 165);&#xA;2) ninguém (VLB, II, 49): <tp>Abápe kori xe îá? Erĩ, aani!</tp> - Quem, hoje, é como eu? Irra, ninguém! (Anch., Teatro, 132)</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>1) nada:</pt> 
+                    <src>(VLB, II, 46)</src>
+                </translation>
+                <example>
+                    <tp>Mba'epe aûîeramanhẽ serekopyrama ikó 'ara pupé? - Aani ã biã.</tp>
+                    <pt>Que é o que será conservado para sempre neste mundo? - Nada.</pt> 
+                    <src>(Ar., Cat., 165)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>2) ninguém:</pt>
+                    <src>(VLB, II, 49)</src> 
+                </translation>
+                <example>
+                    <tp>Abápe kori xe îá? Erĩ, aani!</tp>
+                    <pt>Quem, hoje, é como eu? Irra, ninguém!</pt> 
+                    <src>(Anch., Teatro, 132)</src>
+                </example>
+            </case>
+        </meaning>
         <source>65,169,113,112</source>
     </a>
     <a>
         <id>23</id>
         <word>aanumẽ</word>
         <class>partícula</class>
-        <meaning>(ou <tp>aanymẽ</tp>) - 1) não: <tp>Aanumẽne! Asabeypó...</tp> - Não! Estou bêbado. (Anch., Teatro, 46);&#xA;2) não seja assim (como quando um admoesta ou roga a outra pessoa que desista de algo) (VLB, II, 47)</meaning>
+        <meaning>
+            <comments>(ou <tp>aanymẽ)</tp></comments>
+            <case>
+                <translation>
+                    <pt>1) não:</pt>
+                </translation>
+                <example>
+                    <tp>Aanumẽne! Asabeypó...</tp>
+                    <pt>Não! Estou bêbado.</pt> 
+                    <src>(Anch., Teatro, 46)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>2) não seja assim (como quando um admoesta ou roga a outra pessoa que desista de algo)</pt>
+                    <src>(VLB, II, 47)</src>
+                </translation>
+            </case>
+        </meaning>
         <source>65,112,169</source>
     </a>
     <a>
         <id>24</id>
         <word>ab</word>
         <class>alomorfe</class>
-        <meaning>ver <tp>-sab</tp></meaning>
+        <meaning>
+            <comments>ver -sab</comments>
+        </meaning>
         <source>65</source>
     </a>
     <a>
         <id>25</id>
         <word>'ab</word>
         <class>verbo transitivo irregular</class>
-        <meaning>(no indicativo é usado somente com objeto incorporado)&#xA;abrir; cortar, rachar, fender, talhar: <tp>Aybyrá-'ab.</tp> - Corto madeira. (Fig., Arte, 145); <tp>Ayby-'ab.</tp> - Abro a terra. (Fig., Arte, 145); <tp>Aî'ybab.</tp> - Cortei o pé dela (isto é, da parreira, da mandioca etc.). (VLB, I, 83); <tp>Aîasy-'ab.</tp> - Cortei um pedaço dela. (VLB, 1, 83); <tp>Morubixaba ybyragûype ahẽ sóû ybyrá 'apa.</tp> - Para a coutada do rei ele foi para cortar madeira. (VLB, II, 141)&#xA;• <tp>'apaba</tp> - tempo, lugar, modo etc. de abrir, de rachar; abertura, rachadura, corte: <tp>yby 'apaba</tp> - rachadura da terra; cava, cova, buraco, vala, fosso, barreiros (VLB, I, 69)&#xA;NOTA - Daí, IBIAPABA (nome de chapada do Nordeste).</meaning>
+        <meaning>
+            <comments>(no indicativo é usado somente com objeto incorporado)</comments>
+            <case>
+                <translation>
+                    <pt>abrir; cortar, rachar, fender, talhar:</pt>
+                </translation>
+                <example>
+                    <tp>Aybyrá-'ab.</tp>
+                    <pt>Corto madeira.</pt> 
+                    <src>(Fig., Arte, 145)</src> 
+                </example>
+                <example>
+                    <tp>Ayby-'ab.</tp>
+                    <pt>Abro a terra.</pt> 
+                    <src>(Fig., Arte, 145)</src> 
+                </example>
+                <example>
+                    <tp>Aî'ybab.</tp>
+                    <pt>Cortei o pé dela (isto é, da parreira, da mandioca etc.).</pt> 
+                    <src>(VLB, I, 83)</src> 
+                </example>
+                <example>
+                    <tp>Aîasy-'ab.</tp>
+                    <pt>Cortei um pedaço dela.</pt> 
+                    <src>(VLB, 1, 83)</src>
+                </example>
+                <example>
+                    <tp>Morubixaba ybyragûype ahẽ sóû ybyrá 'apa.</tp>
+                    <pt>Para a coutada do rei ele foi para cortar madeira.</pt> 
+                    <src>(VLB, II, 141)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <tp>'apaba</tp>
+                    <pt>tempo, lugar, modo etc. de abrir, de rachar; abertura, rachadura, corte:</pt>
+                </translation>
+                <example>
+                    <tp>yby 'apaba</tp>
+                    <pt>rachadura da terra; cava, cova, buraco, vala, fosso, barreiros</pt>
+                    <src>(VLB, I, 69)</src>
+                </example>
+            </case>
+            <note>
+                NOTA - Daí, IBIAPABA (nome de chapada do Nordeste).
+            </note>
+                
+        </meaning>
         <source>65,131,169</source>
     </a>
-    <a>
+    <!--a>
         <id>26</id>
         <word>aba</word>
         <class>substantivo</class>

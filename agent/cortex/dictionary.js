@@ -60,23 +60,55 @@ function searchWord() {
                     resultDiv.innerHTML += "<p class='word'>" + word + "</p>";
                     resultDiv.innerHTML += "<p class='clazz'><i>" + classElement.textContent + "</i></p><br>";
                     
-                    var cases = meaningElement.getElementsByTagName('case');
                     var meaningText = '';
+
+                    var commentsElement = meaningElement.getElementsByTagName('comments')[0];
+                    if (commentsElement) {
+                        meaningText += "<p>" + commentsElement.textContent + "</p><br>";
+                    }
+
+                    var cases = meaningElement.getElementsByTagName('case');
+            
                     for (var j = 0; j < cases.length; j++) {
-                        var translationElement = cases[j].getElementsByTagName('translation')[0];
-                        var examples = cases[j].getElementsByTagName('example');
-                        
-                        if (translationElement) {
-                            meaningText += "<p class='meaning'>" +translationElement.textContent + "</p><br>";
+                        var translationElements = cases[j].getElementsByTagName('translation');
+                        var exampleElements = cases[j].getElementsByTagName('example');
+
+                        for (var k = 0; k < translationElements.length; k++) {
+                            var translation = translationElements[k];
+                            var tpElement = translation.getElementsByTagName('tp')[0];
+                            var ptElement = translation.getElementsByTagName('pt')[0];
+                            var srcElement = translation.getElementsByTagName('src')[0];
+
+                            meaningText += "<p class='meaning'>";
+                            if (tpElement) {
+                                meaningText += "<b>" + tpElement.textContent + "</b><br>";
+                            }
+                            if (ptElement) {
+                                meaningText += ptElement.textContent + "<br>";
+                            }
+                            if (srcElement) {
+                                meaningText += "<small>" + srcElement.textContent + "</small>";
+                            }
+                            meaningText += "</p><br>";
                         }
-                        
-                        for (var k = 0; k < examples.length; k++) {
-                            var example = examples[k];
+
+                        for (var k = 0; k < exampleElements.length; k++) {
+                            var example = exampleElements[k];
                             var tpElement = example.getElementsByTagName('tp')[0];
                             var ptElement = example.getElementsByTagName('pt')[0];
                             var srcElement = example.getElementsByTagName('src')[0];
-                            
-                            meaningText += "<p class='example meaning'><b>" + tpElement.textContent + "</b><br>" + ptElement.textContent + "<br><small>" + srcElement.textContent + "</small></p><br>";
+
+                            meaningText += "<p class='example meaning'>";
+                            if (tpElement) {
+                                meaningText += "<b>" + tpElement.textContent + "</b><br>";
+                            }
+                            if (ptElement) {
+                                meaningText += ptElement.textContent + "<br>";
+                            }
+                            if (srcElement) {
+                                meaningText += "<small>" + srcElement.textContent + "</small>";
+                            }
+                            meaningText += "</p><br>";
                         }
                     }
 
