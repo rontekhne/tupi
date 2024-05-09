@@ -1600,91 +1600,201 @@
         </meaning>
         <source>65,159</source>
     </a>
-    <!--a>
+    <a>
         <id>40</id>
         <word>abaîté</word>
         <class>substantivo</class>
-        <meaning>ver <tp>abaeté</tp></meaning>
+        <meaning>
+            <comments>ver abaeté</comments>    
+        </meaning>
         <source>65</source>
     </a>
     <a>
         <id>41</id>
         <word>abakatuaîa</word>
         <class>substantivo</class>
-        <meaning>ABACATUAIA, ABACATUIA, ABACATÚXIA, ABACATINA, peixe da família dos carangídeos (Marcgrave, Hist. Nat. Bras. , 161)</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>ABACATUAIA, ABACATUIA, ABACATÚXIA, ABACATINA, peixe da família dos carangídeos</pt>
+                    <src>(Marcgrave, Hist. Nat. Bras. , 161)</src>
+                </translation>
+            </case>
+        </meaning>
         <source>65,150</source>
     </a>
     <a>
         <id>42</id>
         <word>abakatuaîaba</word>
         <class>substantivo</class>
-        <meaning>variante de ABACATUAIA, peixe da família dos carangídeos (VLB, II, 70)</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>variante de ABACATUAIA, peixe da família dos carangídeos</pt> 
+                    <src>(VLB, II, 70)</src>
+                </translation>
+            </case>
+        </meaning>
         <source>65,169</source>
     </a>
     <a>
         <id>43</id>
         <word>abakatuaîatakapá</word>
         <class>substantivo</class>
-        <meaning>nome de um peixe da família dos carangídeos (Libri Princ., 98)</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>nome de um peixe da família dos carangídeos</pt>
+                    <src>(Libri Princ., 98)</src>
+                </translation>
+            </case>
+        </meaning>
         <source>65,146</source>
     </a>
     <a>
         <id>44</id>
         <word>abanga</word>
         <class>substantivo</class>
-        <meaning>covardia; (adjetivo: <tp>abang</tp>) - covarde: <tp>Xe abang.</tp> - Eu sou covarde. (VLB, I, 21)</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>covardia; (adjetivo):</pt> 
+                </translation>
+                <example>
+                    <tp>abang</tp>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>covarde:</pt>
+                </translation>
+                <example>                
+                    <tp>Xe abang.</tp>
+                    <pt>Eu sou covarde.</pt>
+                    <src>(VLB, I, 21)</src>
+                </example>
+            </case>
+        </meaning>
         <source>65,169</source>
     </a>
     <a>
         <id>45</id>
         <word>abangaba</word>
         <class>substantivo</class>
-        <meaning>covardia, desânimo; (adjetivo: <tp>abangab</tp>) - acovardado, desencorajado, desanimado, desalentado, desmaiado de medo: <tp>Erĩ, nd'oré abangabi!</tp> - Ah, não estamos acovardados! (Anch., Teatro, 178)</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>covardia, desânimo; (adjetivo: abangab) - acovardado, desencorajado, desanimado, desalentado, desmaiado de medo:</pt>
+                </translation>
+                <example>
+                    <tp>Erĩ, nd'oré abangabi!</tp>
+                    <pt>Ah, não estamos acovardados!</pt> 
+                    <src>(Anch., Teatro, 178)</src>
+                </example>
+            </case>
+        </meaning>
         <source>65,112</source>
     </a>
     <a>
         <id>46</id>
         <word>abangaíba</word>
         <class>substantivo</class>
-        <meaning> (etimologia - pessoa da alma ruim) - pessoa desprezível: <tp>Xe abangaíba.</tp> - Eu sou uma pessoa desprezível. (VLB, I, 100)</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>(etimologia - pessoa da alma ruim) - pessoa desprezível:</pt>
+                </translation>
+                <example>
+                    <tp>Xe abangaíba.</tp>
+                    <pt>Eu sou uma pessoa desprezível.</pt> 
+                    <src>(VLB, I, 100)</src>
+                </example>
+            </case>
+        </meaning>
         <source>65,169</source>
     </a>
     <a>
         <id>47</id>
         <word>abangatu</word>
         <class>substantivo</class>
-        <meaning>(etimologia - homem da alma boa) - homem gentil, fino; (adjetivo): <tp>Xe abangatu.</tp> - Eu sou gentil. (VLB, I, 148)</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>(etimologia - homem da alma boa) - homem gentil, fino; (adjetivo):</pt>
+                </translation>
+                <example>
+                    <tp>Xe abangatu.</tp>
+                    <pt>Eu sou gentil.</pt> 
+                    <src>(VLB, I, 148)</src>
+                </example>
+            </case>
+        </meaning>
         <source>65,169</source>
     </a>
     <a>
         <id>48</id>
         <word>abanhẽ</word>
         <class>substantivo</class>
-        <meaning>(etimologia - homem, não mais) - leigo (VLB, II, 20)</meaning>
+        <meaning>
+            <comments>(etimologia - homem, não mais)</comments>
+            <case>
+                <translation>
+                    <pt>leigo</pt>
+                    <src>(VLB, II, 20)</src>
+                </translation>
+            </case>
+        </meaning>
         <source>65,169</source>
     </a>
     <a>
         <id>49</id>
         <word>Abaosanga</word>
         <class>substantivo antropônimo</class>
-        <meaning>(etimologia - homem paciente) - nome de índio tupi (Knivet, The Adm. Adv., 1228)</meaning>
+        <meaning>
+            <comments>(etimologia - homem paciente)</comments>
+            <case>
+                <translation>
+                    <pt>nome de índio tupi</pt>
+                    <src>(Knivet, The Adm. Adv., 1228)</src>
+                </translation>
+            </case>
+        </meaning>
         <source>65,138</source>
     </a>
     <a>
         <id>50</id>
         <word>abápe</word>
         <class>interrogativo</class>
-        <meaning>ver <tp>abá</tp></meaning>
+        <meaning>
+            <comments>ver abá</comments>
+        </meaning>
         <source>65</source>
     </a>
     <a>
         <id>51</id>
         <word>abaraba</word>
         <class>substantivo</class>
-        <meaning>(t) - mancha; [adjetivo: <tp>abarab</tp> (r, s)] - manchado (o animal): <tp>Xe rabarab.</tp> - Eu sou manchado. (VLB, II, 30); <tp>Xe rabará-barab.</tp> - Eu sou muito manchado. (VLB, II, 29)</meaning>
+        <meaning>
+            <comments>(t)</comments>
+            <case>
+                <translation>
+                    <pt>mancha; [adjetivo: abarab (r, s)] - manchado (o animal):</pt>
+                </translation>
+                <example>
+                    <tp>Xe rabarab.</tp>
+                    <pt>Eu sou manchado.</pt> 
+                    <src>(VLB, II, 30)</src> 
+                </example>
+                <example>
+                    <tp>Xe rabará-barab.</tp>
+                    <pt>Eu sou muito manchado.</pt> 
+                    <src>(VLB, II, 29)</src>
+                </example>
+            </case>
+        </meaning>
         <source>65,169</source>
     </a>
-    <a>
+    <!--a>
         <id>52</id>
         <word>abaré</word>
         <class>substantivo</class>
