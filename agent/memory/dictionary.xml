@@ -1794,183 +1794,631 @@
         </meaning>
         <source>65,169</source>
     </a>
-    <!--a>
+    <a>
         <id>52</id>
         <word>abaré</word>
         <class>substantivo</class>
-        <meaning>padre, ABARÉ, ABARUNA; clérigo; frade; sacerdote, religioso (VLB, II, 100): <tp>I xupé, ranhẽ, abaré, Tupã mombegûabo, i xóû.</tp> - Junto a ela, primeiramente, os padres foram, anunciando a Deus. (Anch., Poemas, 1 14); <tp>Oú tenhẽ xe pe'abo "abaré" 'iaba...</tp> - Vêm em vão para me afastar os ditos "padres". (Anch., Teatro, 8)&#xA;NOTA - Hoje em dia a palavra ABARÉ, na umbanda, designa um médium desenvolvido; ABARÉ-MIRIM designa, na umbanda, um médium iniciante. Desse termo tupi provém, também, o nome do município de AVARÉ (SP).</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>padre, ABARÉ, ABARUNA; clérigo; frade; sacerdote, religioso:</pt>
+                    <src>(VLB, II, 100)</src> 
+                </translation>
+                <example>
+                    <tp>I xupé, ranhẽ, abaré, Tupã mombegûabo, i xóû.</tp>
+                    <pt>Junto a ela, primeiramente, os padres foram, anunciando a Deus.</pt> 
+                    <src>(Anch., Poemas, 1 14)</src> 
+                </example>
+                <example>
+                    <tp>Oú tenhẽ xe pe'abo "abaré" 'iaba...</tp>
+                    <pt>Vêm em vão para me afastar os ditos "padres"...</pt> 
+                    <src>(Anch., Teatro, 8)</src>
+                </example>
+            </case>
+            <note>
+                NOTA - Hoje em dia a palavra ABARÉ, na umbanda, designa um médium desenvolvido; ABARÉ-MIRIM designa, na umbanda, um médium iniciante. Desse termo tupi provém, também, o nome do município de AVARÉ (SP).
+            </note>        
+        </meaning>
         <source>65,169,111,112</source>
     </a>
     <a>
         <id>53</id>
         <word>Abaré-bebé</word>
         <class>substantivo antropônimo</class>
-        <meaning>(etimologia - padre voador) - nome dado ao Pe. Leonardo Nunes (Jesuíta do século XVI) pela grande rapidez com que se deslocava pelos diferentes lugares (Vasconcelos, Crônica (Not.) I, §68, 209)</meaning>
+        <meaning>
+            <comments>(etimologia - padre voador)</comments>
+            <case>
+                <translation>
+                    <pt>nome dado ao Pe. Leonardo Nunes (Jesuíta do século XVI) pela grande rapidez com que se deslocava pelos diferentes lugares.</pt>
+                    <src>(Vasconcelos, Crônica (Not.) I, §68, 209)</src>
+                </translation>
+            </case>
+        </meaning>
         <source>65,167</source>
     </a>
     <a>
         <id>54</id>
         <word>abaregûasu</word>
         <class>substantivo</class>
-        <meaning>(etim. - padre grande) (s.) - bispo, autoridade eclesiástica, provincial, abade, prelado: <tp>Asé sybápe abaregûasu nhandy-karaíba nonga.</tp> - Pôr o bispo em nossa testa o óleo santo. (Ar., Cat., 17v); <tp>Abaregûasu ogûatá.</tp> - O bispo passeia. (Fig., Arte, 6) &#xA;NOTA - Daí provém, no português brasileiro, a palavra ABARÉ-GUAÇU, designando, na quimbanda, um grande feiticeiro.</meaning>
+        <meaning>
+            <comments>(etimologia - padre grande)</comments> 
+            <case>
+                <translation>
+                    <pt>bispo, autoridade eclesiástica, provincial, abade, prelado:</pt>
+                </translation>
+                <example>
+                    <tp>Asé sybápe abaregûasu nhandy-karaíba nonga.</tp>
+                    <pt>Pôr o bispo em nossa testa o óleo santo.</pt> 
+                    <example>(Ar., Cat., 17v)</example> 
+                </example>
+                <example>
+                    <tp>Abaregûasu ogûatá.</tp>
+                    <pt>O bispo passeia.</pt> 
+                    <src>(Fig., Arte, 6)</src> 
+                </example>
+            </case>
+            <note>
+                NOTA - Daí provém, no português brasileiro, a palavra ABARÉ-GUAÇU, designando, na quimbanda, um grande feiticeiro.
+            </note>        
+        </meaning>
         <source>65,113,131</source>
     </a>
     <a>
         <id>55</id>
         <word>abaremotemõ</word>
         <class>substantivo</class>
-        <meaning>ABAREMOTEMO, árvore leguminosa (Abarema cochliacarpos Gomes, Barneby &amp; J.W. Grimes), cuja madeira é usada em construções e cuja casca tem empregos medicinais como adstringente (Piso, De Med. Bras., IV, 187)</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>ABAREMOTEMO, árvore leguminosa, cuja madeira é usada em construções e cuja casca tem empregos medicinais como adstringente.</pt>
+                    <src>(Abarema cochliacarpos Gomes, Barneby &amp; J.W. Grimes), (Piso, De Med. Bras., IV, 187)</src>
+                </translation>
+            </case>
+        </meaning>
         <source>65,153</source>
     </a>
     <a>
         <id>56</id>
         <word>abati</word>
         <class>substantivo</class>
-        <meaning>1) AVATI, ABATI, AUATI, milho, planta da família das gramíneas (Zea mais L.) (Staden, Viagem, 67): <tp>Atupá-rung abati.</tp> - Estabeleci uma plantação de milho. (VLB, II, 81);&#xA;2) o grão dessa planta&#xA;• <tp>abati-'y</tp> - ABATINI, variedade de bebida feita de milho; vinho de milho (D'Abbeville, Histoire, 207; Marcgrave,Hist. Nat. Eras., 274; Thevet, Les Sing. de la France Antarct., 56v); <tp>abati-tyba</tp> - milharada, milharal; <tp>abatigûasu</tp> (ou <tp>abati-atã</tp> ou <tp>abati-peba</tp>) - milho zaburro; <tp>abati-una</tp> - milho preto; <tp>abati-eté</tp> - milho verdadeiro (em oposição às suas variedades menos comuns); <tp>abati-tinga</tp> - milho de que se faz pão (VLB, II, 38)&#xA;NOTA - Daí provêm, no português brasileiro ABATIAPÉ ("milho de casca"), variedade de arroz encontrado em estado silvestre nas margens dos lagos amazônicos, arroz-bravo; ABATIGUERA (abati + pûer + -a, "milho que foi"), milharal já colhido e extinto, roça depois de efetuada a colheita; BATUERA, BATUEIRA (abati + pûer + -a, "milho que foi"), sabugo de milho; BATITÉ(ou CATETE ou CATETO) (abati + eté, "milho muito bom"), certa espécie de milho miúdo. Daí também, pelo nheengatu, o nome geográfico AUATI-PARANÁ (Amazonas).</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>1) AVATI, ABATI, AUATI, milho, planta da família das gramíneas:</pt>
+                    <src>(Zea mais L.) (Staden, Viagem, 67)</src>
+                </translation>
+                <example>
+                    <tp>Atupá-rung abati.</tp>
+                    <pt>Estabeleci uma plantação de milho.</pt> 
+                    <src>(VLB, II, 81)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>2) o grão dessa planta.</pt>
+                </translation>
+            </case>
+            <case>
+                <translation>
+                    <tp>abati-'y</tp>
+                    <pt>ABATINI, variedade de bebida feita de milho; vinho de milho.</pt> 
+                    <src>(D'Abbeville, Histoire, 207; Marcgrave, Hist. Nat. Eras., 274; Thevet, Les Sing. de la France Antarct., 56v)</src>
+                </translation>
+                <example>
+                    <tp>abati-tyba</tp> 
+                    <pt>milharada, milharal</pt>
+                </example>
+                <example>
+                    <tp>abatigûasu | abati-atã | abati-peba</tp>
+                    <pt>milho zaburro</pt>
+                </example>
+                <example>
+                    <tp>abati-una</tp>
+                    <pt>milho preto</pt> 
+                </example>
+                <example>
+                    <tp>abati-eté</tp>
+                    <pt>milho verdadeiro (em oposição às suas variedades menos comuns)</pt>
+                </example>
+                <example>
+                    <tp>abati-tinga</tp>
+                    <pt>milho de que se faz pão</pt>
+                    <src>(VLB, II, 38)</src>
+                </example>
+            </case>
+            <note>
+                NOTA - Daí provêm, no português brasileiro ABATIAPÉ ("milho de casca"), variedade de arroz encontrado em estado silvestre nas margens dos lagos amazônicos, arroz-bravo; ABATIGUERA (abati + pûer + -a, "milho que foi"), milharal já colhido e extinto, roça depois de efetuada a colheita; BATUERA, BATUEIRA (abati + pûer + -a, "milho que foi"), sabugo de milho; BATITÉ(ou CATETE ou CATETO) (abati + eté, "milho muito bom"), certa espécie de milho miúdo. Daí também, pelo nheengatu, o nome geográfico AUATI-PARANÁ (Amazonas).
+            </note>        
+        </meaning>
         <source>65,160,169,126,150,163</source>
     </a>
     <a>
         <id>57</id>
         <word>abati'i</word>
         <class>substantivo</class>
-        <meaning>(etimologia - milhozinho) - 1) arroz (VLB, I, 44);&#xA;2) trigo (VLB, IT, 137);&#xA;3) xerém, variedade de milho miúdo (VLB, IT, 149)&#xA;NOTA - Em Iracema, de José de Alencar, lemos "O coração de Iracema está como o ABATI n'água do rio", significando, aí, arroz</meaning>
+        <meaning>
+            <comments>(etimologia - milhozinho)</comments>
+            <case>
+                <translation>
+                    <pt>1) arroz</pt>
+                    <src>(VLB, I, 44)</src>
+                </translation>
+            </case>
+            <case>
+                <translation>
+                    <pt>2) trigo</pt>
+                    <src>(VLB, IT, 137)</src>
+                </translation>
+            </case>
+            <case>
+                <translation>
+                    <pt>3) xerém, variedade de milho miúdo</pt>
+                    <src>(VLB, IT, 149)</src>
+                </translation>
+            </case>
+            <note>
+                NOTA - Em Iracema, de José de Alencar, lemos "O coração de Iracema está como o ABATI n'água do rio", significando, aí, arroz.
+            </note>        
+        </meaning>
         <source>65,169</source>
     </a>
     <a>
         <id>58</id>
         <word>abati'imirĩ</word>
         <class>substantivo</class>
-        <meaning>ABATIMIRIM, planta da família das gramíneas, variedade de arroz com grão avermelhado e pequeno (VLB, I, 44)</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>ABATIMIRIM, planta da família das gramíneas, variedade de arroz com grão avermelhado e pequeno.</pt>
+                    <src>(VLB, I, 44)</src>
+                </translation>
+            </case>            
+        </meaning>
         <source>65,169</source>
     </a>
     <a>
         <id>59</id>
         <word>abati'itinga</word>
         <class>substantivo</class>
-        <meaning>(etimologia - milhozinho branco) - trigo (VLB, II, 137)</meaning>
+        <meaning>
+            <comments>(etimologia - milhozinho branco)</comments>
+            <case>
+                <translation>
+                    <pt>trigo</pt>
+                    <src>(VLB, II, 137)</src>
+                </translation>
+            </case>            
+        </meaning>
         <source>65,169</source>
     </a>
     <a>
         <id>60</id>
         <word>abatimirĩ</word>
         <class>substantivo</class>
-        <meaning> (etimologia - milho pequeno) - 1) xerém, variedade de milho miúdo (VLB, II, 149);&#xA;2) trigo (VLB, II, 137)</meaning>
+        <meaning> 
+            <comments>(etimologia - milho pequeno)</comments>
+            <case>
+                <translation>
+                    <pt>1) xerém, variedade de milho miúdo</pt>
+                    <src>VLB, II, 149)</src>
+                </translation>
+            </case>
+            <case>
+                <translation>
+                    <pt>2) trigo</pt>
+                    <src>(VLB, II, 137)</src>
+                </translation>
+            </case>
+        </meaning>
         <source>65,169</source>
     </a>
     <a>
         <id>61</id>
         <word>Abatiposanga</word>
         <class>substantivo antropônimo</class>
-        <meaning>(etimologia - remédio de milho) - nome de índio tupi (Staden, Viagem, 116)</meaning>
+        <meaning>
+            <comments>(etimologia - remédio de milho)</comments>
+            <case>
+                <translation>
+                    <pt>nome de índio tupi</pt>
+                    <src>(Staden, Viagem, 116)</src>
+                </translation>
+            </case>    
+        </meaning>
         <source>65,160</source>
     </a>
     <a>
         <id>62</id>
         <word>abatiputá</word>
         <class>substantivo</class>
-        <meaning>JABUTAPITÁ, BATIPUTÁ, o mesmo que <tp>aîabutipytá</tp> (ver) (Brandão, Diálogos, 202)</meaning>
+        <meaning>
+            <comments>JABUTAPITÁ, BATIPUTÁ, o mesmo que aîabutipytá (ver) (Brandão, Diálogos, 202)</comments>
+        </meaning>
         <source>65,116</source>
     </a>
     <a>
         <id>63</id>
         <word>Abatiúna</word>
         <class>substantivo antropônimo</class>
-        <meaning>(etimologia - milho escuro) - nome de índio tupi (D'Abbeville, Histoire, 186v)</meaning>
+        <meaning>
+            <comments>(etimologia - milho escuro)</comments>
+            <case>
+                <translation>
+                    <pt>nome de índio tupi</pt>
+                    <src>(D'Abbeville, Histoire, 186v)</src>
+                </translation>
+            </case>            
+        </meaning>
         <source>65,126</source>
     </a>
     <a>
         <id>64</id>
         <word>aba'yba</word>
         <class>substantivo</class>
-        <meaning>(etimologia - homem-guia) - namorado (VLB, II, 46): <tp>nde raîyra aba'yba</tp> - o namorado de tua filha (Ar., Cat., 267, 1686)</meaning>
+        <meaning>
+            <comments>(etimologia - homem-guia)</comments>
+            <case>
+                <translation>
+                    <pt>namorado:</pt>
+                    <src>(VLB, II, 46)</src>
+                </translation>
+                <example>
+                    <tp>nde raîyra aba'yba</tp>
+                    <pt>o namorado de tua filha</pt>
+                    <src>(Ar., Cat., 267, 1686)</src>
+                </example>
+            </case>            
+        </meaning>
         <source>65,169,113</source>
     </a>
     <a>
         <id>65</id>
         <word>Abaykyîa</word>
         <class>substantivo antropônimo</class>
-        <meaning>(etimologia - o arrasta-gente) - nome de índio tupi (Vasconcelos, Crônica (Not.) II, §2, 114)</meaning>
+        <meaning>
+            <comments>(etimologia - o arrasta-gente)</comments>
+            <case>
+                <translation>
+                    <pt>nome de índio tupi</pt>
+                    <src>(Vasconcelos, Crônica (Not.) II, §2, 114)</src>
+                </translation>
+            </case>            
+        </meaning>
         <source>65,167</source>
     </a>
     <a>
         <id>66</id>
         <word>abé</word>
         <class>conjunção</class>
-        <meaning>1) logo após, logo que, logo depois de, tão logo: <tp>Nde rera rendupa abé, Anhanga ryryî okûapa.</tp> - Tão logo ao ouvir o teu nome, o diabo está tremendo. (Anch., Poemas, 132); <tp>Aîpó oîoupé 'é abé, o îara repypûera reîtyki Tupãokype.</tp> - Logo depois de dizerem aquilo para ele, lançou o pagamento por seu senhor no templo. (Ar., Cat., 57v); <tp>Oú abé.</tp> - Tão logo vindo ele {Anch., Arte, 45v); <tp>Xe só abé turi.</tp> - Tão logo indo eu, ele veio. (Anch., Arte, 46);&#xA;2) assim que, enquanto, em (como em eu fazendo etc.); no mesmo instante em que: <tp>Gûinhe'enga abé</tp>... - Em eu falando. .. (VLB, I, 110); <tp>Xe só abé...</tp> - Assim que eu vou ... ( VLB, II, 24)</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>1) logo após, logo que, logo depois de, tão logo:</pt>
+                </translation>
+                <example>
+                    <tp>Nde rera rendupa abé, Anhanga ryryî okûapa.</tp>
+                    <pt>Tão logo ao ouvir o teu nome, o diabo está tremendo.</pt>
+                    <src>(Anch., Poemas, 132)</src>
+                </example>
+                <example>
+                    <tp>Aîpó oîoupé 'é abé, o îara repypûera reîtyki Tupãokype.</tp>
+                    <pt>Logo depois de dizerem aquilo para ele, lançou o pagamento por seu senhor no templo.</pt>
+                    <src>(Ar., Cat., 57v)</src>
+                </example>
+                <example>
+                    <tp>Oú abé.</tp>
+                    <pt>Tão logo vindo ele</pt> 
+                    <src>(Anch., Arte, 45v)</src>
+                </example>
+                <example>
+                    <tp>Xe só abé turi.</tp>
+                    <pt>Tão logo indo eu, ele veio.</pt>
+                    <src>(Anch., Arte, 46)</src>
+                </example>
+            </case>
+            <case>  
+                <translation>
+                    <pt>2) assim que, enquanto, em (como em eu fazendo etc.); no mesmo instante em que:</pt>
+                </translation>
+                <example>
+                    <tp>...Gûinhe'enga abé...</tp>
+                    <pt>...Em eu falando...</pt> 
+                    <src>(VLB, I, 110)</src>
+                </example>
+                <example>
+                    <tp>Xe só abé...</tp>
+                    <pt>Assim que eu vou...</pt>
+                    <src>( VLB, II, 24)</src>
+                </example>
+            </case>            
+        </meaning>
         <source>65,111,113,105,169</source>
     </a>
     <a>
         <id>67</id>
         <word>abé</word>
         <class>posposição</class>
-        <meaning>desde: - <tp>Marãpe pe rubixabetae'ym? - Nd'oroerekóî nhẽ oré ramuîa abé.</tp> - Por que vós não tendes muitos reis? - Não os temos desde nossos avós. (Léry, Histoire, 362)</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>desde:</pt>
+                </translation>
+                <example>
+                    <tp>Marãpe pe rubixabetae'ym? - Nd'oroerekóî nhẽ oré ramuîa abé.</tp>
+                    <pt>Por que vós não tendes muitos reis? - Não os temos desde nossos avós.</pt>
+                    <src>(Léry, Histoire, 362)</src>
+                </example>
+            </case>
+        </meaning>
         <source>65,145</source>
     </a>
     <a>
         <id>68</id>
         <word>abé</word>
         <class>advérbio</class>
-        <meaning>também; mais (é usado, às vezes, com o valor de uma conjunção aditiva e): <tp>Onheŷnhang umã sesé kunumĩetá kagûara, ... gûaîbĩ, tuîba'e abé...</tp> - Já se juntaram por causa disso muitos moços bebedores de cauim, velhas e velhos também. (Anch., Teatro, 24); <tp>Xe abé taîasugûaîa...</tp> - Eu também sou um porco ... (Anch., Teatro, 44); <tp>... Kó aîkó sygepûera t'arasó i nhy'ãbebuia abé xe raixó-gûaîbĩ supé.</tp> - Aqui estou para levar seu ventre e também seus pulmões para minha sogra velha. (Anch., Teatro, 66); <tp>Osó S. Pedro, São João abé</tp>. - Foram São Pedro e São João. (Ar., Cat., 55)</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>também; mais (é usado, às vezes, com o valor de uma conjunção aditiva e):</pt>
+                </translation>
+                <example>
+                    <tp>Onheŷnhang umã sesé kunumĩetá kagûara, ... gûaîbĩ, tuîba'e abé...</tp>
+                    <pt>Já se juntaram por causa disso muitos moços bebedores de cauim, velhas e velhos também.</pt>
+                    <src>(Anch., Teatro, 24)</src>
+                </example>
+                <example>
+                    <tp>Xe abé taîasugûaîa...</tp>
+                    <pt>Eu também sou um porco...</pt> 
+                    <src>(Anch., Teatro, 44)</src>
+                </example>
+                <example>
+                    <tp>... Kó aîkó sygepûera t'arasó i nhy'ãbebuia abé xe raixó-gûaîbĩ supé.</tp>
+                    <pt>... Aqui estou para levar seu ventre e também seus pulmões para minha sogra velha.</pt>
+                    <src>(Anch., Teatro, 66)</src>
+                </example>
+                <example>
+                    <tp>Osó S. Pedro, São João abé.</tp>
+                    <pt>Foram São Pedro e São João.</pt>
+                    <src>(Ar., Cat., 55)</src>
+                </example>
+            </case>    
+        </meaning>
         <source>65,112,113</source>
     </a>
     <a>
         <id>69</id>
         <word>'abebó</word>
         <class>substantivo</class>
-        <meaning>grenha, cabelo em desalinho; cabelos embaraçados, despenteados (Castilho, Nomes, 27); <tp>Xe 'abebogûasu.</tp> - Eu tenho uma grande grenha. (VLB, I, 150)</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>grenha, cabelo em desalinho; cabelos embaraçados, despenteados</pt>
+                    <src>(Castilho, Nomes, 27)</src>
+                </translation>
+                <example>
+                    <tp>Xe 'abebogûasu.</tp> 
+                    <pt>Eu tenho uma grande grenha</pt>
+                    <src>(VLB, I, 150)</src>
+                </example>
+            </case>
+        </meaning>
         <source>65,123,169</source>
     </a>
     <a>
         <id>70</id>
         <word>abé-no</word>
         <class>advérbio</class>
-        <meaning>também (VLB, II, 124)</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>também</pt>
+                    <src>(VLB, II, 124)</src>
+                </translation>
+            </case>            
+        </meaning>
         <source>65,169</source>
     </a>
     <a>
         <id>71</id>
         <word>aberame'ĩ</word>
         <class>verbo intransitivo</class>
-        <meaning>ver <tp>berame'ĩ</tp> (VLB, I, 23)</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <tp>berame'ĩ</tp>
+                    <pt>(ver)</pt>
+                    <src>(VLB, I, 23)</src>
+                </translation>
+            </case>
+        </meaning>
         <source>65,169</source>
     </a>
     <a>
         <id>72</id>
         <word>abiã</word>
         <class>partícula</class>
-        <meaning>ainda mais, quanto mais: <tp>iké abiã</tp> - ainda mais aqui (Fig., Arte, 37)</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>ainda mais, quanto mais:</pt>
+                </translation>
+                <example>
+                    <tp>iké abiã</tp>
+                    <pt>ainda mais aqui</pt> 
+                    <src>(Fig., Arte, 37)</src>
+                </example>
+            </case>
+        </meaning>
         <source>65,131</source>
     </a>
     <a>
         <id>73</id>
         <word>abiã</word>
         <class>conjunção</class>
-        <meaning>se (usado com <tp>memetipó</tp> ou <tp>memetiã</tp> ou <tp>memetaé</tp>): <tp>Mene'yma resé oîkoba'e abiã koîpó sesé onhemomotaryba'e oîaby-eté Tupã nhe'enga, memetipó mendara momoxysara koîpó sesé nhemomotasara.</tp> - Se o que tem relações sexuais com uma solteira ou por ela se atrai transgride muito a palavra de Deus, tanto mais o que perverte uma casa da ou o que se atrai por ela. (Ar., Cat., 109); <tp>Mba'e sekatuba'e abiã... oîmoting i 'uetébo, memetiã nde nda mba'e-katu ruã euĩ ereîmo'ẽ.</tp> - Se uma coisa que é muito saborosa enjoa, comendo-a muito, eis que tanto mais tu expelirás o que não é coisa boa. (Anch., Doutr. Cristã, II, 111); <tp>Kûarasy abiã oporomo'y'useî-eté, memetaé tatápe oína abá o'useî-etéramo.</tp> - Se o Sol faz as pessoas terem muita sede, tanto mais estando no fogo as pessoas desejam beber. (Ar., Cat., 164)</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <tp>memetipó | memetiã | memetaé</tp>
+                    <pt>se:</pt> 
+                </translation>
+                <example>
+                    <tp>Mene'yma resé oîkoba'e abiã koîpó sesé onhemomotaryba'e oîaby-eté Tupã nhe'enga, memetipó mendara momoxysara koîpó sesé nhemomotasara.</tp>
+                    <pt>Se o que tem relações sexuais com uma solteira ou por ela se atrai transgride muito a palavra de Deus, tanto mais o que perverte uma casa da ou o que se atrai por ela.</pt>
+                    <src>(Ar., Cat., 109)</src>
+                </example>
+                <example>
+                    <tp>Mba'e sekatuba'e abiã... oîmoting i 'uetébo, memetiã nde nda mba'e-katu ruã euĩ ereîmo'ẽ.</tp>
+                    <pt>Se uma coisa que é muito saborosa enjoa, comendo-a muito, eis que tanto mais tu expelirás o que não é coisa boa.</pt>
+                    <src>(Anch., Doutr. Cristã, II, 111)</src>
+                </example>
+                <example>
+                    <tp>Kûarasy abiã oporomo'y'useî-eté, memetaé tatápe oína abá o'useî-etéramo.</tp>
+                    <pt>Se o Sol faz as pessoas terem muita sede, tanto mais estando no fogo as pessoas desejam beber.</pt>
+                    <src>(Ar., Cat., 164)</src>
+                </example>
+            </case>
+        </meaning>
         <source>65,113,110</source>
     </a>
     <a>
         <id>74</id>
         <word>abiîagûasu</word>
         <class>substantivo</class>
-        <meaning>nome de um pássaro [Soares, Coisas Not. Eras. (ms. C), 1464-1468]</meaning>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>nome de um pássaro</pt>
+                    <src>(Soares, Coisas Not. Eras. (ms. C), 1464-1468)</src>
+                </translation>
+            </case>
+        </meaning>
         <source>65,157</source>
     </a>
     <a>
         <id>75</id>
         <word>abiîu</word>
         <class>substantivo</class>
-        <meaning>(t) - 1) pelo de pano, felpa (VLB, I, 144);&#xA;2) fibras de madeira de má qualidade ou serrada com serra ruim, que tem uma certa frisa por cima (VLB, I, 144);&#xA;3) penugem fina de ave nova ( VLB, I, 113);&#xA;4) raspa ou raspas como da bota ou de qualquer couro (VLB, II, 97)&#xA;• <tp>aoba rabiîu</tp> - felpas de pano usadas para curar feridas, como se faz hoje com flocos de algodão; <tp>sabiîuakytãba'e</tp> - o que é felpudo (VLB, I, 144)</meaning>
+        <meaning>
+            <comments>(t)</comments>
+            <case>
+                <translation>
+                    <pt>1) pelo de pano, felpa</pt>
+                    <src>(VLB, I, 144)</src>
+                </translation>
+            </case>
+            <case>
+                <translation>
+                    <pt>2) fibras de madeira de má qualidade ou serrada com serra ruim, que tem uma certa frisa por cima.</pt>
+                    <src>(VLB, I, 144)</src>
+                </translation>
+            </case>
+            <case>
+                <translation>
+                    <pt>3) penugem fina de ave nova.</pt>
+                    <src>(VLB, I, 113)</src>
+                </translation>
+            </case>
+            <case>
+                <translation>
+                    <pt>4) raspa ou raspas como da bota ou de qualquer couro.</pt>
+                    <src>(VLB, II, 97)</src>
+                </translation>
+            </case>
+            <case>
+                <translation>
+                    <tp>aoba rabiîu</tp>
+                    <pt>felpas de pano usadas para curar feridas, como se faz hoje com flocos de algodão</pt>
+                </translation>
+                <example>
+                    <tp>sabiîuakytãba'e</tp>
+                    <pt>o que é felpudo</pt>
+                    <src>(VLB, I, 144)</src>
+                </example>
+            </case>
+        </meaning>
         <source>65,169</source>
     </a>
     <a>
         <id>76</id>
         <word>abiîu</word>
         <class>substantivo</class>
-        <meaning>(t) - espécie de roupa usada no século XVI; saia de pano (VLB, 1, 84)</meaning>
+        <meaning>
+            <comments>(t)</comments>
+            <case>
+                <translation>
+                    <pt>espécie de roupa usada no século XVI; saia de pano</pt>
+                    <src>(VLB, 1, 84)</src>
+                </translation>
+            </case>
+        </meaning>
         <source>65,169</source>
     </a>
     <a>
         <id>77</id>
+        <word>abiîxûara</word>
+        <class>substantivo</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>o que está aconchegado, o que está junto:</pt>
+                </translation>
+                <example>
+                    <tp>Ereîtykype kunumĩ amõ nde abiîxûara nde 'arybo moropotara suí?</tp>
+                    <pt>Lançaste algum menino que estava aconchegado a ti sobre ti por desejo sensual?</pt>
+                    <src>(Anch., Doutr. Cristã, II, 95)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,110</source>
+    </a>
+    <a>
+        <id>78</id>
+        <word>'abiú</word>
+        <class>verbo transitivo</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>catar a cabeça de:</pt>
+                </translation>
+                <example>
+                    <tp>Aî'abiú.</tp>
+                    <pt>Catei-lhe a cabeça.</pt>
+                    <src>(VLB, I, 69)</src>
+                </example>
+            </case>    
+        </meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>79</id>
+        <word>abo</word>
+        <class>sufixo de gerúndio</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>Sua forma nasal é -amo. Apresenta também os alomorfes -bo e -mo (nasal).]:</pt>
+                </translation>
+                <example>
+                    <tp>... xe 'anga moingó-katûabo!</tp>
+                    <pt>... fazendo estar bem minha alma!</pt> 
+                    <src>(Anch., Poemas, 92)</src>
+                </example>
+                <example>
+                    <tp>... Iandé rarõmo ...</tp>
+                    <pt>... Guardando-nos ...</pt>
+                    <src>(Anch., Poemas, 90)</src>
+                </example>
+                <example>
+                    <tp>... nde moingóbo xe py'ape...</tp>
+                    <pt>... fazendo-te viver no meu coração</pt>
+                    <src>(Anch., Poemas, 94)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65</source>
+    </a>
+    <!--a>
+        <id>80</id>
         <word></word>
         <class></class>
         <meaning></meaning>
