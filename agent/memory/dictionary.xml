@@ -2415,10 +2415,81 @@
                 </example>
             </case>
         </meaning>
+        <source>65,111</source>
+    </a>
+    <a>
+        <id>80</id>
+        <word>abõ</word>
+        <class>verbo transitivo</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>avivar (p.ex., o fogo):</pt>
+                </translation>
+                <example>
+                    <tp>... O îoesé bé tatá rerekóbo, o endy îandy i abõmo nhẽ.</tp>
+                    <pt>... Em si também tendo fogo, suas chamas o óleo avivando.</pt>
+                    <src>(Ar., Cat., 1 61 )</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65</source>
+    </a>
+    <a>
+        <id>81</id>
+        <word>abo'o</word>
+        <class>verbo transitivo</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>pelar (p.ex., o leitão); depenar (p.ex., ave):</pt>
+                </translation>
+                <example>
+                    <tp>Asabo'o.</tp>
+                    <pt>Pelei-o.</pt>
+                    <src>(VLB, II, 70)</src>
+                </example>
+                <example>
+                    <tp>Aî'apir-abo'o.</tp>
+                    <pt>Eu lhe pelo o couro cabeludo.</pt>
+                    <src>(VLB, II, 70)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65</source>
+    </a>
+    <a>
+        <id>82</id>
+        <word>'abo'o</word>
+        <class>verbo transitivo</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>pelar a cabeça de, arrancar os cabelos de:</pt>
+                </translation>
+                <example>
+                    <tp>Aî'abo'o.</tp>
+                    <pt>Eu lhe pelo a cabeça.</pt>
+                    <src>(VLB, I, 94; II, 70)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <tp>'abo'o-bo'o</tp>
+                    <pt>escabelar, desfazer o penteado de, desgrenhar o cabelo de etc:</pt>
+                    <src>(VLB, 1, 122)</src>
+                </translation>
+                <example>
+                    <tp>Aî'abo'o-bo'o.</tp>
+                    <pt>Escabelei-o.</pt>
+                    <src>(VLB, 1, 122)</src>
+                </example>
+            </case>
+        </meaning>
         <source>65</source>
     </a>
     <!--a>
-        <id>80</id>
+        <id>83</id>
         <word></word>
         <class></class>
         <meaning></meaning>
