@@ -2486,11 +2486,218 @@
                 </example>
             </case>
         </meaning>
-        <source>65</source>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>83</id>
+        <word>abuna</word>
+        <class>substantivo</class>
+        <meaning>
+            <comments>etimologia - homem escuro</comments>
+            <case>
+                <translation>
+                    <tp>ABUNA</tp>
+                    <pt>padre</pt>
+                    <src>(Vieira, Cartas, I, 382)</src>
+                </translation>
+            </case>
+            <note>
+                Daí, o nome geográfico ITABUNA (município da BA).
+            </note>
+        </meaning>
+        <source>65,168</source>
+    </a>
+    <a>
+        <id>84</id>
+        <word>abutua</word>
+        <class>substantivo</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>ABUTUA, ABÚTUA, ABUTA, ABUTINHA, BUTUA, BUTINHA, BUTU, nome comum a várias plantas da família das menispermáceas</pt>
+                    <src>(Cadornega, Hist. Guerras Angolanas, III, 201)</src>
+                </translation>
+            </case>
+        </meaning>
+        <source>65,118</source>
+    </a>
+    <a>
+        <id>85</id>
+        <word>aby</word>
+        <class>verbo transitivo</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>ser desigual de; não se parecer com; diferir de; ser diferente de:</pt>
+                </translation>
+                <example>
+                    <tp>N'aîabyî.</tp>
+                    <pt>Não sou diferente dele, pareço-me com ele.</pt>
+                    <src>(VLB, II, 65)</src>
+                </example>
+                <example>
+                    <tp>Oroîoaby.</tp>
+                    <pt>Somos desiguais um do outro.</pt>
+                    <src>(VLB, I, 99)</src> 
+                </example>
+                <example>
+                    <tp>Aîpoba'e tenhẽ n'oîabyî mboîa.</tp>
+                    <pt>Aquele, de fato, não é diferente da cobra.</pt>
+                    <src>(Ar., Cat, 108v)</src>
+                </example>
+                <example>
+                    <tp>Oîaby rakó abá rekó xe retama...</tp>
+                    <pt>É muito diferente, de fato, a morada dos homens da minha residência.</pt>
+                    <src>(Ar., Cat., 167)</src>
+                </example>
+                <example>
+                    <tp>Nd'oîabyî muru arara...</tp>
+                    <pt>O maldito não difere de uma arara...</pt>
+                    <src>(Anch., Teatro, 62)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,169,113,112</source>
+    </a>
+    <a>
+        <id>86</id>
+        <word>aby</word>
+        <class>verbo transitivo</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>errar, falhar com; enganar-se em, deixar de atingir, desviar-se de, não acertar em:</pt>
+                </translation>
+                <example>
+                    <tp>Tatapynha n'oîabyî; oîeí bé muru kaî...</tp>
+                    <pt>As brasas não falham com eles; ainda hoje os malditos queimam...</pt>
+                    <src>(Anch., Teatro, 88)</src>
+                </example>
+                <example>
+                    <tp>Aîaby-îaby.</tp>
+                    <pt>Fiquei-as errando (isto é, as flechas atiradas).</pt>
+                    <src>(VLB, I, 38)</src>
+                </example>
+                <example>
+                    <tp>T'oîaby umẽ Tupã o monhangara.</tp>
+                    <pt>Que não se desvie de Deus, seu criador.</pt>
+                    <src>(Ar., Cat., 187)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,112,169,113</source>
+    </a>
+    <a>
+        <id>87</id>
+        <word>aby</word>
+        <class>verbo transitivo</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>transgredir, infringir, violar:</pt>
+                </translation>
+                <example>
+                    <tp>Eîori sa'anga, rõ, t'otupã-nhe'engaby...</tp>
+                    <pt>Vai para prová-los, pois, para que transgridam a palavra de Deus.</pt>
+                    <src>(Anch., Teatro, 16)</src>
+                </example>
+                <example>
+                    <tp>Abápe aîpoba'e oîaby?</tp>
+                    <pt>Quem aquele (mandamento) transgride?</pt>
+                    <src>(Ar., Cat., 69v)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <tp>abŷaba</tp>
+                    <pt>tempo, lugar, modo etc. de transgredir; transgressão:</pt>
+                </translation>
+                <example>
+                    <tp>...O angaîpaba, Tupã nhe'enga abŷ agûera reroŷrõmo...</tp> 
+                    <pt>...Detestando seu pecado, a transgressão da palavra de Deus...</pt>
+                    <src>(Ar., Cat., 80v)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <tp>abŷara</tp>
+                    <pt>o que transgride, o transgressor:</pt>
+                </translation>
+                <example>
+                    <tp>A'epe cristãos Tupã nhe'enga abŷara, marã?</tp>
+                    <pt>E os cristãos transgressores da palavra de Deus, que lhes sucede?</pt>
+                    <src>(Ar., Cat., 26v)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,112,113</source>
+    </a>
+    <a>
+        <id>88</id>
+        <word>aby'aka</word>
+        <class>substantivo</class>
+        <meaning>
+            <comments>(t) ACA, INHACA, IACA</comments>
+            <case>
+                <translation>
+                    <pt>cheiro de urina, fedor de suor: </pt>
+                </translation>
+                <example>
+                    <tp>aby'ak</tp> 
+                    <pt>[adj. (r, s)] - fedorento</pt> 
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>(xe) cheirar mal, ter inhaca:</pt>
+                </translation>
+                <example>
+                    <tp>Xe raby'ak</tp>
+                    <pt>Eu tenho inhaca.</pt>
+                    <src>(VLB, I, 73)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>89</id>
+        <word>abŷare'yma</word>
+        <class>substantivo</class>
+        <meaning>
+            <comments>(etimologia - o que não difere)</comments>
+            <case>
+                <translation>
+                    <pt>símile, imitação, coisa semelhante:</pt>
+                </translation>
+                <example>
+                    <tp>Îusana abŷare'yma nhẽ serã tentação?</tp>
+                    <pt>Porventura a tentação é coisa semelhante a um laço?</pt>
+                    <src>(Anch., Diál. da Fé, 232)</src>
+                </example>
+                <example>
+                    <tp>Mba'e abŷare'ymape syaîa?</tp>
+                    <pt>Semelhante a que coisa era o suor dele?</pt>
+                    <src>(Ar., Cat., 53v)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <tp>abŷare'ym</tp>
+                    <pt>adj.: parecido com, semelhante a:</pt>
+                </translation>
+                <example>    
+                    <tp>Tatá-endy-etá, asé apekũ-abŷare'yma anhõ osepîak.</tp>
+                    <pt>Viram somente muitas chamas de fogo, parecidas com nossas línguas.</pt>
+                    <src>(Ar., Cat., 45)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,107,113</source>
     </a>
     <!--a>
-        <id>83</id>
-        <word></word>
+        <id>90</id>
+        <word>abyky</word>
         <class></class>
         <meaning></meaning>
         <source>65</source>
