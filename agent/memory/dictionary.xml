@@ -2695,9 +2695,193 @@
         </meaning>
         <source>65,107,113</source>
     </a>
-    <!--a>
+    <a>
         <id>90</id>
         <word>abyky</word>
+        <class>verbo transitivo</class>
+        <meaning> 
+            <case>
+                <translation>
+                    <pt>pentear; escovar, cardar (p.ex., algodão):</pt>
+                    <src>(VLB, l, 67)</src>
+                </translation>
+                <example>
+                    <tp>Aîabyky.</tp>
+                    <pt>Penteio-o.</pt>
+                    <src>(VLB, I, 32)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <tp>abykŷaba</tp>
+                    <pt>tempo, lugar, modo, instrumento etc. de pentear, de cardar; carda, prancha de madeira forrada de lata e ouriçada de pontas de ferro para pentear a lã, o algodão, para os tornar fáceis de fiar.</pt>
+                    <src>(VLB, 1, 67)</src>
+                </translation>
+            </case>
+        </meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>91</id>
+        <word>abyky</word>
+        <class>verbo transitivo</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>1) apalpar, tocar:</pt>
+                </translation>
+                <example>
+                    <tp>Nde rorype abá nde abykyreme?</tp>
+                    <pt>Tu te alegras quando um homem te apalpa?</pt>
+                    <src>(Ar., Cat., 234)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>2) fazer de mãos, tratar com as mãos, manusear:</pt>
+                </translation>
+                <example>
+                    <tp>Aîabyky.</tp>
+                    <pt>Manuseio-o.</pt>
+                    <src>(Anch., Arte, 49v-50)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65</source>
+    </a>
+    <a>
+        <id>92</id>
+        <word>abyraru</word>
+        <class>substantivo</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>umidade fétida; (adj.) - úmido; languinhento (fal do que "está em algum lugar úmido e que ganha um certo suorzinho de mau cheiro")</pt>
+                    <src>(VLB, II, 20)</src>
+                </translation>
+            </case>
+        </meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>93</id>
+        <word>a'e</word>
+        <class>advérbio</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>aí, ali, lá, esse lugar, aquele lugar (não visível):</pt>
+                    <src>(VLB, I, 89)</src>
+                </translation>
+                <example>
+                    <tp>Osem-y bépe irã a'e suí ne?</tp>
+                    <pt>Sairão ainda futuramente dali?</pt>
+                    <src>(Ar., Cat., 47v)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>2) esse momento, então:</pt>
+                </translation>
+                <example>
+                    <tp>A'e ré t'asepenhan.</tp>
+                    <pt>Depois desse momento hei de atacá-los.</pt>
+                    <src>(Anch., Teatro, 74)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <tp>a'e remebé | a'e remengatutenhe</tp>
+                    <pt>então, nesse tempo</pt>
+                    <src>(VLB, I, 118)</src>
+                </translation>
+            </case>
+        </meaning>
+        <source>65,169,113,112</source>
+    </a>
+    <a>
+        <id>94</id>
+        <word>a'e</word>
+        <class>demonstrativo pronomial e adjetivo</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>esse (s, a, as); aquele (s, a, as), isso, aquilo:</pt>
+                </translation>
+                <example>
+                    <tp>A'e ré kori îasó tubixaba akanga kábo.</tp>
+                    <pt>Depois disso, hoje vamos quebrar as cabeças dos reis.</pt>
+                    <src>(Anch., Teatro, 60)</src>
+                </example>
+                <example>
+                    <tp>N'aîkuabi a'e abá...</tp>
+                    <pt>Não conheço esse homem...</pt>
+                    <src>(Ar., Cat. , 57)</src>
+                </example>
+                <example>
+                    <tp>...A'epûera nongatûabo é îandé îabé apŷabetéramo i nhemonhangi erimba'e...</tp>
+                    <pt>...Para acalmar aquele, como nós ele se fez bomem verdadeiro...</pt>
+                    <src>(Ar., Cat., 84)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>2) ele (s, a, as):</pt>
+                </translation>
+                <example>
+                    <tp>Osobá-syb aó-tinga pupé; a'e resé sobá ra'angaba pytáû.</tp>
+                    <pt>Limpou seu rosto com um pano branco; nele ficou a imagem de seu rosto.</pt>
+                    <src>(Ar., Cat., 62)</src>
+                </example>
+                <example>
+                    <tp>Karaibebé a'e, moroîubyka puaîtara.</tp>
+                    <pt>Ele é o anjo que encomenda o enforcamento.</pt>
+                    <src>(Anch., Teatro, 62)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>3) aquele (s, a, as) que:</pt>
+                </translation>
+                <example>
+                    <tp>A'e asetobapé-pyténe... peîpysy-katu kori, i popûá...</tp>
+                    <pt>Aquele que eu beijar na face, agarrai-o, atando-lhe as mãos.</pt>
+                    <src>(Ar., Cat., 75)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <tp>a'erama ri</tp>
+                    <pt>para tanto, para isso:</pt>
+                </translation>
+                <example>
+                    <tp>A'erama ri Tupã asé rekomonhangaba resé... o ma'enduaramo...</tp>
+                    <pt>Para tanto, lembra-se a gente dos mandamentos de Deus.</pt>
+                    <src>(Bettendorff, Compêndio, 921)</src>
+                </example>
+                <example>
+                    <tp>a'e îabé</tp>
+                    <pt>outro tanto; da mesma maneira</pt>
+                    <src>(VLB, II, 61 )</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <tp>a'e îá</tp>
+                    <pt>assim, desse modo:</pt>
+                </translation>
+                <example>
+                    <tp>A'e îá bépe gûá i py rerekóû, itapygûá pupé i moîáno?</tp>
+                    <pt>Assim também fizeram com seus pés, pregando-os com cravos?</pt>
+                    <src>(Anch., Diál. da Fé, 189)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,112,113,115,169,107</source>
+    </a>
+    <!--a>
+        <id>95</id>
+        <word></word>
         <class></class>
         <meaning></meaning>
         <source>65</source>
