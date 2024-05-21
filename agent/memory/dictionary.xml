@@ -2879,8 +2879,235 @@
         </meaning>
         <source>65,112,113,115,169,107</source>
     </a>
-    <!--a>
+    <a>
         <id>95</id>
+        <word>a'e</word>
+        <class>conjunção</class>
+        <meaning> 
+            <case>
+                <translation>
+                    <pt>1) na verdade, contudo, mas, porém:</pt>
+                </translation>
+                <example>
+                    <tp>Na setéî; Tupã Ta'yra a'e, îandé îabé apŷ abamo o nhemonhang'iré é, setéramo ko'yté, asé îabé.</tp>
+                    <pt>Não têm corpo; Deus Filho, contudo, após fazer-se homem como nós, teve corpo, enfim, como nós.</pt>
+                    <src>(Bettendorff, Compêndio, 43)</src>
+                </example>
+                <example>
+                    <tp>A'e ko'y, xe resé, ó-mirĩ pupé ereîkó.</tp>
+                    <pt>Mas agora, por minha causa, dentro de uma casinha estás.</pt>
+                    <src>(Anch., Poemas, 128)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>2) mas sim, senão, pelo contrário (afirmando de um o que negamos de outro):</pt>
+                </translation>
+                <example>
+                    <tp>...Na xe remiaûsuba ruã, xe remirekó a'e.</tp>
+                    <pt>...Não é minha escrava, mas, sim, minha esposa.</pt>
+                    <src>(Ar., Cat., 95)</src>
+                </example>
+                <example>    
+                    <tp>Na Pero ruã, tybyra a'e.</tp>
+                    <pt>Não era Pedro, mas, sim, seu irmão.</pt>
+                    <src>(VLB, II, 115)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>3) senão que, se não fosse</pt>
+                    <src>(VLB, Il, 116)</src>
+                </translation>
+            </case>
+        </meaning>
+        <source>65,115,111,113,169</source>
+    </a>
+    <a>
+        <id>96</id>
+        <word>a'e</word>
+        <class>partícula</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>e? e porventura? (como no latim nunquid?, usada em inicio de períodos. Serve também para se perguntar sobre fatos já muito bem conhecidos, somente com o intuito deenfatizar a ação ou o processo em questão):</pt>
+                </translation>
+                <example>
+                    <tp>A 'epe ké amboaé? - Karaibebé serã...</tp>
+                    <pt>E o outro, aqui? - Talvez seja o anjo.</pt>
+                    <src>(Anch., Teatro, 26)</src>
+                </example>
+                <example>
+                    <tp>A'epe marã apŷabetéramo sekóû îandé îabé?</tp>
+                    <pt>E de que maneira é homem verdadeiro como nós?</pt>
+                    <src>(Ar., Cat., 22v)</src>
+                </example>
+                <example>
+                    <tp>A'e serãne hóstia pupé Îesu Cristo rekóû?</tp>
+                    <pt>E porventura na hóstia está Jesus Cristo?</pt>
+                    <src>(Ar., Cat., 87)</src>
+                </example>
+                <example>
+                    <tp>A'e-p'ikó?</tp>
+                    <pt>E este?</pt>
+                    <src>(VLB, I, 153)</src>
+                </example>
+                <example>
+                    <tp>A'epe n'osóî?</tp>
+                    <pt>E, porventura, ele não foi? (como que dizendo: todos sabem que foi. Neste sentido emprega-se maisa'e-tepe?')</pt>
+                    <src>(VLB, I, 120, 121)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <tp>a'e emonãnamo</tp>
+                    <pt>e portanto</pt>
+                    <src>(VLB, I, 121)</src>
+                </translation>
+            </case>
+            <case>
+                <translation>
+                    <tp>a'e ipó | a'e nipó</tp>
+                    <pt>e (com reme - no caso de):</pt>
+                </translation>
+                <example>
+                    <tp>A'e ipó sekoe'ỹme?</tp>
+                    <pt>E no caso de ele não estar?</pt>
+                    <src>(VLB, I, 121)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <tp>a'e-tepe?</tp>
+                    <pt>E vai bem? E como está? E que me dizes de? E quanto a? E qual é? (perguntando-se a opinião de alguém):</pt>
+                </translation>
+                <example>
+                    <tp>A'e-tepe ahẽ? | A'e-tep'ahẽ rekóû?</tp>
+                    <pt>E como está ele?</pt>
+                </example>
+                <example>
+                    <tp>A'e-tepe nde?</tp>
+                    <pt>E quanto a ti? (isto é, qual é tua opinião?)</pt>
+                </example>
+                <example>
+                    <tp>A'e-tepe nde nhe'enga?</tp>
+                    <pt>E qual é a tua palavra? (i.e., que dizes sobre isso?)</pt>
+                    <src>(VLB, I, 78).</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>Serve para perguntas em que a resposta já é sabida, mas que tem o efeito de uma ênfase na ação ou no processo em questão:</pt>
+                </translation>
+                <example>
+                    <tp>A'e-te-p'ixé n'a sóî?</tp>
+                    <pt>E eu não fui? (como que dizendo: todos sabem que eu fui).</pt>
+                    <src>(VLB, I, 120; 121)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,112,113,169</source>
+    </a>
+    <a>
+        <id>97</id>
+        <word>aé</word>
+        <class>substantivo</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>âmago; lugar vital, ponto mortal (usava-se para falar de ferimento grave ou perigoso):</pt>
+                </translation>
+                <example>
+                    <tp>Xe aépe xe ybõû.</tp>
+                    <pt>Flechou-me em lugar vital.</pt>
+                    <src>(VLB, II, 42)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>98</id>
+        <word>aé</word>
+        <class>partícula</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>diferente, vário, outro:</pt>
+                </translation>
+                <example>
+                    <tp>Xe rekó-aé arekó.</tp>
+                    <pt>Tenho meu modo de ser diferente.</pt>
+                    <src>(VLB, I, 103)</src>
+                </example>
+                <example>
+                    <tp>Oré rekó-rekó-aé oroerekó.</tp>
+                    <pt>Temos nossos modos de ser diferentes.</pt>
+                    <src>(VLB, I, 103)</src>
+                </example>
+                <example>
+                    <tp>mba'e-aé</tp>
+                    <pt>outra coisa</pt>
+                    <src>(VLB, I, 29)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>99</id>
+        <word>aé</word>
+        <class>partícula de ênfase</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>1) próprio (s, a, as); mesmo (s, a, as):</pt>
+                </translation>
+                <example>
+                    <tp>Ixé aé.</tp>
+                    <pt>Eu mesmo.</pt>
+                </example>
+                <example>
+                    <tp>A'e aé</tp>
+                    <pt>ele (s, a, as) mesmo is, a, as).</pt>
+                    <src>(VLB, II, 36)</src>
+                </example>
+                <example>
+                    <tp>Endé aé ereîekûá.</tp>
+                    <pt>Tu mesmo és a causa de teu dano.</pt>
+                    <src>(Anch., Teatro, 42)</src>
+                </example>
+                <example>
+                    <tp>Nde aé ipó emonã ereîkó.</tp>
+                    <pt>Tu mesmo assim procedeste.</pt>
+                    <src>(Ar., Cat., 57v)</src>
+                </example>
+                <example>
+                    <tp>Pedro aé</tp>
+                    <pt>o próprio Pedro, Pedro mesmo</pt>
+                    <src>(Anch., Arte, 54)</src>
+                </example>
+                <example>
+                    <tp>ebokûeîba'e a'e</tp>
+                    <pt>isso mesmo</pt>
+                    <src>(VLB, II, 15)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>2) de fato, realmente:</pt>
+                </translation>
+                <example>
+                    <tp>Perobîar-y-tepe aé Tupã?</tp>
+                    <pt>Mas acreditais realmente em Deus?</pt>
+                    <src>(Anch., Doutr. Cristã, I, 157)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,169,112,113,105,109</source>
+    </a>
+    <!--a>
+        <id>100</id>
         <word></word>
         <class></class>
         <meaning></meaning>
