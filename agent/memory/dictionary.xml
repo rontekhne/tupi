@@ -3106,8 +3106,240 @@
         </meaning>
         <source>65,169,112,113,105,109</source>
     </a>
-    <!--a>
+    <a>
         <id>100</id>
+        <word>aé-amẽ</word>
+        <class>partícula</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>qual outro senão?:</pt>
+                </translation>
+                <example>
+                    <tp>Ma'e-kugûapara aé-amẽ ahẽ?</tp>
+                    <pt>Qual outro é conhecedor senão ele?</pt>
+                    <src>(VLB, II, 9 1 )</src>
+                </example>
+                <example>
+                    <tp>Maratekoara aé-amẽ ahẽ?</tp>
+                    <pt>Qual outro é guerreiro senão ele?</pt>
+                    <src>(VLB, I, 20)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>101</id>
+        <word>a'eba'e</word>
+        <class>demonstrativo pronomial</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>ele, (s, a, as), aquele (s, a, as):</pt>
+                </translation>
+                <example>
+                    <tp>Nd'e'i te'e Tupã a'eba'e reîtyka tatápe...</tp>
+                    <pt>Por isso mesmo Deus aqueles lançou no fogo...</pt>
+                    <src>(Anch., Doutr. Cristã, I, 193)</src>
+                </example>
+                <example>
+                    <tp>A'eba'e o'ar Maria abá bykagûere'yma suí</tp>
+                    <pt>Ele nasceu de Maria, a que não foi tocada por homem.</pt>
+                    <src>(Ar., Cat., 15)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,109,113</source>
+    </a>
+    <a>
+        <id>102</id>
+        <word>a'ebé</word>
+        <class>advérbio</class>
+        <meaning>
+            |<case>
+                <translation>
+                    <pt>o mesmo que a'eibé (v.)</pt>
+                    <src>(Anch., Teatro, 146, 2006)</src>
+                </translation>
+            </case>
+        </meaning>
+        <source>65,112</source>
+    </a>
+    <a>
+        <id>103</id>
+        <word>a'eboé</word>
+        <class>advérbio</class>
+        <meaning>
+            <case>
+                <comments>justamente, perfeitamente, é certo que, corretamente, muito a propósito (Fig., Arte, 136)</comments>
+                <translation>
+                    <pt>sem mais nem menos:</pt>
+                    <src>(VLB, II, 49; 102)</src>
+                </translation>
+                <example>
+                    <tp>A'eboépe Tupã rasara Tupã rariamõme, îepi?</tp>
+                    <pt>É certo que o comungante comungue algumas vezes (ou) sempre?</pt>
+                    <src>(Ar., Cat., 77)</src>
+                </example>
+                <example>
+                    <tp>A'eboé ebokûé 'ara asé oîmoeté-katune.</tp>
+                    <pt>Muito a propósito a gente comemorará bem esse dia.</pt> <src>(Ar., Cat., 131)</src>
+                </example>
+                <example>
+                    <tp>A'eboé tuî.</tp>
+                    <pt>Está muito a propósito, está sem mais nem menos (como se queria).</pt>
+                    <src>(VLB, II, 102)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,169,113</source>
+    </a>
+    <a>
+        <id>104</id>
+        <word>a'eîbé</word>
+        <class>advérbio</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>1) logo então, naquele ponto, logo nesse ponto, bem nesse momento:</pt>
+                </translation>
+                <example>
+                    <tp>A'eîbé osóbo.</tp>
+                    <pt>Logo então houvera de ir.</pt>
+                    <src>(Fig., Arte, 163)</src>
+                </example>
+                <example>
+                    <tp>A'eîbépe ybŷá cruz mo'ami i atykábo?</tp>
+                    <pt>Logo então a cruz ergueram, fincando-a?</pt>
+                    <src>(Ar., Cat., 62)</src>
+                </example>
+                <example>
+                    <tp>A'eîbémo osóbo.</tp>
+                    <pt>Logo então foi.</pt>
+                    <src>(Fig., Arte, 1 63)</src>
+                </example>
+                <example>
+                    <tp>A'eîbé korite'i-aíb-eté serasóû aûîeramanhẽ tatápe.</tp>
+                    <pt>Logo então, muito rapidamente, levou-o parasempre para o fogo.</pt>
+                    <src>(Ar., Cat, 1 59v)</src>
+                </example>
+                <example>
+                    <tp>...A'eîbé Pilatos supé oîerekûabamo...</tp>
+                    <pt>...Bem nesse momento perdoou a Pilatos...</pt>
+                    <src>(Ar., Cat., 59)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>2) ainda, mesmo:</pt>
+                </translation>
+                <example>
+                    <tp>A'ebé kori... i mbo'ane.</tp>
+                    <pt>Ainda hoje fazendo-os cair.</pt>
+                    <src>{Anch., Teatro, 146, 2006)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>3) da mesma maneira</pt>
+                    <src>(Fig., Arte, 148)</src>
+                </translation>
+            </case>
+        </meaning>
+        <source>65,131,113,112</source>
+    </a>
+    <a>
+        <id>105</id>
+        <word>a'eîpomã</word>
+        <class>conjunção</class>
+        <meaning>
+            <comments>(ou a'eiponomã)</comments>
+            <case>
+                <translation>
+                    <pt>se não fosse (tudo estaria bem):</pt>
+                </translation>
+                <example>
+                    <tp>Ahẽ ruraba a'eîponomã...</tp>
+                    <pt>Se não fosse a vinda do fula no...</pt>
+                    <src>(VLB, II, 1 16)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>106</id>
+        <word>a'eîponomã</word>
+        <class>conjunção</class>
+        <meaning>(ver) a'eîpomã</meaning>
+        <source>65</source>
+    </a>
+    <a>
+        <id>107</id>
+        <word>a'ekeîbé</word>
+        <class>partícula</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>logo então</pt>
+                    <src>(VLB, II, 24)</src>
+                </translation>
+            </case>
+        </meaning>
+        <source>65</source>
+    </a>
+    <a>
+        <id>107</id>
+        <word>aembé</word>
+        <class>substantivo</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>(r, s) - corte, fio (de faca, machado etc.):</pt>
+                </translation>
+                <example>
+                    <tp>aembé-korõfa</tp>
+                    <pt>fio embotado</pt>
+                    <src>(VLB, I, 44)</src>
+                </example>
+                <example>
+                    <pt>[adj: aembé (r, s)] - afiado (p.ex., faca)</pt>
+                    <src>(VLB, I, 27)</src>
+                </example>
+                <example>
+                    <tp>Saembé.</tp>
+                    <pt>Ela está afiada.</pt>
+                    <src>(VLB, I, 83)</src>
+                </example>
+            </case>
+            <note>
+            NOTA - Daí, no P.B. (S. e MT), ITAIMBÉ, ITAMBÉ, TAIMBÉ (itá + aembé, "pedras afiadas"), despenhadeiro, precipício; monte agudo e escarpado (in Dicion. Caldas Aulete). Daí, também, o nome geográfico ITAMBÉ (BA)
+            </note>
+        </meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>108</id>
+        <word>aembe'e</word>
+        <class>verbo transitivo</class>
+        <meaning>
+            <comments>(s)</comments>
+            <case>
+                <translation>
+                    <pt>aguçar, afiar, amolar (faca):</pt>
+                </translation>
+                <example>
+                    <tp>Asaembe'e.</tp>
+                    <pt>Afio-a.</pt>
+                    <src>(VLB, I, 27)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,169</source>
+    </a>
+    <!--a>
+        <id>109</id>
         <word></word>
         <class></class>
         <meaning></meaning>
