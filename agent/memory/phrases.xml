@@ -12,9 +12,7 @@
         <pt>A dança é que é boa</pt>
     </entry>
 
-    <!-- MMTA - Lesson 1 -->
-
-    <!-- Ex. 1 -->
+    <!-- MMTA - Lesson 1 Ex. I -->
     <entry>
         <id>2</id>
         <tp>Ixé agûapyk</tp>
@@ -260,6 +258,8 @@
         <tp>A'e opererek</tp>
         <pt>Eles pulam</pt>
     </entry>
+
+    <!-- MMTA - Lesson 1 Ex. II -->
     <entry>
         <id>52</id>
         <tp>Nhoesembépe apytá.</tp>
@@ -470,9 +470,126 @@
         <tp>- Abápe y' kûápe oîkó? - Peró 'y kûápe oîkó.</tp>
         <pt> - Quem está na enseada do rio? - Os portugueses estão na enseada do rio.</pt>
     </entry>
+
+    <!-- MMTA - Lesson 1 Ex. III -->
     <entry>
         <id>94</id>
+        <tp>Mamõpe erepytá?</tp>
+        <pt>Onde ficaste?</pt>
+    </entry>
+    <entry>
+        <id>95</id>
+        <tp>Apytá 'Ypa'ũgûasupe.</tp>
+        <pt>Fiquei na Ilha Grande.</pt>
+    </entry>
+    <entry>
+        <id>96</id>
+        <tp>Abápe osó siri 'ype?</tp>
+        <pt>Quem vai para o rio dos siris?</pt>
+    </entry>
+    <entry>
+        <id>97</id>
+        <tp>Pedro osó siri 'ype.</tp>
+        <pt>Pedro vai para o rio dos siris.</pt>
+    </entry>
+    <entry>
+        <id>98</id>
+        <tp>Îakaré 'ype apytá.</tp>
+        <pt>Fico no rio dos jacarés.</pt>
+    </entry>
+    <entry>
+        <id>99</id>
+        <tp>Mamõpe peîkó?</tp>
+        <pt>Onde morais?</pt>
+    </entry>
+    <entry>
+        <id>100</id>
+        <tp>Îaîkó Nhoesembépe.</tp>
+        <pt>Moramos em Porto Seguro.</pt>
+    </entry>
+    <entry>
+        <id>101</id>
+        <tp>Mamõpe eresó?</tp>
+        <pt>Onde vais?</pt>
+    </entry>
+    <entry>
+        <id>102</id>
+        <tp>Asó Paragûasupe.</tp>
+        <pt>Vou para Paraguaçu.</pt>
+    </entry>
+    <entry>
+        <id>103</id>
+        <tp>Mamõpe ereîkó?</tp>
+        <pt>Onde moras?</pt>
+    </entry>
+    <entry>
+        <id>104</id>
+        <tp>Aîkó 'Ypa'ũgûasupe.</tp>
+        <pt>Moro em Ilha Grande.</pt>
+    </entry>
+    <entry>
+        <id>105</id>
+        <tp>Abápe opytá São Vicentepe?</tp>
+        <pt>Quem ficou em São Vicente?</pt>
+    </entry>
+    V<entry>
+        <id>106</id>
+        <tp>Maria São Vicentepe opytá.</tp>
+        <pt>Maria ficou em São Vicente.</pt>
+    </entry>
+    <entry>
+        <id>107</id>
+        <tp>Abápe osem ygarusu suí?</tp>
+        <pt>Quem saiu do navio?</pt>
+    </entry>
+    <entry>
+        <id>108</id>
+        <tp>Peró ygarusu suí osem.</tp>
+        <pt>O português saiu do navio</pt>
+    </entry>
+    <entry>
+        <id>109</id>
+        <tp>Abápe opytá 'y kûápe?</tp>
+        <pt>Quem ficou na enseada do rio?</pt>
+    </entry>
+    <entry>
+        <id>110</id>
+        <tp>Abá 'y kûápe opytá.</tp>
+        <pt>O índio ficou na enseada do rio.</pt>
+    </entry>
+    <entry>
+        <id>111</id>
+        <tp>Abápe oîkó Nhoesembépe?</tp>
+        <pt>Quem está em Porto Seguro?</pt>
+    </entry>
+    <entry>
+        <id>112</id>
+        <tp>Peró Nhoesembépe oîko.</tp>
+        <pt>O português está em Porto Seguro.</pt>
+    </entry>
+    <entry>
+        <id>113</id>
+        <tp>Mamõpe pepytá?</tp>
+        <pt>Onde ficais?</pt>
+    </entry>
+    <entry>
+        <id>114</id>
+        <tp>Siri 'ype îapytá.</tp>
+        <pt>Ficamos no rio dos siris.</pt>
+    </entry>
+    <entry>
+        <id>115</id>
+        <tp>Abápe osykyế?</tp>
+        <pt>Quem tem medo?</pt>
+    </entry>
+    <entry>
+        <id>116</id>
+        <tp>Maria osykyîé.</tp>
+        <pt>maria tem medo.</pt>
+    </entry>
+    <!--entry>
+        <id>117</id>
         <tp></tp>
         <pt></pt>
-    </entry>
+    </entry-->
 </root>

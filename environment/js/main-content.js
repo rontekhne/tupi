@@ -124,8 +124,8 @@ function showPhraseById(index) {
 }
 
 function showMainContent() {
-    var randomNumberWord = getRandomNumber(0, 27);
-    var randomNumberPhrase = getRandomNumber(0, 93);
+    var randomNumberWord = getRandomNumber(0, 112);
+    var randomNumberPhrase = getRandomNumber(0, 116);
     
     showWordById(randomNumberWord);
     showPhraseById(randomNumberPhrase);

@@ -3287,10 +3287,10 @@
                 </translation>
             </case>
         </meaning>
-        <source>65</source>
+        <source>65,169</source>
     </a>
     <a>
-        <id>107</id>
+        <id>108</id>
         <word>aembé</word>
         <class>substantivo</class>
         <meaning>
@@ -3320,7 +3320,26 @@
         <source>65,169</source>
     </a>
     <a>
-        <id>108</id>
+        <id>109</id>
+        <word>a'embé</word>
+        <class>verbo transitivo</class>
+        <meaning>
+            <comments>(s)</comments>
+            <case>
+                <translation>
+                    <pt>torrar (como o milho no alguidar):</pt>
+                </translation>
+                <example>
+                    <tp>Asa'embé.</tp>
+                    <pt>Torrei-o.</pt>
+                    <src>(VLB, II, 133)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>110</id>
         <word>aembe'e</word>
         <class>verbo transitivo</class>
         <meaning>
@@ -3338,8 +3357,64 @@
         </meaning>
         <source>65,169</source>
     </a>
+    <a>
+        <id>111</id>
+        <word>a'emo</word>
+        <class>conjunção</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>para que:</pt>
+                </translation>
+                <example>
+                    <tp>... Xe porangeté temomã, a'emo abá xe potari...</tp>
+                    <pt>... Oxalá eu esteja muito bela, para que os homens me desejem.</pt>
+                    <src>(Ar., Cat., 7 1 )</src>
+                </example>
+                <example>
+                    <tp>Xe îar, na xe angaturami ã a'emo ereîké xe py'ape.</tp>
+                    <pt>Meu senhor, eis que eu não sou digno para que entres em meu coração.</pt>
+                    <src>(Ar., Cat., 86v)</src>
+                </example>
+                <example>
+                    <tp>A'u temõ mba'eaíba mã, a'emo nhẽ xe re'õú...</tp>
+                    <pt>Ah, quem me dera comer veneno para que eu morresse ...</pt>
+                    <src>(Anch., Doutr. Cristã, II, 102)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,113,110</source>
+    </a>
+    <a>
+        <id>112</id>
+        <word>a'emo</word>
+        <class>partícula</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>1) E com tudo isso?:</pt>
+                </translation>
+                <example>
+                    <tp>A'emo eresó?</tp>
+                    <pt>E, com tudo isso, vais?</pt>
+                    <src>(Fig., Arte, 137)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>2) Por que haveria de? Por que razão haveria de?:</pt>
+                </translation>
+                <example>    
+                    <tp>A'emop'ixé serasó-a'ubi é?</tp>
+                    <pt>Por que haveria eu de o levar?</pt>
+                    <src>(VLB, II, 82)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,131,169</source>
+    </a>
     <!--a>
-        <id>109</id>
+        <id>113</id>
         <word></word>
         <class></class>
         <meaning></meaning>
