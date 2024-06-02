@@ -3413,8 +3413,58 @@
         </meaning>
         <source>65,131,169</source>
     </a>
-    <!--a>
+    <a>
         <id>113</id>
+        <word>a'emopeé</word>
+        <class>partícula</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>bem arrumado estaria se (quem fizesse, dissesse etc. Com a'ubi):</pt>
+                </translation>
+                <example>
+                    <tp>A'emopeé ixé serasó-a'ubi é.</tp>
+                    <pt>Eu estaria bem arrumado se o levasse.</pt>
+                    <src>(VLB, I, 54)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>114</id>
+        <word>a'enipó</word>
+        <class>partícula</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>(ou a'enipoaé, a'enipó com ra'e no final do período) - e parece que:</pt>
+                </translation>
+                <example>
+                    <tp>A'enipó (abá) pûari sesé ra'e.</tp>
+                    <pt>E parece que o homem bateu nele.</pt>
+                    <src>(VLB, I, 120, adapt.)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>115</id>
+        <word>a'eno</word>
+        <class>partícula</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>senão que, se não fosse</pt>
+                    <src>(VLB, II, 116)</src>
+                </translation>
+            </case>
+        </meaning>
+        <source>65</source>
+    </a>
+    <!--a>
+        <id>116</id>
         <word></word>
         <class></class>
         <meaning></meaning>

@@ -55,7 +55,7 @@ function showWordById(index) {
             var meaningFor = document.createElement('p');
             meaningFor.className = 'meaning';
             var meaningText = meaningElement.innerHTML
-                .replace(/&amp;#xA;/g, "\n")
+                .replace(/&amp;#xA;/g, "&")
                 .replace(/<tp>(.*?)<\/tp>/g, "<b>$1</b>")
                 .replace(/\n/g, "<br>");
             meaningFor.innerHTML = meaningText;
