@@ -3463,8 +3463,286 @@
         </meaning>
         <source>65</source>
     </a>
-    <!--a>
+    <a>
         <id>116</id>
+        <word>a'epe</word>
+        <class>advérbio</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>1) ali, aí (Fig., Arte, 129):</pt>
+                </translation>
+                <example>
+                    <tp>Setama rera Mboîy, a'epe i moîypa, i gûabo.</tp>
+                    <pt>O nome da terra deles é Mboijy, ali assando-os e comendo-os.</pt>
+                    <src>(Anch., Teatro, 140)</src>
+                </example>
+                <example>
+                    <tp>...A'epe kunhãmuku repenhana, i potasápe.</tp>
+                    <pt>...Ali atacando as moças, por desejá-las.</pt>
+                    <src>(Anch., Teatro, 34)</src>
+                </example>
+                <example>
+                    <tp>...Opabenhẽ serã erimba'e a'epe tekoara iî a'o-îa'oû...?</tp>
+                    <pt>...Por acaso todos os que estavam ali ficaram a injuriá-lo...?</pt>
+                    <src>(Ar., Cat., 56v)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>2) para ali, para lá:</pt>
+                </translation>
+                <example>
+                    <tp>...a'epe o só îanondé...</tp>
+                    <pt>...antes de irem para lá...</pt>
+                    <src>(Ar., Cat., 248, 1686)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <pt>3) por ocasião disso, então:</pt>
+                </translation>
+                <example>
+                    <tp>Marãpe Herodes serekó-ukari a'epe?</tp>
+                    <pt>Como Herodes mandou tratá-lo então?</pt>
+                    <src>(Anch., Diál. da Fé, 181)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,131,112,113,107</source>
+    </a>
+    <a>
+        <id>117</id>
+        <word>a'epe</word>
+        <class>partícula</class>
+        <meaning> 
+            <comments>(ver) a'e</comments>
+        </meaning>
+        <source>65</source>
+    </a>
+    <a>
+        <id>118</id>
+        <word>a'epûerabé</word>
+        <class>conjunção</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>desde então</pt>
+                    <src>(VLB, I, 97)</src>
+                </translation>
+            </case>
+        </meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>119</id>
+        <word>a'epûerype</word>
+        <class>conjunção</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>desde então:</pt>
+                </translation>
+                <example>
+                    <tp>Nd'e'i te'e Tupã nde pe'abo, a'epûerype tatá aûîerama nde rapŷabo.</tp>
+                    <pt>Por isso mesmo Deus te repeliu, desde então o fogo para sempre queimando-te.</pt>
+                    <src>(Anch., Teatro, 18)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,112</source>
+    </a>
+    <a>
+        <id>120</id>
+        <word>a'erame'ĩ</word>
+        <class>partícula</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>e outro tanto, e da mesma maneira, e igualmente, e do mesmo modo:</pt>
+                </translation>
+                <example>
+                    <tp>...I mbo'a tiruã, i mbo'ar' e'ymebé, a'erame'ĩ i mbo'ar'iré, omarane'ymamo.</tp>
+                    <pt>...Estando virgem, mesmo dando-o à luz, antes de dá-lo à luz e, igualmente, após dá-lo à luz.</pt>
+                    <src>(Ar., Cat. , 35)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,113</source>
+    </a>
+    <a>
+        <id>121</id>
+        <word>a'ereme</word>
+        <class>advérbio</class>
+        <meaning>
+            <comments>(etim. - por ocasião disso)</comments>
+            <case>
+                <translation>
+                    <pt>nesse tempo, naquele tempo, então:</pt>
+                </translation>
+                <example>
+                    <tp>A'ereme amõ aîukáne...</tp>
+                    <pt>Então matarei alguns...</pt>
+                    <src>(Anch., Poemas, 156)</src>
+                </example>
+                <example>
+                    <tp>A'ereme oín uman São João Batista o sy rygépe.</tp>
+                    <pt>Então já estava São João Batista no ventre de sua mãe.</pt>
+                    <src>(Ar., Cat., 6v)</src>
+                </example>
+                <example>
+                    <tp>T'îaîuká xe mena, ... a'ereme t'îamendar îandé îoesé.</tp>
+                    <pt>Matemos meu marido e, então, casemos um com o outro.</pt>
+                    <src>(Ar., Cat. , 279)</src>
+                </example>
+                <example>
+                    <tp>Aîuká umã a'ereme.</tp>
+                    <pt>Já eu, então, tinha matado.</pt>
+                    <src>(Fig., Arte, 14)</src>
+                </example>
+            </case>
+            <case>
+                <translation>
+                    <tp>a'ereme é</tp>
+                    <pt>bem então</pt>
+                    <src>(Fig., Arte, 129)</src>
+                </translation>
+            </case>
+            <case>
+                <translation>
+                    <tp>a'ereme bé</tp>
+                    <pt>logo então</pt>
+                    <src>(VLB, II, 24)</src>
+                </translation>
+            </case>
+        </meaning>
+        <source>65,111,113,131,169</source>
+    </a>
+    <a>
+        <id>122</id>
+        <word>a'eserãne</word>
+        <class>partícula</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>e parece, segundo isso</pt>
+                    <tp>a'eserãne ... ra'e (| a'eserãn'ipó ... ra'e)</tp>
+                </translation>
+            </case>
+            <case>
+                <translation>
+                    <pt>e parece, segundo isso:</pt>
+                </translation>
+                <example>
+                    <tp>A'eserãn'ipó (abá) pûari sesé ra'e.</tp>
+                    <pt>E parece, segundo isso, que o homem bateu nele.</pt>
+                    <src>(VLB, I, 120)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>123</id>
+        <word>aeté</word>
+        <class>substantivo</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>fineza (em bondade ou maldade); cousa fina; (adj.) - fino, aprimorado, bem feito, muito bom:</pt>
+                </translation>
+                <example>
+                    <tp>Iî aeté.</tp>
+                    <pt>Ele é fino</pt>
+                </example>
+                <example>
+                    <tp>Xe aeté.</tp>
+                    <pt>Eu sou fino.</pt>
+                    <src>(VLB, I, 1390)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>124</id>
+        <word>ãgûa</word>
+        <class>demonstrativo pronomial</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>ele (s, a, as) ; esse (s, a, as); aquele (s, a, as), isso, aquilo (principalmente no plural):</pt>
+                    <src>(VLB, I, 109)</src>
+                </translation>
+                <example>
+                    <tp>Pekûaî ãgûa amõ sema repîaka.</tp>
+                    <pt>Ide para ver sair alguns deles. (Camarões) (o mesmo que ãûa - v.)</pt>
+                </example>
+            </case>
+        </meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>125</id>
+        <word>agûá</word>
+        <class>substantivo</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>altibaixos</pt>
+                    <src>(VLB, I, 33)</src>
+                </translation>
+            </case>
+        </meaning>
+        <source>65,169</source>
+    </a>
+    <a>
+        <id>126</id>
+        <word>agûaí</word>
+        <class>substantivo</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>1) AGUAÍ, arbusto da família das apocináceas [Thevetia ahoua (L.) A. DC.], com flores amarelo-pálidas e com látex e sementes venenosos. É também chamado AGAÍ, AUAÍ, cascaveleira, tingui-de-leite;</pt>
+                </translation>
+            </case>
+            <case>
+                <translation>
+                    <pt>2) nome de sua fruta, de cuja casca faziam-se colares</pt>
+                    <src>(Marcgrave, Hist. Nat. Eras., 271; VLB, I, 68)</src> 
+                </translation>
+            </case>
+            <nota>
+                NOTA - Daí, os nomes geográficos AGUAÍ (SP), AUAÍ (AM) etc.
+            </nota>
+        </meaning>
+        <source>65,150,169</source>
+    </a>
+    <a>
+        <id>127</id>
+        <word>agûãî</word>
+        <class>verbo transitivo</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>morder com as gengivas, abocanhar sem morder (como a criança sem dentes):</pt>
+                </translation>
+                <example>
+                    <tp>Anhagûãî.</tp>
+                    <pt>Mordo-a (com as gengivas).</pt>
+                    <src>(VLB, I, 18)</src>
+                </example>
+                <example>
+                    <tp>Anhagûã-nhagûãî.</tp>
+                    <pt>Fico-o mastigando (sem dentes).</pt>
+                    <src>(VLB, II, 33)</src>
+                </example>
+            </case>
+        </meaning>
+        <source>65,169</source>
+    </a>
+    <!--a>
+        <id>128</id>
         <word></word>
         <class></class>
         <meaning></meaning>
