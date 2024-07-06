@@ -3741,8 +3741,22 @@
         </meaning>
         <source>65,169</source>
     </a>
-    <!--a>
+    <a>
         <id>128</id>
+        <word>agûaîá</word>
+        <class>substantivo</class>
+        <meaning>
+            <case>
+                <translation>
+                    <pt>nome de um mamífero</pt>
+                    <src>(Theat. Rer. Nat. Bras. , II, 26)</src>
+                </translation>
+            </case>
+        </meaning>
+        <source>65,162</source>
+    </a>
+    <!--a>
+        <id>129</id>
         <word></word>
         <class></class>
         <meaning></meaning>
